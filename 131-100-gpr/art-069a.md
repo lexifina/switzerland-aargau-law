@@ -1,0 +1,3 @@
+# § 69a Beschwerdeantwort
+1 Die Rechtsmittelinstanz stellt der Gegenpartei die Beschwerde zur schriftlichen Stellungnahme zu, es sei denn, die Beschwerde sei offensichtlich unzulässig oder offensichtlich unbegründet.
+2 Für die Beschwerdeantwort gilt die gleiche Frist wie für die Beschwerde.
