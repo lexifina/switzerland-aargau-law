@@ -1,0 +1,23 @@
+633.050
+Vereinbarung
+der Regierungen des Kantons Aargau und der
+Republik und des Kantons Jura betreffend
+Gegenrechtserklärungen über Befreiung von der
+Erbschafts- und Schenkungssteuer
+Vom 29. Dezember 1978/5. März 1979
+Der Regierungsrat des Kantons Aargau
+beschliesst:
+Dem Vorschlag vom 29. Dezember 1978 des Regierungsrates der Republik
+und des Kantons Jura, die Gegenrechtserklärungen der Regierungen der
+Kantone Aargau und Bern betreffend Befreiung von der Erbschafts- und
+Schenkungssteuer vom 15./25. Juni 1939 1) auch im Verhältnis zu Republik
+und Kanton Jura anzuwenden, wird zugestimmt.
+Aarau, den 5. März 1979
+Regierungsrat Aargau
+Landammann:
+SCHMID
+Staatsschreiber:
+SIEBER
+AGS Bd. 10 S. 18
+1) Nicht in der AGS publiziert.
+1
