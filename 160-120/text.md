@@ -1,0 +1,17 @@
+160.120
+Dekret über die Form der Inpflichtnahmen
+Vom 02.07.2002
+Der Grosse Rat des Kantons Aargau,
+gestützt auf § 74 der Kantonsverfassung sowie § 8 Abs. 2 des Gesetzes über die Grundzüge des Personalrechts (Personalgesetz, PersG) vom 16. Mai 2000,
+beschliesst:
+§ 1
+1 Für diejenigen Personen, die mündlich in Pflicht zu nehmen sind, lautet die Gelöbnisformel: «Ich gelobe, zum Wohl der Gemeinschaft Verfassung und Gesetz zu befolgen sowie die Pflichten meines Amtes gewissenhaft zu erfüllen.»
+2 Das Gelöbnis wird durch das Nachsprechen der Worte «Ich gelobe es» abgelegt.
+3 Bei der schriftlichen Inpflichtnahme ist folgende Formulierung in den Anstellungsvertrag aufzunehmen: «Mit der Unterzeichnung dieses Vertrages verpflichtet sich die Mitarbeiterin beziehungsweise der Mitarbeiter, zum Wohl der Gemeinschaft Verfassung und Gesetz zu befolgen sowie die Amtspflichten gewissenhaft zu erfüllen.»
+4 Bei Wiederwahl und Übernahme einer neuen Funktion innerhalb der kantonalen Verwaltung entfällt eine Inpflichtnahme.
+§ 2
+1 Die Verordnung über die Form der Inpflichtnahme vom 27. November 1885 und das Dekret über die Form der Inpflichtnahme für Behörden und Beamte von Kanton und Gemeinden (Inpflichtnahmedekret) vom 20. August 1991 sind aufgehoben.
+Aarau, 2. Juli 2002
+Präsident des Grossen Rates Müller Staatsschreiber Pfirter
+Inkrafttreten: 1. Januar 2003
+2002 S. 394
