@@ -1,0 +1,10 @@
+197.100
+Tagsatzungsbeschluss über den Eidgenössischen Bettag
+Vom 01.08.1832
+§ 1
+1 Der gemeineidgenössische Dank-, Buss- und Bettag soll künftig, und zwar mit dem gegenwärtigen Jahr (1832) angefangen, in allen Ständen der Eidgenossenschaft immer gleichzeitig am dritten Sonntag des Septembers gefeiert werden.
+§ 2
+1 Der eidgenössische Vorort wird beauftragt, diese Schlussnahme unverweilt sämtlichen Ständen mit der Einladung zur Kenntnis zu bringen, die angemessenen Anordnungen zu treffen, auf dass derselben überall genau nachgelebt werde.
+Zürich, den 1. August 1832
+Der eidgenössische Kanzler Am Rhyn
+Bd. 1 S. 39
