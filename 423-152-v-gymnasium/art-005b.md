@@ -1,0 +1,5 @@
+# § 5b Promotionsfächer
+1 Promotionswirksam in der 1., 2. und 3. Klasse des Gymnasiums sind die obligatorischen Fächer gemäss Stundentafel (Anhang 1a). Davon ausgenommen ist die Maturitätsarbeit.
+2 Promotionswirksam in der 1., 2. und 3. Klasse des zweisprachigen Lehrgangs mit International Baccalaureate (IB) Diploma Programme sind die obligatorischen Fächer gemäss Stundentafel (Anhang 2a). Davon ausgenommen sind die Maturitätsarbeit und die zusätzlichen IB-Fächer.
+3 Promotionswirksam in der 1., 2., 3. und 4. Klasse des Lehrgangs für Leistungssportlerinnen und Leistungssportler sind die obligatorischen Fächer gemäss Stundentafel (Anhang 4a). Davon ausgenommen ist die Maturitätsarbeit.
+4 Die Zeugnisnote im Grundlagen-, im Schwerpunkt- und im allfälligen Ergänzungsfach Musik mit Instrumentalunterricht wird aus dem Mittel der Note des Musikunterrichts und der Note des Instrumentalunterrichts gebildet. Ergibt das Mittel der Noten einen Viertelswert, wird bei der Zeugnisnote auf die nächsthöhere halbe oder ganze Zahl gerundet.
