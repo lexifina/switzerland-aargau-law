@@ -1,0 +1,2 @@
+# § 18b Übergangsrecht zur Änderung vom 1. Juli 2026
+1 Bei der Ermittlung des bereinigten Ergebnisses gemäss § 13 ist das Gesamtergebnis der einzelnen Jahre so zu berechnen, als ob die im Auszahlungsjahr geltenden Regeln für den Soziallastenausgleich und den räumlich-strukturellen Lastenausgleich bereits angewendet worden wären. Dies gilt, soweit die massgebenden Daten gemäss § 12 Abs. 4 FiAG aus Jahren stammen, in denen die Änderungen vom 2. Juni 2026 des Finanzausgleichsgesetzes und des Finanzausgleichsdekrets noch nicht oder nicht vollständig finanzwirksam waren.
