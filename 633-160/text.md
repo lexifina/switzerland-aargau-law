@@ -1,0 +1,56 @@
+633.160
+Vereinbarung
+zwischen den Regierungsräten der
+Kantone Aargau und Thurgau betreffend
+Befreiung von der Erbschaftssteuer
+Vom 31. Oktober/22. November 1932
+Die Regierungsräte der Kantone Aargau und Thurgau
+erklären sich gegenseitig damit einverstanden, dass Vermögenszuwen-
+dungen durch letztwillige Verfügungen und Schenkungen von Einwohnern
+des einen Kantons zu Gunsten nachgenannter öffentlicher Gemeinwesen
+und privater Institutionen des andern Kantons und im nachbezeichneten
+Umfange am Wohnorte des Erblassers oder Schenkgebers von der
+Erbschaftssteuer oder entsprechenden Abgaben befreit sein sollen:
+Gänzliche Steuerfreiheit:
+1.
+an den Kanton;
+2.
+an die Einwohner-, Ortsbürger-, Munizipal-, Schul- und Kirch-
+gemeinden, soweit es sich um allgemeine Wohlfahrts-, Bildungs- und
+Kultuszwecke handelt;
+3.
+an die staatlich unterstützten wohltätigen Anstalten mit Sitz im andern
+Kanton.
+Steuerfreiheit für einen Betrag von Fr. 10'000.–:
+1.
+an die Einwohner-, Ortsbürger-, Munizipal-, Schul- und Kirch-
+gemeinden, soweit nicht gänzliche Steuerfreiheit besteht;
+2.
+an die staatlich anerkannten Landeskirchen;
+3.
+an gemeinnützige und wohltätige Institutionen mit Sitz im andern
+Kanton.
+In diesen letztern Fällen werden mehrfache Zuwendungen des gleichen
+Erblassers oder Schenkers zusammengerechnet.
+AGS 1996 S. 225
+1
+633.160
+Befreiung von der Erbschafts- und Schenkungssteuer
+2
+Diese Vereinbarung ist vom Tage der beidseitigen Unterzeichnung an
+rechtswirksam und gilt rückwirkend bis zum 1. Januar 1932.
+Die beiden Regierungen sind jederzeit unter Beobachtung einer Kündi-
+gungsfrist von sechs Monaten berechtigt, von der Vereinbarung zurück-
+zutreten.
+Aarau, den 31. Oktober 1932
+Namens des Regierungsrates
+Der Landammann:
+STUDLER
+Der Staatsschreiber:
+DR. W. HEUBERGER
+Frauenfeld, den 22. November 1932
+Namens des Regierungsrates
+Der Präsident:
+LEUTENEGGER
+Der Staatsschreiber:
+FISCH
