@@ -1,0 +1,15 @@
+995.011
+Grossratsbeschluss über den Abschluss der Vereinbarung betreffend den integralen Tarifverbund Nordwestschweiz (TNW) ab 1. Januar 1990
+Vom 12.09.1989
+Der Grosse Rat des Kantons Aargau
+beschliesst:
+Ziffer 1
+1 Es werden der Weiterführung des Tarifverbundes Nordwestschweiz (TNW) bis Ende 1993 zugestimmt und der Regierungsrat ermächtigt, die Vereinbarung zwischen den Schweizerischen Bundesbahnen, den Schweizerischen PTT-Betrieben, den Basler Verkehrsbetrieben, der Baselland Transport AG und den Kantonen Aargau, Basel-Landschaft, Basel-Stadt, Bern, Jura und Solothurn betreffend den integralen Tarifverbund Nordwestschweiz (TNW) abzuschliessen.
+Ziffer 2
+1 Dem Tarifverbund Nordwestschweiz (TNW) wird für die Abgabe des verbilligten Verbundabonnementes ein Kantonsbeitrag von Fr. 7.50 pro verkauftes Monatsabonnement, von Fr. 82.50 pro verkauftes Junioren-Jahresabonnement und von Fr. 90.– pro verkauftes Jahresabonnement gewährt, verbunden mit der Voraussetzung, dass die betreffende Gemeinde, in welcher der Bezüger eines Abonnementes Wohnsitz hat, ihrerseits die übrigen zwei Drittel des Staatsbeitrages, d.h. Fr. 15.– pro verkauftes Monatsabonnement, Fr. 165.– pro verkauftes Junioren-Jahresabonnement und Fr. 180.– pro verkauftes Jahresabonnement übernimmt.
+Ziffer 3
+1 Dieser Beschluss ist gemäss § 63 Abs. 1 lit. b und c der Kantonsverfassung dem fakultativen Referendum unterstellt.
+Aarau, den 12. September 1989
+Präsident des Grossen Rates: Widmer Staatsschreiber: i.V. Meier
+Ablauf der Referendumsfrist: 29. Dezember 1989
+Bd. 13 S. 217
