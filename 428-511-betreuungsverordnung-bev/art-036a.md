@@ -1,0 +1,3 @@
+# § 36a Spenden
+1 Die Verbuchung von Spendengeldern erfolgt nach den jeweils aktuellen IVSE-Richtlinien zur Leistungsabgeltung und zur Kostenrechnung.
+2 Spendengelder ohne einschränkende Zweckbestimmung können zur Kostentragung grösserer Vorhaben der Einrichtungen einbezogen werden. Ob beziehungsweise in welchem Umfang ein Einbezug stattfindet, wird zwischen der Trägerschaft der Einrichtung und dem Departement Bildung, Kultur und Sport ausgehandelt. Kommt keine Einigung zustande, legt das Departement den zur Leistungsabgeltung anrechenbaren Betrag des Kantons an die Kosten des Vorhabens der Einrichtung fest.
