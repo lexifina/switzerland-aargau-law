@@ -1,0 +1,1 @@
+Das vom Vorstand der Aargauischen Pensionskasse (APK) am 28. November 2007 beschlossene und vom Regierungsrat am 23. Januar 2008 genehmigte Personalreglement der Aargauischen Pensionskasse (APK) wird durch Verweisung publiziert. Der Erlass kann bei der Staatskanzlei und bei der Aargauischen Pensionskasse (APK) eingesehen und bezogen werden.
