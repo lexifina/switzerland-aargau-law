@@ -1,0 +1,1 @@
+Das vom Bankrat der Aargauischen Kantonalbank am 3. April 2008 beschlossene und vom Regierungsrat am 27. August 2008 genehmigte Personalreglement der Aargauischen Kantonalbank wird durch Verweisung publiziert. Der Erlass kann bei der Staatskanzlei und bei der Aargauischen Kantonalbank eingesehen und bezogen werden.
