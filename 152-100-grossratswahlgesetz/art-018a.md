@@ -1,0 +1,4 @@
+# § 18a Ergänzungswahl
+1 Kann ein frei gewordener Sitz nicht durch Nachrücken besetzt werden, können die Unterzeichner der Liste, welcher das ausgeschiedene Ratsmitglied angehörte, innerhalb einer von der Staatskanzlei angesetzten Frist einen Ersatzvorschlag einreichen. Dieser bedarf der Zustimmung von mindestens acht der seinerzeitigen Unterzeichner.
+2 Der von den Unterzeichnern der Liste für die Ergänzungswahl vorgeschlagene Kandidat wird, nach formeller Prüfung des Vorschlags, ohne Urnengang von der Staatskanzlei als gewählt erklärt.
+3 Machen die Unterzeichner der ursprünglichen Liste von ihrem Vorschlagsrecht keinen Gebrauch oder können sie sich nicht einigen, ordnet der Regierungsrat im betreffenden Wahlkreis einen öffentlichen Wahlgang an. Ist im Wahlkreis nur ein Sitz zu besetzen, gilt als gewählt, wer die meisten Stimmen erhalten hat. Bei gleicher Stimmenzahl entscheidet das Los.
