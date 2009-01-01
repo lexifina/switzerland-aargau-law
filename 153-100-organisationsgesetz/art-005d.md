@@ -1,0 +1,2 @@
+# § 5d Organisation der kantonalen Unfallversicherung
+1 Der Grosse Rat kann für die Unfallversicherung des kantonalen Personals, der vom Kanton ganz oder teilweise besoldeten Lehrerschaft und des Personals gemeinnütziger Institutionen sowie der Schülerinnen und Schüler bzw. Studentinnen und Studenten an aargauischen Lehranstalten durch Dekret eine eigene Organisation als selbständige öffentliche Anstalt mit eigener Rechtspersönlichkeit schaffen.

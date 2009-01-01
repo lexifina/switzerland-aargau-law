@@ -1,0 +1,4 @@
+# § 5b Organisation der beruflichen Vorsorge
+1 Der Grosse Rat kann für die Pensionskassen des kantonalen Personals und der Lehrkräfte der Volksschulen selbstständige öffentliche Anstalten mit eigener Rechtspersönlichkeit schaffen.
+2 Die Pensionskassen versichern im Sinne der beruflichen Vorsorge das Alter sowie die Risiken Invalidität und Tod der Mitarbeiterinnen und Mitarbeiter des Kantons und der Lehrkräfte an den Volksschulen. Die beiden Personalkategorien sind gleichwertig zu behandeln.
+3 Der Grosse Rat regelt Organisation, Verwaltung und Kontrolle der Anstalten sowie die Leistungen, die Finanzierung, das Verhältnis zu den Versicherten und Anspruchsberechtigten sowie die Frage der Aufnahme weiterer Arbeitgeber. Er kann diese Regelung teilweise den Organen der Anstalten überlassen. Die Regelungen der Anstalten bedürfen zu ihrer Gültigkeit der Genehmigung durch den Grossen Rat.
