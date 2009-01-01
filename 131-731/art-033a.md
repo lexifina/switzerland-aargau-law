@@ -1,0 +1,4 @@
+# § 33a Ergänzungswahl
+1 Kann ein frei gewordener Sitz nicht durch Nachrücken besetzt werden, können die Unterzeichnenden der Liste, welcher das ausgeschiedene Ratsmitglied angehörte, innerhalb einer durch das Wahlbüro angesetzten Frist einen Ersatzvorschlag einreichen. Dieser bedarf der Zustimmung von mindestens acht der seinerzeitigen Unterzeichnenden.
+2 Die von den Unterzeichnenden der Liste für die Ergänzungswahl vorgeschlagene Person wird, nach formeller Prüfung des Vorschlags, ohne Urnengang vom Wahlbüro als gewählt erklärt.
+3 Machen die Unterzeichnenden der ursprünglichen Liste von ihrem Vorschlagsrecht keinen Gebrauch oder können sie sich nicht einigen, ordnet der Gemeinderat im betreffenden Wahlkreis einen öffentlichen Wahlgang an. Ist im Wahlkreis nur ein Sitz zu besetzen, gilt als gewählt, wer die meisten Stimmen erhalten hat. Bei gleicher Stimmenzahl entscheidet das Los.
