@@ -1,0 +1,3 @@
+# § 19b Voraussetzungen und Umfang
+1 Voraussetzungen für die Ausrichtung der Natural- und Sachleistungen gemäss § 19a sind das Vorliegen eines ausdrücklichen Gesuchs sowie die Identifizierung der gesuchstellenden Person durch amtliche Dokumente oder allenfalls mit Hilfe der Daktyloskopie. Hievon kann nur abgesehen werden, wenn eine Person nicht handlungsfähig ist und sich in einer lebensbedrohlichen Situation befindet.
+2 …
