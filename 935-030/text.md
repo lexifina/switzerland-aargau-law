@@ -1,0 +1,48 @@
+935.030
+Übereinkunft betreffend die Ausübung der Fischerei in der Aare, soweit diese die Grenze zwischen den Kantonen Aargau und Solothurn bildet
+Vom 03.12.2008
+Zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Solothurn ist,
+gestützt auf Art. 24 des Bundesgesetzes über die Fischerei (BGF) vom 21. Juni 1991, § 20 des Gesetzes über die Ausübung der Fischerei vom 15. Mai 1862 und § 21 des solothurnischen Fischereigesetzes (FiG) vom 12. März 2008,
+folgende Übereinkunft beschlossen worden:
+1. Geltungsbereich
+§ 1
+1 Diese Vereinbarung regelt die Ausübung der Fischerei in der Aare, soweit sie die Grenze zwischen den Kantonen Aargau und Solothurn bildet.
+2. Ausübung der Fischerei
+§ 2
+1 Die Ausübung der Fischerei in der Aare von der Kantonsgrenze AG / BE abwärts bis zur Mündung des Mittibachs bei der Friedau in Murgenthal steht den Berechtigten beider Kantone gleichermassen offen. Für die übrige Grenzstrecke der Aare im Bereich des privaten Fischereirechts der Ortsbürgergemeinde Aarburg gilt die Mitte des Flussbetts (politische Grenze) als Grenze für die beidseitige Ausübung der Fischerei.
+§ 3
+1 Für die nachgenannten Fischarten gelten folgende Fangmindestmasse und Schonzeiten:
+Fischart | Fangmindestmass | Schonzeit
+Forelle | 28 cm | 01.10. bis 15.03.
+Äsche | 36 cm | 01.01. bis 15.05.
+Hecht | 45 cm | 01.03. bis 30.04.
+Flussbarsch (Egli) | kein | keine
+§ 4
+1 Für die nachgenannten Fischarten gelten folgende Fangzahlbeschränkungen:
+Fischart | Stücke pro Tag
+Forelle | 6
+Äsche | 2
+Hecht | 5
+§ 5
+1 Für Fischereiberechtigte beider Kantone bestehen für die Fischereiausübung keine jahres- und tageszeitlichen Beschränkungen.
+2 Für Freianglerinnen und Freiangler des Kantons Aargau und für Mitanglerinnen und Mitangler des Kantons Solothurn gelten nur die Bestimmungen der §§ 1–4, 7 sowie 9 dieser Übereinkunft.
+§ 6
+1 Im Stau von Ruppoldingen, vom Stauwehr bis zur militärischen Übersetzstelle in Boningen, darf die Hegene mit höchstens fünf Ködern verwendet werden. Wer im Besitz eines Sachkundenachweises ist, darf für die Hegenenfischerei im Stausee Angelhaken mit Widerhaken verwenden.
+2 Ansonsten dürfen gleichzeitig nur zwei Angelgeräte mit je höchstens zwei Ködern verwendet werden.
+3 Angelgeräte sind bei der Fischereiausübung dauernd zu beaufsichtigen.
+4 Es dürfen mit Ausnahme lebender Köderfische alle natürlichen oder künstlichen Köder verwendet werden.
+§ 7
+1 Sofern diese Vereinbarung nichts Besonderes festlegt, gelten für den Fischfang im aargauischen Teil des Grenzgewässers die aargauischen Fischereivorschriften und im solothurnischen Teil des Grenzgewässers die solothurnischen Fischereivorschriften.
+3. Bewirtschaftungsmassnahmen
+§ 8
+1 Die Fischereiverwaltungen beider Kantone können gemeinsam Bewirtschaftungsmassnahmen festlegen.
+4. Strafbestimmungen
+§ 9
+1 Zuwiderhandlungen gegen die Vorschriften dieser Übereinkunft werden nach den Strafbestimmungen des Bundesgesetzes über die Fischerei und der kantonalen Fischereigesetzgebungen bestraft.
+5. Schlussbestimmungen
+§ 10
+1 Diese Übereinkunft ist in der Gesetzessammlung zu publizieren. Sie tritt unter Vorbehalt der Genehmigung durch den Bund am 1. April 2009 in Kraft. Sie kann von beiden Kantonen jederzeit unter Einhaltung einer Kündigungsfrist von mindestens 6 Monaten auf das Ende eines Kalenderjahrs durch schriftliche Erklärung gekündigt werden.
+Aarau, 3. Dezember 2008 / Solothurn, 16. Dezember 2008
+Regierungsrat Aargau Landammann Beyeler Staatsschreiber Dr. Grünenfelder Regierungsrat des Kantons Solothurn Frau Landammann Gassler Staatsschreiber Eng
+Vom Bund genehmigt am: 18. Februar 2009
+AGS 2009 S. 26
