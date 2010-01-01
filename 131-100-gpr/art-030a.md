@@ -1,0 +1,4 @@
+# § 30a c) Wahl ohne Urnengang, Nachmeldefrist, Ergänzungswahl
+1 Sind weniger oder gleich viele wählbare Kandidatinnen oder Kandidaten vorgeschlagen, als zu wählen sind, ist mit der Publikation der Namen eine Nachmeldefrist von 5 Tagen anzusetzen, innert der neue Vorschläge eingereicht werden können.
+2 Übertrifft die Anzahl der Anmeldungen nach dieser Frist die Anzahl der zu vergebenden Sitze nicht, werden die Vorgeschlagenen von der anordnenden Behörde beziehungsweise vom Wahlbüro als in stiller Wahl gewählt erklärt.
+3 Für allenfalls noch zu vergebende Sitze ist eine Wahl an der Urne durchzuführen.
