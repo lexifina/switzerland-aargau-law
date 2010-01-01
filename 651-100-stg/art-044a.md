@@ -1,0 +1,3 @@
+# § 44a abis) Besteuerung der wiedereingebrachten Abschreibungen des Geschäftsvermögens
+1 Bei Kapitalgewinnen aus Geschäftsvermögen, die anlässlich der alters- oder gesundheitsbedingten Aufgabe eines Unternehmens oder Geschäftsbetriebes oder nach Ablauf eines Steueraufschubes erzielt werden, wird die Differenz zwischen den Anlagekosten und dem steuerlich massgebenden Buchwert für die Satzbestimmung zu einem Achtel angerechnet.
+2 Absatz 1 gilt auch für den überlebenden Ehegatten, die anderen Erben und die Vermächtnisnehmer, sofern sie das übernommene Unternehmen nicht mindestens fünf Kalenderjahre nach Ablauf des Todesjahres des Erblassers fortführen.
