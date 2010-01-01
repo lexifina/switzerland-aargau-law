@@ -1,0 +1,3 @@
+# § 21c Gestaltung
+1 Die Namen der angemeldeten Kandidaten sind mit den weiteren Angaben gemäss § 21b Abs. 2 und gegebenenfalls dem Vermerk «bisher» nach Anzahl Amtsjahren absteigend auf einem neutralen Informationsblatt aufzuführen. Bei gleicher Anzahl Amtsjahre und bei neu kandidierenden Personen entscheidet über die Reihenfolge jeweils das Alphabet.
+2 Das Informationsblatt ist den Stimmberechtigten zusammen mit dem Wahlzettel abzugeben. Es hat im ersten Wahlgang den Hinweis zu enthalten, dass nicht nur die angemeldeten, sondern alle Stimmbürger im Rahmen der gesetzlichen Bedingungen wählbar sind. Im zweiten Wahlgang ist der Vermerk anzubringen, dass nur die angemeldeten Stimmbürger wählbar sind.
