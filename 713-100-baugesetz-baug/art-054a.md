@@ -1,0 +1,5 @@
+# § 54a Kommunaler Gesamtplan Verkehr
+1 Die Gemeinde kann das Verkehrsaufkommen in einem Kommunalen Gesamtplan Verkehr mit den Verkehrskapazitäten und der Siedlungsentwicklung abstimmen. Er wird vom Gemeinderat beschlossen, vom zuständigen Departement genehmigt und ist behördenverbindlich.
+2 Ein Kommunaler Gesamtplan Verkehr ist erforderlich, wenn ein Parkleitsystem eingeführt, die Anzahl Parkfelder in einem Gebiet über § 56 hinaus begrenzt oder eine Bewirtschaftung der Parkfelder auf privatem Grund vorgeschrieben werden soll. Begrenzung und Bewirtschaftung werden in einem Nutzungsplan umgesetzt.
+3 Im Interesse der überkommunalen Abstimmung und zur Gewährleistung der Funktionsfähigkeit des kantonalen Strassennetzes kann der Regierungsrat den Gemeinderat zum Erlass eines mit den Zentrums- und Nachbargemeinden abgestimmten Kommunalen Gesamtplans Verkehr verpflichten.
+4 Der Kanton unterstützt die Erarbeitung des Kommunalen Gesamtplans Verkehr durch Beiträge. Der Grosse Rat bestimmt durch Dekret Voraussetzungen und Höhe der Beitragsleistungen.

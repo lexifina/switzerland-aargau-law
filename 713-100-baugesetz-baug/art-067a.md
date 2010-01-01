@@ -1,0 +1,4 @@
+# § 67a Erleichterte Ausnahmebewilligungen im Unterabstand von Strassen
+1 Für untergeordnete Bauten und Anlagen wie namentlich Klein- und Anbauten kann eine erleichterte Ausnahmebewilligung betreffend Abstände gegenüber Strassen oder Baulinien erteilt werden, sofern kein überwiegendes, aktuelles öffentliches Interesse entgegensteht.
+2 Bauten und Anlagen, die gestützt auf diese Bestimmung bewilligt worden sind, müssen vom Eigentümer auf erstmalige Aufforderung hin sowie auf eigene Kosten und entschädigungslos entfernt oder versetzt werden, wenn die überwiegenden Interessen eines öffentlichen Werkes es erfordern. In der Baubewilligung ist dies zur Auflage zu machen.
+3 Die Erteilung von erleichterten Ausnahmebewilligungen für Bauten und Anlagen an Kantonsstrassen bedarf der Zustimmung des zuständigen Departements.
