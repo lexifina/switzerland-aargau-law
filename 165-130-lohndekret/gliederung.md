@@ -6,6 +6,6 @@
 ## 6. Besondere Personalgruppen
 ## 7. Verweisungen aus anderen Erlassen
 ## 8. Lohnadministration
-## 9. Rechtsschutz
+## 9. …
 ## 10. Änderung von Erlassen
 ## 11. Schluss- und Übergangsbestimmungen

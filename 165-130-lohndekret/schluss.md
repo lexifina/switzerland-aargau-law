@@ -4,4 +4,4 @@ Gloor
 Staatsschreiber
 i.V. Meier
 Anhänge
-Anhang I: Lohnstufenplan Anhang II: Anhang II Anhang III: Überführungsregelungen
+Anhang I: Lohnstufenplan Anhang II : Anhang II Anhang III: Überführungsregelungen
