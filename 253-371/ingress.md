@@ -1,5 +1,5 @@
 # Verordnung über die Organisation des Jugendheims Aarburg
 Vom 21.01.2004
 Der Regierungsrat des Kantons Aargau,
-gestützt auf §§ 20 und 241 des Gesetzes über die Strafrechtspflege (Strafprozessordnung, StPO) vom 11. November 1958 und § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007,
+gestützt auf § 16 Abs. 2 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EG StPO) vom 16. März 2010 und § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007,
 beschliesst:
