@@ -6,7 +6,7 @@
 ## 4. Abschluss mit Fachmittelschulausweis
 ## 5. Fachmaturität
 ### 5.1. Pädagogik
-### 5.2. Gesundheit, Soziale Arbeit und Kommunikation
+### 5.2. Gesundheit, Soziale Arbeit, Kommunikation und Gestaltung
 #### 5.2.1. Praktikum
 #### 5.2.2. Fachmaturitätsarbeit
 #### 5.2.3. Bestehen
