@@ -5,4 +5,4 @@ Brogli
 Staatsschreiber
 Dr. Grünenfelder
 Anhänge
-Anhang I: Anhang I
+Anhang I : Pensenplan
