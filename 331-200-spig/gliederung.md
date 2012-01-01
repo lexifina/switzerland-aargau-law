@@ -4,7 +4,7 @@
 ### 3.1. Umwandlung der bisherigen Kantonsspitäler
 ### 3.2. Übrige Spitäler
 ## 4. Abgeltungen des Kantons
-### 4.1. Investitionen
+### 4.1. Übertragungen und Finanzierungshilfen
 ### 4.2. Leistungen
 ## 5. Finanzierung
 ## 6. Weitere Bestimmungen
