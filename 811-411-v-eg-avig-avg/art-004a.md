@@ -1,0 +1,4 @@
+# § 4a Vorübergehende Massnahmen
+1 Im Rahmen von befristeten Massnahmen zur Wiedereingliederung von Stellensuchenden in den Arbeitsmarkt, namentlich infolge Überlastung einzelner RAV-Standorte, kann der Regierungsrat temporäre RAV schaffen und Gemeinden in Abweichung von der Grundzuordnung einem temporären RAV zuweisen. Die Dauer der Massnahme und die Standorte der temporären RAV sowie die Umteilung und deren Aufhebung sind im Amtsblatt zu publizieren.
+2 Bei erheblichen Kapazitätsengpässen in einzelnen RAV kann das Departement Volkswirtschaft und Inneres zum vorübergehenden Belastungsausgleich einzelne Gemeinden mit deren Einverständnis für maximal sechs Monate einem anderen RAV zuordnen. Die Umteilung und deren Aufhebung sind im Amtsblatt zu publizieren.
+3 Bei erheblichen Kapazitätsengpässen in einzelnen RAV kann das AWA Stellensuchende in Abweichung von der Grundzuordnung einem temporären RAV beziehungsweise einem anderen RAV zuweisen.
