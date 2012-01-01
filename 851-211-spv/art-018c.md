@@ -2,4 +2,4 @@
 1 Auf der Basis der vorhandenen Erfahrungszahlen und den voraussehbaren Entwicklungen über die in den Gemeinden zu platzierenden Personen legt der Kantonale Sozialdienst jeweils per Anfang eines Quartals die Aufnahmequote als Richtgrösse fest. Er berücksichtigt dabei eine angemessene Auslastung der kantonalen Unterkünfte, indem er für die Berechnung der Aufnahmequote nur diejenige Zahl an Personen einsetzt, die auch tatsächlich in Gemeinden zugewiesen werden sollen.
 2 Per Ende eines Quartals errechnet der Kantonale Sozialdienst die Aufnahmequote anhand der effektiven Zahlen. Aus der Gegenüberstellung der so errechneten Aufnahmequote und der effektiven Erfüllung der Aufnahmepflicht ergibt sich die allenfalls zu leistende Ersatzabgabe.
 3 Personen in kantonalen Unterkünften werden der Standortgemeinde in Bezug auf die Erfüllung der Aufnahmequote angerechnet.
-4 Die Ersatzabgabe pro nicht aufgenommene Person beträgt Fr. 7.– pro Tag.
+4 Die Ersatzabgabe pro nicht aufgenommene Person beträgt Fr. 10.– pro Tag.
