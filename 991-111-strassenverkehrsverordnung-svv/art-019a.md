@@ -1,0 +1,5 @@
+# § 19a Weiterbildung
+1 Die Weiterbildung der Vertrauensärztinnen und Vertrauensärzte umfasst die für die Beurteilung der Fahreignung erforderlichen Teilgebiete aus insbesondere folgenden Themenbereichen: Strassenverkehrsrecht (medizinische Mindestanforderungen, Verfahrensabläufe usw.), Neurologie und Neuropsychologie, Psychiatrie, Ophtalmologie, Motorik, Kardiologie, Endokrinologie, Pneumologie, Diabetologie.
+2 Die Weiterbildung für die Stufe 1 dauert mindestens acht Stunden, diejenige für die Stufe 2 zusätzlich mindestens vier Stunden.
+3 Nach jeweils fünf Jahren ist eine zusätzliche Weiterbildung zu absolvieren. Diese dauert für die Stufe 1 mindestens acht Stunden, für die Stufe 2 mindestens zusätzlich vier Stunden.
+4 Die Weiterbildung der Vertrauensärztinnen und Vertrauensärzte wird vom Strassenverkehrsamt unter der fachlichen Aufsicht des Kantonsspitals Aarau, des Kantonsspitals Baden, der Psychiatrischen Dienste Aargau oder von anderen geeigneten medizinischen Institutionen durchgeführt.
