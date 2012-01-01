@@ -1,0 +1,2 @@
+# § 45a Übergangsbestimmung
+1 Schülerinnen und Schüler, die ihre Ausbildung vor dem oder im Schuljahr 2010/11 begonnen haben, können am Ende des Schuljahrs 2012/13 in die 3. Klasse des Gymnasiums übertreten, wenn sie in den Abschlussfächern einen Notendurchschnitt von mindestens 4,5 erreichen. Repetentinnen beziehungsweise Repetenten müssen am Ende des Schuljahrs 2013/14 in den vorerwähnten Fächern jedoch einen Notendurchschnitt von mindestens 5 erreichen, um in die 3. Klasse des Gymnasiums übertreten zu können.

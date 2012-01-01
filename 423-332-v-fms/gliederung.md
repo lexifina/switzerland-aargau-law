@@ -11,4 +11,4 @@
 #### 5.2.2. Fachmaturitätsarbeit
 #### 5.2.3. Bestehen
 ### 5.3. Gemeinsame Bestimmungen
-## 6. Schlussbestimmung
+## 6. Übergangs- und Schlussbestimmungen
