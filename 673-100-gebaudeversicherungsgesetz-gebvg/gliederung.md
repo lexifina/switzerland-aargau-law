@@ -5,7 +5,7 @@
 #### 2.2.1. Umfang
 #### 2.2.2. Gedeckte Schäden
 #### 2.2.3. Gegenstand und Höhe der Versicherung
-#### 2.2.4. Prämien
+#### 2.2.4. Prämien und Abgaben zur Schadenverhütung und -bekämpfung (Präventionsabgaben)
 #### 2.2.5. Pflichten im Schadenfall
 #### 2.2.6. Berechnung und Auszahlung der Entschädigung
 #### 2.2.7. Rückversicherung und Reserven
