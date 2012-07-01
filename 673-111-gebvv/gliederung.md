@@ -6,4 +6,4 @@
 ### 2.4. Pflichten im Schadenfall
 ### 2.5. Berechnung und Auszahlung der Entschädigung
 ## 3. Zusammenarbeit der Behörden
-## 4. Schlussbestimmungen
+## 4. Übergangs- und Schlussbestimmungen

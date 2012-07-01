@@ -1,0 +1,5 @@
+# § 4b Schäden durch Hochwasser, Überschwemmung (§ 12 Abs. 1 lit. c GebVG) und Grundwasser (§ 12 Abs. 2 lit. d GebVG)
+1 Hochwasser ist ein deutlich über dem langjährigen Mittelwert oder über den festgelegten Pegeln oder Abflussmengen liegender Wasserstand oder -abfluss in einem stehenden oder fliessenden Gewässer, der durch Niederschläge oder Schmelzwasser ausgelöst wurde.
+2 Überschwemmung ist die vorübergehende Bedeckung einer Landfläche mit Wasser, die direkt durch Niederschläge oder Schmelzwasser oder durch Hochwasser gemäss Absatz 1 ausgelöst wurde.
+3 Gedeckt sind auch Hochwasser- und Überschwemmungsschäden an Gebäuden als Folge von Präventionsmassnahmen, insbesondere Seenabsenkungen, selbst wenn diese ausserkantonal erfolgten, und auch dann, wenn sich die massgebende Vorhersage nicht verwirklichte.
+4 Unter Grundwasser wird alles Wasser verstanden, das sich unter der Erdoberfläche befindet, unabhängig davon, ob es sich um Wasser des Grundwasserstroms, um Hang- oder um Sickerwasser handelt.
