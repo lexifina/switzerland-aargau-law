@@ -5,4 +5,4 @@ Wertli
 Staatsschreiber
 Pfirter
 Anhänge
-Anhang I: Pauschale Reiseentschädigungen Lehrkräfte der Volksschule mit verschiedenen Schulorten Anhang II: Ansätze jährlicher Spesenpauschalen
+Anhang I: Pauschale Reiseentschädigungen Lehrkräfte der Volksschule mit verschiedenen Schulorten Anhang II : Ansätze jährlicher Spesenpauschalen
