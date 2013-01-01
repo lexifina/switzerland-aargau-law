@@ -1,4 +1,5 @@
 # § 3a Departement Gesundheit und Soziales
 1 …
 2 …
-3 Das Departement Gesundheit und Soziales kann mit dem Aargauischen Tierschutzverein bezüglich dessen Beratung von Privaten in Tierschutzfragen eine Leistungsvereinbarung abschliessen.
+3 Das Departement Gesundheit und Soziales (DGS) betreibt die Meldestelle für Tierfunde gemäss Art. 720a Abs. 2 des Schweizerischen Zivilgesetzbuches (ZGB) vom 10. Dezember 1907.
+4 Das DGS kann mit dem Aargauischen Tierschutzverein oder anderen geeigneten Dritten für Leistungen zugunsten des Tierschutzes Leistungsvereinbarungen abschliessen. Die Leistungsvereinbarungen regeln insbesondere Aufnahme, Pflege und Betreuung von vom Kanton beschlagnahmten Tieren, das Führen der Meldestelle für Tierfunde gemäss Art. 720a Abs. 2 ZGB, die Beratung von Privaten in Tierschutzfragen, die Aktion «Katzen kastrieren statt töten» und die Finanzierung.
