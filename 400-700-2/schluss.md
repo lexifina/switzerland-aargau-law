@@ -8,4 +8,4 @@ Von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren im Einvern
 Vom Bund genehmigt am 24. November 1994
 Inkrafttreten: 1. Januar 1995
 Anhänge
-Anhang 1: Anhang gemäss Art. 12ter Abs. 1
+Anhang 1 : Anhang gemäss Art. 12ter Abs. 1 IKV
