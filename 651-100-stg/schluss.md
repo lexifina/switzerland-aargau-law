@@ -4,4 +4,4 @@ Wernli
 Staatsschreiber
 i.V. Meier
 Anhänge
-Anhang 1: Einkommenssteuertarif
+Anhang 1 : Einkommenssteuertarif
