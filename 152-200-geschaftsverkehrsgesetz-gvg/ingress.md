@@ -1,4 +1,4 @@
-# Gesetz über die Organisation des Grossen Rates und über den Verkehr zwischen dem Grossen Rat, dem Regierungsrat und dem Obergericht
+# Gesetz über die Organisation des Grossen Rates und über den Verkehr zwischen dem Grossen Rat, dem Regierungsrat und der Justizleitung
 (Geschäftsverkehrsgesetz, GVG)
 Vom 19.06.1990
 Der Grosse Rat des Kantons Aargau,

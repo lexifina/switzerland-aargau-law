@@ -15,9 +15,9 @@
 ### 5.1. Sachgeschäfte und Wahlen
 ### 5.2. Parlamentarische Vorstösse
 ### 5.3. Petition
-## 6. Geschäftsverkehr zwischen dem Grossen Rat, seinen Kommissionen und dem Regierungsrat sowie dem Obergericht
+## 6. Geschäftsverkehr zwischen dem Grossen Rat, seinen Kommissionen und dem Regierungsrat sowie der Justizleitung
 ### 6.1. Regierungsrat
 ### 6.2. Grossrätliche Kommissionen
-### 6.3. Obergericht
+### 6.3. Justizleitung
 ## 6bis. Entschädigungen der Mitglieder des Grossen Rates
 ## 7. Übergangs- und Schlussbestimmungen

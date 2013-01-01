@@ -7,5 +7,5 @@
 ### 4.3. Rechtsschutz im Rahmen des Haftvollzugs
 ### 4.4. Amtliche Rechtsvertretung, Verfahrenskosten
 ## 5. Massnahmen zur Integration
-## 6. Rekursgericht im Ausländerrecht
+## 6. …
 ## 7. Schlussbestimmung
