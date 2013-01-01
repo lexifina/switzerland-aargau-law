@@ -1,0 +1,2 @@
+# § 43a Eigenmittel und Fremdnutzung
+1 Wenn die Trägerschaft ein Bauvorhaben über die festgelegten anrechenbaren Anlagekosten hinaus mit Eigenmitteln oder mit einer Fremdnutzung realisieren will, wird mit der Genehmigung des angemeldeten Bauvorhabens ein Kostendach für die gesamten Anlagekosten mit der Trägerschaft vereinbart. Kommt keine Einigung zustande, erlässt das Departement Bildung, Kultur und Sport eine Verfügung.
