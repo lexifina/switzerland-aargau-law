@@ -6,5 +6,5 @@
 ### 3.3. Darlehen
 ### 3.4. Rückerstattung
 ## 4. Verfahren und Rechtsschutz
-## 5. Finanzierung
+## 5. …
 ## 6. Schluss- und Übergangsbestimmungen
