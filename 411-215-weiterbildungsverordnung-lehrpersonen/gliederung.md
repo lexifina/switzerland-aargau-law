@@ -1,5 +1,5 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Weiterbildung von Lehrpersonen an den Kindergärten und der Volksschule
+## 2. Weiterbildung von Lehrpersonen an der Volksschule
 ### 2.1. Allgemeines
 ### 2.2. Individuelle Weiterbildung
 ### 2.3. Gemeinsame Weiterbildung
