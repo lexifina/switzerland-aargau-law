@@ -4,4 +4,4 @@ Oldani
 Staatsschreiber
 i.V. Meier
 Anhänge
-Anhang 1: Anhang 1 Anhang 2 : Anhang 2
+Anhang 1 : Ausser Kraft Anhang 2 : Ausser Kraft
