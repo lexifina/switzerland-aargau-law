@@ -1,0 +1,21 @@
+155.900
+Geschäftsordnung des Justizgerichts des Kantons Aargau
+Vom 27.10.2013
+Das Justizgericht
+beschliesst:
+§ 1 Amtssitz
+1 Das Justizgericht hat seinen Sitz in Aarau.
+§ 2 Organisation
+1 Die Mitglieder und die Ersatzmitglieder des Justizgerichts bilden das Plenum. Dieses entscheidet über organisatorische Angelegenheiten.
+2 Das Vizepräsidium wird aus dem Kreis der ordentlichen Mitglieder durch das Plenum bestimmt.
+3 Bei Ausstand und im Fall der Verhinderung eines ordentlichen Mitglieds bezeichnet das Präsidium das Ersatzmitglied, das beigezogen wird.
+§ 3 Präsidialzuständigkeit
+1 Eingaben, für deren Behandlung das Justizgericht offensichtlich nicht zuständig ist, können vom Präsidium des Justizgerichts beantwortet werden.
+2 Dem Präsidium des Justizgerichts steht es frei, Kanzleipersonen und Gerichtsschreiberinnen beziehungsweise Gerichtsschreiber beizuziehen oder eine eigene Personal- oder Kanzlei-Infrastruktur zu nutzen. Für die Entschädigung des Personals gilt das kantonale Personalrecht.
+§ 4 Kanzleiaufgaben
+1 Der Parlamentsdienst des Kantons Aargau (Zustelladresse: Justizgericht, Bahnhofstrasse 2, 5001 Aarau) nimmt Eingaben an das Justizgericht entgegen und leitet sie an das Präsidium des Justizgerichts weiter.
+2 Die Akten werden beim Parlamentsdienst des Kantons Aargau archiviert.
+§ 5 Inkrafttreten
+1 Diese Geschäftsordnung tritt am 1. Januar 2014 in Kraft.
+Aarau, 27. Oktober 2013
+2013/7-18
