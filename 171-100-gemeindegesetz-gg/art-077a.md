@@ -5,7 +5,7 @@ b) die Gemeinderäte von einem Viertel der Verbandsgemeinden dies innert 60 Tage
 c) die Abgeordnetenversammlung oder, sofern die Satzungen keine solche vorsehen, der Vorstand dies beschliesst.
 2 Die Satzungen können die Zahl der gemäss Absatz 1 lit. a erforderlichen Unterschriften auf 10 % der Stimmberechtigten der Verbandsgemeinden, höchstens aber auf 3'000 Stimmberechtigte, erhöhen.
 3 Die Satzungen können das fakultative Referendum ausschliessen, mit Ausnahme von Beschlüssen zu folgenden Geschäften:
-a) Voranschlag und Rechnung,
+a) Budget und Rechnung,
 b) Verpflichtungskredite,
 c) Satzungsänderungen,
 d) Erlass und Änderung von Reglementen.

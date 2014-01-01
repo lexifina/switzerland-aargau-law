@@ -10,11 +10,16 @@
 ### 3.3. Interkantonale Gemeindeverbände und Gemeindeverträge
 ### 3.4. Förderung der Zusammenarbeit der Gemeinden
 ## 4. Finanzhaushalt
-### 4.1. Allgemeines
-### 4.2. Voranschlag
-### 4.3. Verwaltung der Finanzen und Rechnungsablage
-### 4.4. Verpflichtungskredite
-### 4.5. Genehmigungsverfahren
+### 4.1. Allgemeine Bestimmungen
+### 4.2. Gesamtsteuerung des Finanzhaushalts
+### 4.3. …
+### 4.3bis. Kreditrecht
+### 4.3ter. Rechnungslegung
+### 4.3quater. Finanzielle Führung
+### 4.4. Statistik
+### 4.4bis. Organisation und Zuständigkeiten
+### 4.5. …
+### 4.5bis. Spezielle Bestimmungen
 ## 5. Staatliche Aufsicht
 ## 6. Rechtsmittel
 ## 7. Schluss- und Übergangsbestimmungen
