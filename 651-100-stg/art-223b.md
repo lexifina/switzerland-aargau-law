@@ -1,0 +1,5 @@
+# § 223b 4. Natürliche Personen; provisorische Rechnung
+1 Für periodisch geschuldete Steuern wird für jede Steuerperiode eine provisorische Rechnung zugestellt. Für die übrigen Steuern kann eine provisorische Rechnung gestellt werden.
+2 Die provisorische Rechnung richtet sich nach dem mutmasslichen Steuerbetrag.
+3 Bei Steuerpflichtigen, die bis zum Abgabetermin der Steuererklärung die provisorische Rechnung noch nicht bezahlt haben, kann die Höhe der zu bezahlenden provisorischen Rechnung in einer Verfügung festgestellt werden. Gegen diese Verfügung kann innert 30 Tagen schriftlich Einsprache erhoben werden.
+4 Der Einspracheentscheid kann mit Rekurs angefochten werden. Dabei kann nur die Zahlungspflicht bestritten oder glaubhaft gemacht werden, dass der mutmassliche Steuerbetrag tiefer ist als die provisorisch in Rechnung gestellte Steuerforderung. Die Abteilungspräsidentin oder der Abteilungspräsident des Spezialverwaltungsgerichts entscheidet als Einzelrichterin oder als Einzelrichter endgültig.
