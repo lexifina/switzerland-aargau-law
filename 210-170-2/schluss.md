@@ -4,4 +4,4 @@ Roth
 Staatsschreiber
 i.V. Meier
 Anhänge
-Anhang 1: Verzeichnis der Zivilstandskreise
+Anhang 1 : Verzeichnis der Zivilstandskreise
