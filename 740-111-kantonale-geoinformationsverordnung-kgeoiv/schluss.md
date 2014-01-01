@@ -5,4 +5,4 @@ Dr. Hofmann
 Staatsschreiber
 Dr. Grünenfelder
 Anhänge
-Anhang 01 : Anhang 1 zur KGeoIV (Geobasisdaten) Anhang 02 : Anhang 2 zur KGeoIV (Geobasisdaten Bund) Anhang 03 : Anhang 3 zur KGeoIV (Abkürzungsverzeichnis)
+Anhang 01 : Anhang 1 zur KGeoIV (Geobasisdaten Kanton) Anhang 02 : Anhang 2 zur KGeoIV (Geobasisdaten Bund) Anhang 03 : Anhang 3 zur KGeoIV (Abkürzungsverzeichnis)
