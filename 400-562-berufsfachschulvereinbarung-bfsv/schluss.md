@@ -6,4 +6,4 @@ Staatsschreiber
 Hans Ambühl
 Inkrafttreten: 13. August 2007
 Anhänge
-Anhang 1: Angebote und Tarife
+Anhang 1 : Anhang
