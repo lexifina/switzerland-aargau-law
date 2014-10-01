@@ -9,4 +9,4 @@ Eidg. Zollverwaltung
 Der Oberzolldirektor
 Rudolf Dietrich
 Anhänge
-Anhang 1: Anhänge zur Verwaltungsvereinbarung 530.033
+Anhang 01 : Anhänge zur Verwaltungsvereinbarung 530.033 Anhang 1 : Ausser Kraft
