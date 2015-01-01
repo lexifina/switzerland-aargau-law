@@ -1,0 +1,1 @@
+Das von der Verwaltungskommission der Sozialversicherung Aargau (SVA Aargau) am 22. August 2014 beschlossene und vom Regierungsrat am 24. September 2014 genehmigte Personalreglement der SVA Aargau wird durch Verweisung publiziert. Der Erlass kann bei der Staatskanzlei oder bei der SVA Aargau eingesehen und bezogen werden. Das Reglement tritt am 1. Januar 2015 in Kraft.
