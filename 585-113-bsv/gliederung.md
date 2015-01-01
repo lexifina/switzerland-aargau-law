@@ -1,4 +1,4 @@
 ## 1. Allgemeines
 ## 2. Kontrollen
-## 3. Allgemeiner und baulicher Brandschutz
+## 3. …
 ## 4. Schluss- und Übergangsbestimmungen
