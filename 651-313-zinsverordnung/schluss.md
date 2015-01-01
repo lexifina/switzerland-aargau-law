@@ -5,4 +5,4 @@ Hürzeler
 Staatsschreiber
 Grünenfelder
 Anhänge
-Anhang 1: Anhang zur Verordnung über Vergütungs-, Ausgleichs- und Verzugszinsen
+Anhang 1 : Anhang zur Verordnung über Vergütungs-, Ausgleichs- und Verzugszinsen
