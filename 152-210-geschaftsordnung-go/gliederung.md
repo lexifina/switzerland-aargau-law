@@ -23,7 +23,7 @@
 #### 4.3.1. Allgemeines
 #### 4.3.2. Anträge auf Direktbeschluss
 #### 4.3.3. Parlamentarische Initiativen
-#### 4.3.4. Motionen, Postulate und Aufträge
+#### 4.3.4. Motionen und Postulate
 #### 4.3.5. Interpellationen
 ### 4.4. Petitionen
 ## 5. Entschädigungen der Ratsmitglieder
