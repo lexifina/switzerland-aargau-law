@@ -56,4 +56,4 @@ Cina
 Staatskanzler
 Von Roten
 Anhänge
-Anhang I: Übersicht Kantonsbeiträge Anhang II : Anhang II zum RSA 2009
+Anhang I : Anhang I Übersicht Kantonsbeiträge Anhang II : Anhang II zum RSA 2009
