@@ -13,7 +13,8 @@
 ## 5. Krankenpflege und Hilfe zu Hause
 ### 5.1. Leistungsumfang
 ### 5.2. Finanzierung und Controlling
-## 6. Ausbildung
+## 5bis Akut- und Übergangspflege
+## 6. …
 ## 7. Qualität
 ## 8. Verschiedene Gremien
 ## 9. Besondere Bestimmungen
