@@ -3,3 +3,4 @@
 2 Die Weiterbildung für die Stufe 1 dauert mindestens acht Stunden, diejenige für die Stufe 2 zusätzlich mindestens vier Stunden.
 3 Nach jeweils fünf Jahren ist eine zusätzliche Weiterbildung zu absolvieren. Diese dauert für die Stufe 1 mindestens acht Stunden, für die Stufe 2 mindestens zusätzlich vier Stunden.
 4 Die Weiterbildung der Vertrauensärztinnen und Vertrauensärzte wird vom Strassenverkehrsamt unter der fachlichen Aufsicht des Kantonsspitals Aarau, des Kantonsspitals Baden, der Psychiatrischen Dienste Aargau oder von anderen geeigneten medizinischen Institutionen durchgeführt.
+5 Von der Erfüllung der Weiterbildungsvoraussetzungen für die Stufe 1 kann abgesehen werden, wenn Ärztinnen und Ärzte gegenüber dem Strassenverkehrsamt bestätigen, dass sie über die Kenntnisse und Fähigkeiten gemäss Anhang 2 verfügen.
