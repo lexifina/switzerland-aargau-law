@@ -5,4 +5,4 @@ Dr. Urs Hofmann
 Staatsschreiber
 Dr. Peter Grünenfelder
 Anhänge
-Anhang 01: Anhang 1
+Anhang 01 : Ausser Kraft

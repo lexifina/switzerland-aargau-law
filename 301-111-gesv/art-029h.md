@@ -1,0 +1,5 @@
+# § 29h Mitwirkungspflichten der Leistungserbringer
+1 Die Leistungserbringer sind verpflichtet, dem Departement Gesundheit und Soziales nach dessen Vorgaben die zum Vollzug der Ausbildungsverpflichtung notwendigen Daten unentgeltlich zur Verfügung zu stellen. Sie haben insbesondere folgende Datensätze einzureichen:
+a) Anzahl beschäftigter Personen (Vollzeitäquivalente) pro Gesundheitsberuf im Betrieb des Leistungserbringers beziehungsweise bei Organisationen der Krankenpflege und Hilfe zu Hause (Spitex) die jährliche Anzahl Stunden gemäss Art. 7a Abs. 1 KLV pro Gesundheitsberuf,
+b) Anzahl geleisteter Ausbildungswochen pro Gesundheitsberuf.
+2 Erfüllt ein Leistungserbringer trotz Mahnung seine Mitwirkungspflichten nicht oder können die zur Berechnung der Soll- beziehungsweise Ist-Ausbildungspunkte gemäss § 29b–c notwendigen Daten nicht einwandfrei ermittelt werden, wird eine Berechnung nach pflichtgemässem Ermessen vorgenommen. Dabei können Erfahrungszahlen und die Entwicklung in den Vorjahren berücksichtigt werden.
