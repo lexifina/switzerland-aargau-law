@@ -1,0 +1,5 @@
+# § 40i Selbstregulierung
+1 Bestehen genügend Ausbildungsplätze in den Gesundheitsberufen oder treffen zur Ausbildung verpflichtete Leistungserbringer gemäss § 40b im Rahmen eines Verbands selber geeignete Massnahmen zur Sicherstellung von genügend Ausbildungsplätzen (Selbstregulierung), kann der Regierungsrat die Anwendung der §§ 40b–h durch Verordnung aussetzen.
+2 Leistungserbringer ohne Verbandsmitgliedschaft sind verpflichtet, an der Selbstregulierung teilzunehmen. Der Verband schliesst mit dem Leistungserbringer einen Vertrag ab und kann einen Unkostenbeitrag für den Vertragsabschluss und die Durchführung der Selbstregulierung erheben.
+3 Nötigenfalls verfügt die zuständige kantonale Behörde den Beitritt zur Selbstregulierung.
+4 Bestehen nicht mehr genügend Ausbildungsplätze in den Gesundheitsberufen und besteht keine Selbstregulierung oder erweist sich deren Umsetzung im Hinblick auf die Zielsetzung von § 40b Abs. 1 als nicht genügend, kann der Regierungsrat nach Anhörung der Berufs- und Branchenverbände die §§ 40b–h durch Verordnung wieder zur Anwendung bringen.
