@@ -5,4 +5,4 @@ Hochuli
 Staatsschreiber
 Grünenfelder
 Anhänge
-Anhang 01: Anlagekategorien und Abschreibungsdauer
+Anhang 01 : Anlagekategorien und Abschreibungsdauer
