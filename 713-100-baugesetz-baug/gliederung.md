@@ -4,7 +4,7 @@
 ### 2.2. Regionale Zusammenarbeit bei der Raumentwicklung
 ### 2.3. Kommunale Raumentwicklung
 #### 2.3.1. Planungspflicht
-#### 2.3.2. Allgemeine Nutzungsplanung (Zonenplanung)
+#### 2.3.2. Allgemeine Nutzungsplanung
 #### 2.3.3. Sondernutzungsplanung (Erschliessungs- und Gestaltungsplanung)
 #### 2.3.4. Verfahren
 ### 2.4. Plansicherung
