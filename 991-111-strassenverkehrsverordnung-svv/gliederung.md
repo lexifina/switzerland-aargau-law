@@ -8,7 +8,7 @@
 ## 3. Verkehrsanordnungen, Signalisationen und Markierungen
 ## 4. Strassenreklamen
 ## 5. Zulassung von Veteranenfahrzeugen
-## 6. Verkehrsmedizinische Untersuchungen und Spezialuntersuchungen
+## 6. Verkehrsmedizinische und verkehrspsychologische Untersuchungen
 ## 7. Verkehrsunterricht für fehlbare Fahrzeuglenker
 ## 7bis. Weitergabe von Daten
 ## 8. Übergangs- und Schlussbestimmungen
