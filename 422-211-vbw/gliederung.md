@@ -15,12 +15,12 @@
 ### 4.2. Grundbildung und Vorbereitung auf die berufliche Grundbildung
 #### 4.2.1. Pauschalbeitrag des Kantons
 #### 4.2.2. Kantonsbeitrag an aargauische Schulen für ausserkantonale Lernende
-#### 4.2.3. Gemeindenbeiträge
+#### 4.2.3. Gemeindebeiträge
 #### 4.2.4. Lehrwerkstätten, überbetriebliche Kurse und vergleichbare Angebote, Kurse zur Bildung von Berufsbildungsverantwortlichen
 #### 4.2.5. Expertinnen und Experten
 #### 4.2.6. Übrige Kosten
 ### 4.3. Infrastruktur
-#### 4.3.1. Neu- und Umbauten
+#### 4.3.1. Grosszyklische Sanierungen sowie Neu- und Umbauten
 #### 4.3.2. Miete von Räumen
 #### 4.3.3. Zweckentfremdung
 ### 4.4. Höhere Berufsbildung
