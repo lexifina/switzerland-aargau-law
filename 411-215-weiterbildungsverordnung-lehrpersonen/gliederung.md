@@ -8,3 +8,5 @@
 ### 4.1. Allgemeines
 ### 4.2. Individuelle Weiterbildung
 ### 4.3. Gemeinsame Weiterbildung
+## 5. Rechtsschutz
+## 6. Schlussbestimmung
