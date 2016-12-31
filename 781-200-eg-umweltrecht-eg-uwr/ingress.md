@@ -1,4 +1,4 @@
-# Einführungsgesetz zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässer
+# Einführungsgesetz zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässern
 (EG Umweltrecht, EG UWR)
 Vom 04.09.2007
 Der Grosse Rat des Kantons Aargau,
