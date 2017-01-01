@@ -1,0 +1,2 @@
+# § 44a Überschuss
+1 Bleibt bei der freiwilligen Gebäudewasserversicherung und den durch Dekret übertragenen Zusatzaufgaben insgesamt ein Jahresüberschuss, sind davon 18 % dem Kanton abzuliefern. Vom Jahresüberschuss können Verluste aus sieben vorangegangenen Geschäftsjahren abgezogen werden, soweit sie bei der Berechnung der Überschüsse dieser Jahre nicht berücksichtigt werden konnten. Bestehen während mehrerer Jahre Überschüsse, sind die Prämien oder Leistungen anzupassen.
