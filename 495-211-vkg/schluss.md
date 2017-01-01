@@ -5,4 +5,4 @@ Brogli
 Staatsschreiber
 Dr. Grünenfelder
 Anhänge
-Anhang 1: Anhang
+Anhang 1 : Anhang
