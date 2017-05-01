@@ -7,6 +7,8 @@
 #### 2.3.2. Allgemeine Nutzungsplanung
 #### 2.3.3. Sondernutzungsplanung (Erschliessungs- und Gestaltungsplanung)
 #### 2.3.4. Verfahren
+#### 2.3.5. Ausgleich von Planungsvorteilen
+#### 2.3.6. Förderung der Verfügbarkeit von Bauland
 ### 2.4. Plansicherung
 ## 3. Baureife und Erschliessung
 ## 4. Nutzungs-, Bau- und Schutzvorschriften

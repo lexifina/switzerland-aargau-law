@@ -1,0 +1,5 @@
+# § 28b Festsetzungsverfügung
+1 Der Gemeinderat orientiert aufgrund von Schätzungen durch das kantonale Steueramt bei der öffentlichen Auflage des Nutzungsplanentwurfs über die voraussichtliche Höhe der Abgabe. Er erlässt eine Verfügung über die definitive Höhe, sobald der Nutzungsplan genehmigt und anwendbar ist. Massgeblich für die Festlegung der Höhe der Abgabe und die Bestimmung der abgabepflichtigen Personen ist der Zeitpunkt der Genehmigung.
+2 Ist für die haushälterische Überbaubarkeit der Grundstücke eine Landumlegung oder Grenzbereinigung durchzuführen, lässt der Gemeinderat nach der Genehmigung die Mehrwertabgabepflicht im Grundbuch anmerken. Massgeblicher Zeitpunkt für Schätzung und Bestimmung der abgabepflichtigen Personen ist in diesem Fall die Rechtskraft des Landumlegungs- oder Grenzbereinigungsplans.
+3 Gegen die Festsetzungsverfügung kann Einsprache erhoben werden. Einspracheentscheide können mit Beschwerde beim Spezialverwaltungsgericht angefochten werden.
+4 Der Regierungsrat wird zum Verfahren beigeladen.
