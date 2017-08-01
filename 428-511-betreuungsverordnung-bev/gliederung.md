@@ -6,7 +6,7 @@
 ### 2.1. Einrichtungen mit Betriebsbewilligung
 ### 2.2. Einrichtungen mit Anerkennung
 ### 2.3. Gemeinsame Bestimmungen
-## 3. Kantonale Einrichtungen
+## 3. …
 ## 4. Planung und Steuerung
 ### 4.1. Leistungsvereinbarungen
 ### 4.2. Bauvorhaben der anerkannten Einrichtungen
