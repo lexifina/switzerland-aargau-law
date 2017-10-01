@@ -6,4 +6,4 @@ Protokollführerin
 TROGLIA
 Vom Regierungsrat genehmigt am: 26. Juni 2013
 Anhänge
-Anhang 1: Funktionen-Organigramm Anhang 2: Funktionen-Matrix
+Anhang 1 : Funktionen-Organigramm Anhang 2 : Funktionen-Matrix
