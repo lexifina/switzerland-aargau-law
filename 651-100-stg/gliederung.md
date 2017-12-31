@@ -3,7 +3,7 @@
 ### 2.1. Allgemeine Bestimmungen
 ### 2.2. Einkommenssteuer
 ### 2.3. Vermögenssteuer
-### 2.4. Höchstbelastung und Anpassung an die Teuerung
+### 2.4. Höchstbelastung, Anpassung an die Teuerung und Zuschläge
 ### 2.5. Zeitliche Grundlagen
 ## 3. Gewinn- und Kapitalsteuern der juristischen Personen
 ### 3.1. Allgemeine Bestimmungen

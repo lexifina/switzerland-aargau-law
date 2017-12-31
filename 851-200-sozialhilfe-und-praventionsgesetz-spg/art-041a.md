@@ -1,5 +1,5 @@
 # § 41a Massnahmen gegen häusliche Gewalt
-1 Kanton und Gemeinden treffen Massnahmen gegen häusliche Gewalt. Diese umfassen
+1 Der Kanton trifft Massnahmen gegen häusliche Gewalt. Diese umfassen
 a) den Betrieb einer Anlaufstelle gegen häusliche Gewalt,
 b) die Beratung für gewaltbetroffene sowie gewaltausübende Personen,
 c) die Betreuung und Nachbetreuung gewaltbetroffener Personen,
