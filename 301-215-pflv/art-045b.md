@@ -1,0 +1,2 @@
+# § 45b Übergangsrecht zur Änderung vom 8. November 2017
+1 Für bestehende stationäre Pflegeeinrichtungen, die im Zeitpunkt des Inkrafttretens von § 8 Abs. 7 in der Fassung vom 8. November 2017 in Bezug auf die bauliche oder betriebliche Infrastruktur über eine befristete Bewilligung mit Auflagen verfügen, gilt für die Erfüllung des Anhangs 1 in der Fassung vom 8. November 2017 eine Übergangsfrist von zwei Jahren ab Inkrafttreten.
