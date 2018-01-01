@@ -1,0 +1,3 @@
+# § 14a Übergangsrecht zur Änderung vom 29. August 2017
+1 Zu Lasten der allgemeinen Staatsmittel bewilligte, aber im Zeitpunkt des Inkrafttretens der Änderung vom 29. August 2017 noch nicht getätigte Investitionen und Investitionsbeiträge für Aufgaben gemäss den §§ 2 und 3 werden zu Lasten der Spezialfinanzierung öV-Infrastruktur finanziert.
+2 Zu Lasten der Strassenrechnung bewilligte, aber im Zeitpunkt des Inkrafttretens der Änderung vom 29. August 2017 noch nicht getätigte Ausgaben gemäss § 7 Abs. 1 lit. b Ziff. 1 und 2 des Gesetzes über die National- und Kantonsstrassen und ihre Finanzierung (Strassengesetz, StrG) vom 17. März 1969 gehen zu Lasten der Spezialfinanzierung öV-Infrastruktur.
