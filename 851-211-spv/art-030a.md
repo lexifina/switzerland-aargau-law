@@ -1,8 +1,8 @@
 # § 30a Einarbeitungszuschüsse; Dauer und Höhe, Modalitäten (§ 41b SPG)
 1 Einarbeitungszuschüsse werden für längstens sechs Monate ausgerichtet, in begründeten Ausnahmefällen für längstens zwölf Monate.
 2 Die Einarbeitungszuschüsse betragen für den 1. und 2. Monat maximal 60 %, für den 3. und 4. Monat maximal 40 % und ab dem 5. Monat maximal 20 % des Bruttolohns.
-3 Das Gesuch um Einarbeitungszuschüsse ist durch die Sozialhilfe beziehende Person zusammen mit einer Bestätigung des Arbeitgebers auf den vom Kantonalen Sozialdienst zur Verfügung gestellten Formularen vor Antritt des Arbeitsverhältnisses bei der Gemeinde einzureichen.
-4 Die Gemeinden können Sozialhilfe beziehende Personen, welche sie als arbeitsmarktfähig erachten, mit deren Zustimmung dem Kantonalen Sozialdienst zur Vermittlung anmelden. Dieser stellt den Gemeinden entsprechende Formulare zur Verfügung. Mit der Anmeldung leisten die Gemeinden Kostengutsprache für Einarbeitungszuschüsse für den Fall, dass die gemeldete Person vermittelt werden kann.
+3 Das Gesuch um Einarbeitungszuschüsse ist durch die Sozialhilfe beziehende Person zusammen mit einer Bestätigung des Arbeitgebers vor Antritt des Arbeitsverhältnisses bei der Gemeinde einzureichen.
+4 …
 5 Einarbeitungszuschüsse werden an Arbeitgebende ausbezahlt. Diese entrichten den Arbeitnehmenden von Anfang an einen branchen- und marktüblichen Lohn. Einarbeitungszuschüsse werden nur für unbefristet abgeschlossene Arbeitsverträge gewährt.
 6 Einarbeitungszuschüsse sind nicht rückerstattungspflichtig.
-7 Der Kantonale Sozialdienst und die Gemeinden führen eine Statistik über die von ihnen ausgerichteten Einarbeitungszuschüsse. Die Gemeinden melden Einarbeitungszuschüsse, welche nicht in Zusammenarbeit mit dem Kanton gemäss Absatz 4 ausgerichtet wurden, dem Kantonalen Sozialdienst auf dem von ihm zur Verfügung gestellten Formular.
+7 …
