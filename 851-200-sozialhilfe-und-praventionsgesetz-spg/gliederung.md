@@ -2,7 +2,7 @@
 ## 2. Sozialhilfe
 ### 2.1. Gewährung von Sozialhilfe
 #### 2.1.1. Grundsätze
-#### 2.1.2. Immaterielle Hilfe
+#### 2.1.2. Persönliche Hilfe
 #### 2.1.3. Materielle Hilfe
 #### 2.1.4. Sonderbestimmungen
 ### 2.2. Rückerstattung
