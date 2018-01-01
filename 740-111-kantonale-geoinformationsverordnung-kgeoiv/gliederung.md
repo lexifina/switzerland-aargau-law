@@ -7,6 +7,7 @@
 ### 2.5 Datenaustausch unter Behörden
 ### 2.6 Organisation
 ## 3. Vollzug des Bundesrechts
+## 3bis. Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
 ## 4. Amtliche Vermessung
 ### 4.1 Ergänzendes kantonales Vermessungsrecht
 ### 4.2 Öffentliche Auflage, Genehmigung
