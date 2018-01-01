@@ -1,0 +1,4 @@
+# § 2a Zusammenarbeit mit Behörden, Stellen und Drittpersonen
+1 Unter der Leitung der Kindes- und Erwachsenenschutzbehörde findet ein Austausch zwischen allen an einem konkreten Fall beteiligten Behörden, Stellen und Drittpersonen (§ 30 EG ZGB) statt, soweit dies zur Erfüllung der Aufgaben aller Beteiligten und zum Schutz der betroffenen Person erforderlich ist.
+2 Für den Austausch und zur Sicherstellung der Zusammenarbeit kann die Kindes- und Erwachsenenschutzbehörde alle im konkreten Fall beteiligten Behörden, Stellen und Drittpersonen zu Fallkonferenzen einladen. Sie bestimmt die Behörden, Stellen und Drittpersonen, die an einer Fallkonferenz teilnehmen.
+3 Berufsbeiständinnen und -beistände, Abklärungspersonen der Gemeinden sowie weitere Fachbehörden können bei der Kindes- und Erwachsenenschutzbehörde die Einberufung einer Fallkonferenz beantragen.
