@@ -6,7 +6,12 @@ b) Auslagen für öffentliche Verkehrsmittel:
 1. für den Besuch von Beschäftigungsprogrammen,
 2. für die vom Kanton angebotenen Deutschkurse,
 3. zur Arbeitssuche und bei Erwerbstätigkeit für den Arbeitsweg.
-c) für allgemeine Erwerbsunkosten wird eine Pauschale gemäss § 21 Abs. 1–1quater gewährt.
+c) eine Pauschale für allgemeine Erwerbsunkosten beziehungsweise eine Motivationsentschädigung:
+1. Die Pauschale für allgemeine Erwerbsunkosten wird nach Massgabe des Arbeitspensums gewährt. Sie beträgt bei einer Vollzeitbeschäftigung Fr. 300.– pro Monat.
+2. Die Pauschale für allgemeine Erwerbsunkosten von Lehrlingen sowie von Mittelschülerinnen und Mittelschülern beträgt Fr. 150.– pro Monat, sofern ein Unterstützungsbudget erstellt wird.
+3. Die Motivationsentschädigung für die Teilnahme an einem Beschäftigungsprogramm wird nach Massgabe des Arbeitspensums gewährt. Sie beträgt bei einer Vollzeitbeschäftigung Fr. 150.– pro Monat.
+4. Die Pauschale für allgemeine Erwerbsunkosten beziehungsweise die Motivationsentschädigung beträgt maximal Fr. 400.– pro Unterstützungseinheit. Sind Personen gemäss Ziffer 2 Teil der Unterstützungseinheit, beträgt die Pauschale beziehungsweise die Entschädigung maximal Fr. 500.– pro Unterstützungseinheit.
+d) einen Einkommensfreibetrag und eine Integrationszulage für vorläufig aufgenommene Ausländerinnen und Ausländer gemäss den Ansätzen der §§ 20a–20c.
 3 Für weitere situationsbedingte Leistungen ist beim Kantonalen Sozialdienst vorgängig ein schriftliches Gesuch um Kostengutsprache einzureichen.
 4 Der Kanton trägt die Kosten für
 a) vom zuständigen Organ beschlossene Heimunterbringungen, soweit sie nicht durch andere Kostenträger übernommen werden,
