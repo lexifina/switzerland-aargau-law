@@ -4,4 +4,4 @@ Leuthard
 Staatsschreiber
 i.V. Salm
 Anhänge
-Anhang 1: Liste der Landschaftsgestaltungspläne
+Anhang 1 : Liste der Landschaftsgestaltungspläne
