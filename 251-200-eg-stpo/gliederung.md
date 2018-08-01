@@ -17,4 +17,5 @@
 ### 12.1. Allgemeine Bestimmungen
 ### 12.2. Kosten
 ### 12.3. Strafregister
+## 12.bis Bearbeitung von Personendaten
 ## 13. Übergangs- und Schlussbestimmungen
