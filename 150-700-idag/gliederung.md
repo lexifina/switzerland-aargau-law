@@ -4,7 +4,7 @@
 ### 3.1. Allgemeine Voraussetzungen für die Datenbearbeitung
 ### 3.2. Beschaffung und Weitergabe der Daten
 ### 3.3. Besondere Zwecke der Datenbearbeitung
-### 3.4. Register der Datensammlungen
+### 3.4. …
 ### 3.5. Auskunfts- und Einsichtsrechte der Betroffenen
 ### 3.6. Weitere Bestimmungen
 ## 4. Gemeinsame Bestimmungen zum Öffentlichkeitsprinzip und Datenschutz

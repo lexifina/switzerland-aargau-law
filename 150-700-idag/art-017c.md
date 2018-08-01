@@ -1,0 +1,4 @@
+# § 17c Meldungen von Verletzungen der Datensicherheit
+1 Das öffentliche Organ meldet der beauftragten Person für Öffentlichkeit und Datenschutz unverzüglich eine unbefugte Datenbearbeitung oder den Verlust von Daten, es sei denn, die Verletzung der Datensicherheit führt voraussichtlich nicht zu einem Risiko für die Persönlichkeit und die Grundrechte der betroffenen Person.
+2 Das öffentliche Organ informiert ausserdem die betroffene Person, wenn es zu deren Schutz erforderlich ist oder die beauftragte Person für Öffentlichkeit und Datenschutz es verlangt. Die Information kann eingeschränkt oder aufgeschoben werden, wenn überwiegende öffentliche Interessen dies erfordern.
+3 Die Auftragsbearbeitenden informieren das verantwortliche öffentliche Organ unverzüglich über eine unbefugte Datenbearbeitung.

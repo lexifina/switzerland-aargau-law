@@ -1,3 +1,1 @@
-# § 18b Evaluation
-1 Das zuständige öffentliche Organ legt dem Regierungsrat und der beauftragten Person für Öffentlichkeit und Datenschutz sowie anschliessend der zuständigen Kommission des Grossen Rats spätestens zwei Jahre nach Beginn der automatisierten Datenbearbeitung den Evaluationsbericht vor. Es schlägt darin die Fortsetzung oder die Einstellung der Datenbearbeitung vor.
-2 Das Pilotprojekt ist einzustellen, wenn innert fünf Jahren nach dessen Beginn keine gesetzliche Grundlage gemäss § 8 Abs. 2 lit. a in Kraft getreten ist. Die beauftragte Person für Öffentlichkeit und Datenschutz sowie die zuständige Kommission des Grossen Rats sind über die definitive Einstellung zu informieren.
+# § 18b …
