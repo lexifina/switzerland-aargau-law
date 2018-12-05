@@ -6,4 +6,4 @@
 ### 5.1. Tarifgenehmigung
 ### 5.2 Tariffestsetzung
 ## 5bis Regress
-## 6. Schluss- und Übergangsbestimmungen
+## 6. …
