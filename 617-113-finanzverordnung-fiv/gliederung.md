@@ -3,5 +3,6 @@
 ## 3. Kreditrecht
 ## 4. Rechnungslegung
 ## 5. Finanzielle Führung
-## 6. Statistik
+## 6. Statistik und Meldepflichten
+## 6bis. Spezielle Bestimmungen
 ## 7. Übergangs- und Schlussbestimmungen
