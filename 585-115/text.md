@@ -1,0 +1,13 @@
+585.115
+Beschluss des Interkantonalen Organs Technische Handelshemmnisse (IOTH)
+Vom 18.09.2014
+Das Interkantonale Organ Technische Handelshemmnisse (IOTH),
+gestützt auf Art. 6 Abs. 1 in Verbindung mit Art. 3 der Interkantonalen Vereinbarung zum Abbau technischer Handelshemmnisse (IVTH) vom 23. Oktober 1998,
+beschliesst:
+Ziffer 1 Die Brandschutzvorschriften der Vereinigung Kantonaler Feuerversicherungen (VKF) vom 18. September 2014 mit den Änderungen vom 17. September 2015, 22. September 2016 und 20. September 2018 gemäss den Anhängen 1 bis 20 gelten als verbindlich.
+Ziffer 2 Dieser Beschluss tritt am 1. Januar 2015 in Kraft.
+Lausanne, 18. September 2014
+Interkantonales Organ Technische Handelshemmnisse IOTH Der Präsident Paul Federer Die Generalsekretärin Christa Hostettler
+2017/4-01
+Anhänge
+Anhang Anhang 01: Brandschutznorm 2015, 01.01.2015 / 1-15de Anhang Anhang 02 : Brandschutzrichtlinie «Begriffe und Definitionen», 01.01.2019/10-15de Anhang Anhang 03 : Brandschutzrichtlinie «Qualitätssicherung im Brandschutz», 01.01.2019/11-15de Anhang Anhang 04: Brandschutzrichtlinie «Brandverhütung und organisatorischer Brandschutz», 01.01.2015/12-15de Anhang Anhang 05: Brandschutzrichtlinie «Baustoffe und Bauteile», 01.01.2015/13-15de Anhang Anhang 06: Brandschutzrichtlinie «Verwendung von Baustoffen», 01.01.2015/14-15de Anhang Anhang 07: Brandschutzrichtlinie «Brandschutzabstände Tragwerke Brandabschnitte», 01.01.2015/15-15de Anhang Anhang 08: Brandschutzrichtlinie «Flucht- und Rettungswege», 01.01.2015/16-15de (geändert) Anhang Anhang 09: Brandschutzrichtlinie «Kennzeichnung von Fluchtwegen Sicherheitsbeleuchtung Sicherheitsstromversorgung», 01.01.2015/17-15de Anhang Anhang 10: Brandschutzrichtlinie «Löscheinrichtungen», 01.01.2015/18-15de Anhang Anhang 11: Brandschutzrichtlinie «Sprinkleranlagen», 01.01.2015/19-15.de Anhang Anhang 12: Brandschutzrichtlinie «Brandmeldeanlagen», 01.01.2015/20-15de Anhang Anhang 13: Brandschutzrichtlinie «Rauch- und Wärmeabzugsanlagen», 01.01.2015/21-15de Anhang Anhang 14: Brandschutzrichtlinie «Blitzschutzsysteme», 01.01.2015/22-15de Anhang Anhang 15: Brandschutzrichtlinie «Beförderungsanlagen», 01.01.2015/23-15de Anhang Anhang 16: Brandschutzrichtlinie «Wärmetechnische Anlagen», 01.01.2015/24-15de Anhang Anhang 17: Brandschutzrichtlinie «Lufttechnische Anlagen», 01.01.2015/25-15de Anhang Anhang 18: Brandschutzrichtlinie «Gefährliche Stoffe», 01.01.2015/26-15de Anhang Anhang 19: Brandschutzrichtlinie «Nachweisverfahren im Brandschutz», 01.01.2015/27-15de Anhang Anhang 20: Brandschutzrichtlinie «Anerkennungsverfahren», 01.01.2015/28-15de
