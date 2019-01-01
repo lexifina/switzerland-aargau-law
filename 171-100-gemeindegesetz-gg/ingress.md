@@ -1,6 +1,6 @@
 # Gesetz über die Einwohnergemeinden
-(Gemeindegesetz)
+(Gemeindegesetz, GG)
 Vom 19.12.1978
 Der Grosse Rat des Kantons Aargau,
-gestützt auf Art. 49 der Staatsverfassung,
+gestützt auf § 78 Abs. 1 der Kantonsverfassung,
 beschliesst:

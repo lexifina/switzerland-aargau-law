@@ -1,11 +1,12 @@
 # § 94a Gemeinderat
 1 Der Gemeinderat trägt die Verantwortung für die finanzielle Führung der Gemeinde.
 2 Er ist namentlich zuständig für
-a) die Anlage von Geldern,
+a) …
 b) die Vermietung und Verpachtung von Gemeindeeigentum,
 c) die Regelung der internen Kontrolle und der Unterschriftsberechtigung,
 d) den Abschluss der für Behörden, Mitarbeitende und Gemeinde erforderlichen Versicherungen,
-e) die Aufbewahrung und Archivierung des Budgets, der Rechnungen, Belege, Bücher und anderer Unterlagen des Haushalts.
+e) die Aufbewahrung und Archivierung des Budgets, der Rechnungen, Belege, Bücher und anderer Unterlagen des Haushalts,
+f) die periodische Durchführung unangemeldeter Revisionen bei jenen Personen, die Geld verwalten.
 3 Der Gemeinderat und die Leiterin oder der Leiter Finanzen bestätigen gemeinsam mit dem Abschluss der Jahresrechnung gegenüber der Finanzkommission, dass
 a) alle buchungspflichtigen Geschäftsfälle in der vorliegenden Jahresrechnung erfasst sind,
 b) sämtliche Vermögenswerte, Verpflichtungen, Guthaben und Schulden in der Bilanz berücksichtigt sind,
