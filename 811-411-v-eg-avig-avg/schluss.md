@@ -6,4 +6,4 @@ Staatsschreiber
 Dr. Grünenfelder
 Vom Bund genehmigt am 22. Februar 2005
 Anhänge
-Anhang 1: Anhang
+Anhang 1 : Anhang
