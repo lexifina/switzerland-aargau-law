@@ -14,9 +14,11 @@
 ### 3.4. Projekte zur regionalen Entwicklung sowie zur Förderung von einheimischen und regionalen Produkten
 ### 3.5. Kantonale Investitionshilfen
 ## 4. Produktion, Absatz und Innovation
-## 5. Natürliche Ressourcen
+## 5. Direktzahlungen und kantonale Beteiligung
+## 5bis. Invasive Organismen
 ## 6. Bäuerliches Bodenrecht und landwirtschaftliche Pacht
 ## 7. Soziale Begleitmassnahmen
 ## 8. Vollzug und Organisation
+## 8bis. Informationssystem
 ## 9. Rechtsschutz
 ## 10. Übergangs- und Schlussbestimmungen
