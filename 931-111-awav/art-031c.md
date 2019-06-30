@@ -1,0 +1,2 @@
+# § 31c Ausgleich für erhebliche Vorteile
+1 Die Ausgleichsabgabe sowie allfällige Sicherheitsleistungen werden durch die Abteilung Wald des Departementes Bau, Verkehr und Umwelt festgelegt und wenn möglich gleichzeitig mit der Rodungsbewilligung eröffnet.

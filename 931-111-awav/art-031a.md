@@ -1,0 +1,4 @@
+# § 31a Gebühr für Rodungsgesuche
+1 Für die Behandlung von Rodungsgesuchen und die Ausübung der damit verbundenen Aufsichts- und Kontrollfunktionen wird eine Gebühr zwischen Fr. 150.– und Fr. 5'000.– erhoben. Die Gebühr wird nach Aufwand bemessen und beträgt in der Regel Fr. 1.– pro m² anbegehrter Rodungsfläche.
+2 Für ausserordentlichen Mehraufwand, insbesondere infolge Durchführung eines Augenscheins, einer Verhandlung oder weitergehender Abklärungen, kann die Gebühr um bis zu Fr. 300.–, aber höchstens auf Fr. 5'000.– erhöht werden.
+3 Wird das Rodungsgesuch zurückgezogen oder gegenstandslos oder erfordert das Verfahren aus einem andern Grund nur geringen Aufwand, kann die Gebühr herabgesetzt oder erlassen werden.
