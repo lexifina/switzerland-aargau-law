@@ -5,4 +5,4 @@ Beyeler
 Staatsschreiber
 Pfirter
 Anhänge
-Anhang 1: Anhang
+Anhang 1 : Ausser Kraft Anhang 2 : Stundentafel Vorkurs Pädagogik
