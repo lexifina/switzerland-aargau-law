@@ -1,0 +1,3 @@
+# § 2b Zusammensetzung
+1 Der Kommission für die kontrollierte Ursprungsbezeichnung (AOC-Kommission) gehören von Amtes wegen die für den Weinbau zuständige Fachperson des LZL sowie mindestens sechs Vertreterinnen und Vertreter, die mindestens drei Jahre Erfahrung im Weinbau, in der Weinbereitung oder im Weinhandel vorweisen können oder über einen anerkannten weinakademischen Titel verfügen, an.
+2 Die nicht vom Kanton angestellten Mitglieder der AOC-Kommission werden vom DFR auf Antrag des Branchenverbands Aargauer Wein für eine Amtsdauer von vier Jahren eingesetzt. Die Amtszeit ist auf vier Amtsperioden beschränkt. Angebrochene Amtsperioden werden nicht angerechnet.
