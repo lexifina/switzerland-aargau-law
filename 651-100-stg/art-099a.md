@@ -1,2 +1,1 @@
-# § 99a c) Ersatzbeschaffung in einem anderen Kanton
-1 Wird ein ausserkantonales Ersatzgrundstück, dessen Erwerb zu einem Steueraufschub gemäss den §§ 98 oder 99 geführt hat, innert fünf Jahren ohne erneute Ersatzbeschaffung veräussert, wird der im Kanton Aargau aufgeschobene Grundstückgewinn nachträglich besteuert. Das Recht zur nachträglichen Veranlagung verjährt fünf Jahre nach Ablauf des Jahres, in dem das ausserkantonale Ersatzgrundstück veräussert wurde.
+# § 99a …
