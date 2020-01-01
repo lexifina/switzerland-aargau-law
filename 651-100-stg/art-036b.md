@@ -1,0 +1,3 @@
+# § 36b ater) Entlastungsbegrenzung
+1 Die gesamte steuerliche Ermässigung gemäss den §§ 27a und 36a darf 70 % des steuerbaren Einkommens aus selbstständiger Erwerbstätigkeit vor Verlustverrechnung und vor Abzug der vorgenannten Ermässigungen nicht übersteigen. Aus den Ermässigungen dürfen zudem keine Verlustvorträge resultieren.
+2 Bei gemeinsam besteuerten Ehegatten wird die Gesamtentlastung für jeden Ehegatten je einzeln gemäss Absatz 1 begrenzt. Erzielt ein Ehegatte einen Verlust und der andere einen Gewinn, ist die Begrenzung der Gesamtentlastung ausgehend vom verrechneten Nettoergebnis der Ehegatten zu ermitteln.
