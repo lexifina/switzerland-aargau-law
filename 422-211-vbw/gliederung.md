@@ -8,7 +8,7 @@
 ### 2.3. Lernende mit besonderen bildungsrelevanten Bedürfnissen und schulärztlicher Dienst
 ## 3. Qualifikationsverfahren und Ausweise
 ### 3.1. Allgemeines
-### 3.2. Nachholbildung
+### 3.2. Nachholbildung und Validierung
 ### 3.3. Ausweise
 ## 4. Finanzierung
 ### 4.1. Allgemeines
