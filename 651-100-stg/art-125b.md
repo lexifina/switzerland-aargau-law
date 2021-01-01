@@ -1,0 +1,2 @@
+# § 125b VIter. Nachträgliche ordentliche Veranlagung a) Von Amtes wegen
+1 Bei stossenden Verhältnissen, insbesondere betreffend die im Quellensteuersatz einberechneten Pauschalabzüge, kann unter den vom Eidgenössischen Finanzdepartement festgelegten Voraussetzungen von Amtes wegen eine nachträgliche ordentliche Veranlagung zugunsten oder zuungunsten der steuerpflichtigen Person durchgeführt werden.

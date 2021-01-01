@@ -14,7 +14,7 @@
 ## 4. Grundstückgewinnsteuern
 ## 5. Quellensteuern für natürliche und juristische Personen
 ### 5.1. Quellensteuern für natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt in der Schweiz
-### 5.2. Quellensteuern für natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
+### 5.2. Quellensteuern für natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
 ### 5.3. Verfahren zur Erhebung und Rückerstattung der Quellensteuern
 ## 6. Erbschafts- und Schenkungssteuern
 ## 7. Die Steuern der Gemeinden
