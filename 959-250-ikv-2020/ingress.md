@@ -1,0 +1,10 @@
+# Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen
+(IKV 2020)
+Vom 20.05.2019
+Die dieser Vereinbarung beitretenden Kantone,
+im Bestreben, die mit der IKV 1937 errichtete Zusammenarbeit auch unter dem geänderten Bundesrecht (Bundesgesetz über die Geldspiele, SR 935.51) weiter zu führen,
+gestützt auf
+• Art. 48 der Bundesverfassung vom 18. April 1999 (SR 101)
+• das Bundesgesetz über Geldspiele vom 29. September 2017 (SR 935.51)
+• das gesamtschweizerische Geldspielkonkordat vom 20. Mai 2019 (GSK)
+vereinbaren:
