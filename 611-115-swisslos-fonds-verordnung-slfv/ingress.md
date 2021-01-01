@@ -2,5 +2,5 @@
 (Swisslos-Fonds-Verordnung, SLFV)
 Vom 13.09.1999
 Der Regierungsrat des Kantons Aargau,
-gestützt auf § 33 des Dekrets über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (DAF) vom 5. Juni 2012,
+gestützt auf § 3 Abs. 3 des Geldspielgesetzes des Kantons Aargau (GSG) vom 30. Juni 2020 und § 33 des Dekrets über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (DAF) vom 5. Juni 2012,
 beschliesst:
