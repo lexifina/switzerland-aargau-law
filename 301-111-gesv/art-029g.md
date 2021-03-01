@@ -1,6 +1,10 @@
 # § 29g Steuergruppe
-1 Das Departement Gesundheit und Soziales setzt eine Steuergruppe ein, die aus je einer Vertreterin oder einem Vertreter des Departements Gesundheit und Soziales und des Departements Bildung, Kultur und Sport sowie aus je einer Vertreterin oder einem Vertreter der Verbände der Leistungserbringer zusammengesetzt ist.
+1 Die Abteilung Gesundheit setzt eine Steuergruppe mit maximal acht Mitgliedern ein.
+1bis Die Mitglieder werden von der Abteilung Gesundheit bestimmt. Bei der Zusammensetzung und bei der Stimmverteilung ist auf eine ausgewogene Vertretung der Interessengruppen (wie zum Beispiel der stationären und ambulanten Leistungserbringer) zu achten. Das Departement Bildung, Kultur und Sport und das Departement Gesundheit und Soziales sind je mit einer Person vertreten.
+1ter Die Steuergruppe ist beschlussfähig, wenn mindestens zwei Drittel der Mitglieder anwesend sind. Bei Stimmengleichheit hat die Vertretung der Abteilung Gesundheit den Stichentscheid.
 2 Der Steuergruppe obliegen insbesondere folgende Aufgaben:
-a) Beobachtung der Entwicklungen in der Berufsbildung im Gesundheitswesen und der Umsetzung der Ausbildungsverpflichtung sowie bei Bedarf Antragstellung an die zuständige Behörde,
-b) Periodische Überprüfung der Gesundheitsberufe mit Ausbildungsverpflichtung und der Berechnungswerte gemäss den Anhängen 1 bis 3 sowie bei Bedarf Antragstellung zur Änderung an den Regierungsrat,
-c) Antragstellung an das Departement Gesundheit und Soziales über die Gewährung weiterer Beiträge gemäss § 29f.
+a) Steuerung der Weiterentwicklung der Ausbildungsverpflichtung und Mitwirkung an derselben,
+b) Periodische Überprüfung der Gesundheitsberufe mit Ausbildungsverpflichtung und der Berechnungswerte gemäss den Anhängen 1 bis 3,
+c) Abgabe von Empfehlungen zur Anpassung der Berechnungswerte an die Abteilung Gesundheit,
+d) Beobachtung der Entwicklungen in der Berufsbildung im Gesundheitswesen sowie bei Bedarf Antragstellung an die zuständige Behörde,
+e) Antragstellung an die Abteilung Gesundheit über die Gewährung weiterer Beiträge gemäss § 29f.
