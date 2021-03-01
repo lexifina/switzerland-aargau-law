@@ -2,7 +2,8 @@
 1 Apothekerinnen und Apotheker können ohne ärztliche Verschreibung folgende Impfungen an Personen vornehmen:
 a) Impfung gegen Grippe,
 b) Impfung gegen Frühsommer-Meningoenzephalitis (FSME),
-c) Tetanus-Prophylaxe bei Verletzungen (Kombinationsimpfstoff).
+c) Tetanus-Prophylaxe bei Verletzungen (Kombinationsimpfstoff),
+d) Impfung gegen Covid-19.
 2 Apothekerinnen und Apotheker dürfen keine Impfungen vornehmen bei
 a) Personen unter 16 Jahren,
 b) kranken Personen,
