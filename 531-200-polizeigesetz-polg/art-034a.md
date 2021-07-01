@@ -1,0 +1,3 @@
+# § 34a Wegweisung und Fernhaltung; Häusliche Gewalt
+1 Die Polizei kann Personen, die der Anwendung von Gewalt gegen Mitglieder des gemeinsamen Haushalts dringend verdächtigt werden oder die mit Gewaltanwendung drohen, den Aufenthalt in den gemeinsam bewohnten Räumlichkeiten und deren unmittelbaren Umgebung vorübergehend verbieten und die zur Durchsetzung des Verbots erforderlichen Massnahmen treffen. Die betroffenen Personen sind vor der Anordnung anzuhören, soweit dies möglich ist.
+2 Die Wegweisung und Fernhaltung bei häuslicher Gewalt wird durch Verfügung eröffnet und dauert bis zu einem richterlichen Entscheid über eine Schutzmassnahme, längstens aber 20 Tage.

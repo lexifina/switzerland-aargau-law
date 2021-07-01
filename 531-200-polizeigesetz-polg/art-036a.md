@@ -1,0 +1,6 @@
+# § 36a Optisch-elektronische Überwachung
+1 Die Kantonspolizei kann zur Verhinderung und Erkennung von Verbrechen und Vergehen sowie zur Gefahrenabwehr bestimmte öffentlich zugängliche Orte, an denen häufig Straftaten begangen worden sind oder an denen mit Straftaten zu rechnen ist, optisch-elektronisch überwachen oder zu diesem Zweck auf Bildaufnahmegeräte von Dritten zugreifen.
+2 Die Überwachung mit Bildaufnahmegeräten von Vorgängen und Einrichtungen, die der geschützten Privatsphäre zuzurechnen sind, ist unzulässig. Entsprechende Bildaufnahmen, die aus technischen Gründen nicht verhindert werden können, sind umgehend zu vernichten.
+3 Vor der Anordnung einer Überwachung gemäss Absatz 1 ist eine Datenschutz-Folgenabschätzung gemäss § 17a Abs. 1 des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG) vom 24. Oktober 2006 durchzuführen. Sind die Voraussetzungen gemäss § 17b Abs. 1 lit. a und b IDAG erfüllt, ist die vorgesehene Überwachung der beauftragten Person für Öffentlichkeit und Datenschutz zur Vorab-Konsultation vorzulegen.
+4 Die Öffentlichkeit ist durch Hinweistafeln, Anzeigen auf Bildschirmen oder in anderer geeigneter Weise vor Ort auf den Einsatz der Bildaufnahmegeräte aufmerksam zu machen.
+5 Datenaufbewahrung und -vernichtung richten sich nach § 54.
