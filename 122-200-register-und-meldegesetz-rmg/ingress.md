@@ -1,4 +1,4 @@
-# Gesetz über die Einwohner- und Objektregister sowie das Meldewesen
+# Gesetz über die Register und das Meldewesen
 (Register- und Meldegesetz, RMG)
 Vom 18.11.2008
 Der Grosse Rat des Kantons Aargau,
