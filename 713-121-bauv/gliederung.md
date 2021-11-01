@@ -3,9 +3,12 @@
 ### 2.1. Allgemeine Nutzungspläne
 ### 2.2. Sondernutzungspläne
 ### 2.3. Verfahren
+## 2bis Definitionen
+## 2ter Einordnung von Bauten und Anlagen (§ 42 BauG)
 ## 3. Baubegriffe und Messweisen
 ## 4. Ausnützungsziffer
 ## 5. Energetische Sanierung
+## 5bis Anforderungen an die Beschaffenheit von Bauten und Anlagen (§ 52 BauG)
 ## 6. Hindernisfreies Bauen
 ## 7. Arealüberbauungen
 ## 8. Strassen und Parkfelder
