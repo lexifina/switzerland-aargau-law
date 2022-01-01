@@ -1,4 +1,4 @@
-# Verordnung über die Unfallversicherung von Schülerinnen und Schülern beziehungsweise Studentinnen und Studenten an aargauischen Lehranstalten
+# Verordnung über die Unfallversicherung von Schülerinnen und Schülern
 (V Schulunfallversicherung)
 Vom 22.10.1997
 Der Regierungsrat des Kantons Aargau,

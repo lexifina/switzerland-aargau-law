@@ -5,3 +5,5 @@ Mörikofer
 Staatsschreiber
 Pfirter
 Veröffentlichung: 18. November 1997
+Anhänge
+Anhang 1 : Leistungen bei Invalidität Anhang 2 : Kostenübernahme
