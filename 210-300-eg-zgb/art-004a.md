@@ -1,0 +1,8 @@
+# § 4a Elektronische Überwachung
+1 Das Amt für Justizvollzug ist für den Vollzug einer gerichtlich angeordneten elektronischen Überwachung zuständig (Art. 28c Abs. 1 ZGB).
+2 Vor Anordnung der elektronischen Überwachung prüft das zuständige Gericht zusammen mit dem Amt für Justizvollzug deren Vollziehbarkeit. Den als vollstreckbar erklärten Anordnungsentscheid stellt es dem Amt für Justizvollzug umgehend zu.
+3 Das Amt für Justizvollzug kann für die Prüfung der Vollziehbarkeit sowie für die Einrichtung und den Unterhalt der elektronischen Überwachung die Polizei beiziehen.
+4 Das Amt für Justizvollzug teilt der zuständigen Staatsanwaltschaft festgestellte Verstösse gegen die angeordneten Verbote gemäss Art. 28b ZGB beziehungsweise gegen die angeordnete Überwachungsmassnahme umgehend mit, sofern die Strafandrohung gemäss Art. 292 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937 ausgesprochen wurde.
+5 Das Amt für Justizvollzug erstattet dem die elektronische Überwachung anordnenden Gericht einen Monat vor Ablauf der angeordneten Überwachungsmassnahme Bericht über die Mitwirkung und die Einhaltung der Vollzugsregeln durch die überwachte Person.
+6 Die aufgezeichneten Daten über die beteiligten Personen dürfen nur zur Durchsetzung der angeordneten Verbote gemäss Art. 28b ZGB verwendet werden. Das Amt für Justizvollzug stellt sicher, dass die Daten spätestens zwölf Monate nach Abschluss der angeordneten Überwachungsmassnahme gelöscht werden.
+7 Der Regierungsrat regelt die Höhe der gemäss gerichtlichen Auflage von der überwachten Person zu tragenden Kosten durch Verordnung.
