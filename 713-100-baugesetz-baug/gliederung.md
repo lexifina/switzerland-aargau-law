@@ -25,7 +25,7 @@
 ### 6.1. Einleitung
 ### 6.2. Zuständigkeiten und Finanzierung
 ### 6.3. Projektierung und Ausführung
-### 6.4. Unterhalt
+### 6.4. Unterhalt und Betrieb
 ### 6.5. Verwaltung und Benutzung
 ### 6.6. Öffentliche Strassen und benachbartes Grundeigentum
 ## 7. Gewässer
