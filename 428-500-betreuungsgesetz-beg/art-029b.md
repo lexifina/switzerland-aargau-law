@@ -1,0 +1,4 @@
+# § 29b Beiträge der erwachsenen Menschen mit Behinderungen beim Bezug ambulanter Leistungen
+1 Die erwachsenen Menschen mit Behinderungen, die keinen Anspruch auf jährliche Ergänzungsleistungen der IV oder AHV haben, leisten den Einrichtungen mit ambulanten Angeboten gemäss § 2 Abs. 1 lit. dter individuelle Beiträge, die höchstens dem Preis der bezogenen Leistungen gemäss § 19 Abs. 4 entsprechen.
+2 Die Höhe der individuellen Beiträge bemisst sich nach den anrechenbaren Einnahmen abzüglich der anerkannten Ausgaben gemäss den Bestimmungen des Bundes und des Kantons Aargau zu den Ergänzungsleistungen der AHV und IV.
+3 Der Regierungsrat regelt die Einzelheiten zur Bemessung der Beiträge und das Verfahren. Er kann Dritte mit der Bemessung der Beiträge beauftragen, Höchstbeiträge festlegen und bestimmte ambulante Leistungen von der Beitragspflicht ausnehmen.

@@ -1,0 +1,8 @@
+# § 29a Beiträge der erwachsenen Menschen mit Behinderungen in stationären Einrichtungen
+1 Die erwachsenen Menschen mit Behinderungen entrichten den stationären Einrichtungen gemäss § 2 Abs. 1 lit. d individuelle Beiträge sowie Hilflosenentschädigungen der Sozialversicherungen, die zusammen höchstens dem Preis der bezogenen Leistungen gemäss § 19 Abs. 4 entsprechen.
+2 Die Höhe der individuellen Beiträge bemisst sich nach
+a) den anrechenbaren Einnahmen abzüglich der anerkannten Ausgaben ohne die Tagestaxe gemäss den Bestimmungen des Bundes und des Kantons Aargau zu den Ergänzungsleistungen der AHV und IV,
+b) den Ergänzungsleistungen der IV oder AHV.
+3 Die erwachsenen Menschen, bei denen die materiellen Voraussetzungen einer Invalidität in Abklärung sind und die keinen Anspruch auf Geldleistungen einer Sozialversicherung oder auf ein Krankentaggeld haben, entrichten einen Beitrag pro Kalendertag, der höchstens der Tagestaxe gemäss § 2 Abs. 1 lit. a Ziff. 2 des Gesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung im Kanton Aargau (Ergänzungsleistungsgesetz Aargau, ELG-AG) vom 26. Juni 2007 entspricht.
+4 Die Gemeinden am Unterstützungswohnsitz bevorschussen den stationären Einrichtungen die Beiträge gemäss Absatz 3 und beziehen diese von den erwachsenen Menschen. Können diese die Beiträge nicht aufbringen, haben sie bei der zuständigen Sozialbehörde ein Gesuch um materielle Hilfe zu stellen.
+5 Der Regierungsrat regelt die Einzelheiten zur Bemessung der Beiträge und das Verfahren. Er kann Dritte mit der Bemessung der Beiträge beauftragen und Höchstbeiträge festlegen.
