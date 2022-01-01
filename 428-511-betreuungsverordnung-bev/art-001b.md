@@ -1,0 +1,3 @@
+# § 1b Einrichtungen mit ambulanten Angeboten zur Entlastung von Familien mit Kindern und Jugendlichen mit schweren Behinderungen
+1 Einrichtungen mit ambulanten Angeboten zur Entlastung von Familien mit Kindern und Jugendlichen mit schweren Behinderungen übernehmen stunden- oder tageweise die Betreuung und Pflege im familiären Umfeld, um Aufenthalte in einer stationären Einrichtung oder einer Pflegefamilie zu vermeiden und den Eltern die notwendige Erholung zu ermöglichen.
+2 Eine schwere Behinderung liegt vor, wenn der behinderungsbedingte Aufwand in der Betreuung und Pflege mindestens 42.5 Stunden pro Woche beträgt.

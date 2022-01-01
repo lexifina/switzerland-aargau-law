@@ -1,0 +1,3 @@
+# § 3a Dienstleistungsanbieter in der Familienpflege
+1 Dienstleistungsanbieter in der Familienpflege vermitteln Kinder und Jugendliche in inner- und ausserkantonale Pflegefamilien, die ihnen Unterkunft, Verpflegung, Betreuung und Pflege anbieten. Die Vermittlung umfasst die Eignungsabklärung der Pflegeeltern und die Passung zwischen dem Kind oder Jugendlichen und der Pflegefamilie. Zudem stellen Dienstleistungsanbieter in der Familienpflege die Qualität des Pflegeverhältnisses sicher, begleiten und unterstützen die Pflegefamilien und entrichten den Pflegeeltern ein angemessenes Pflegegeld.
+2 Die Angebote umfassen auch die Vorbereitung und Begleitung der Rückkehr von Kindern und Jugendlichen in ihr angestammtes familiäres Umfeld, soweit dies angezeigt ist.

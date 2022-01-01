@@ -1,0 +1,4 @@
+# § 58a Änderung der persönlichen oder finanziellen Verhältnisse
+1 Die erwachsenen Menschen mit Behinderungen beziehungsweise deren gesetzliche Vertretungen sind verpflichtet, jede Änderung der persönlichen Verhältnisse sowie wesentliche Änderungen der finanziellen Verhältnisse umgehend der SVA Aargau zu melden.
+2 Die anerkannten stationären Einrichtungen und die anerkannten Einrichtungen mit ambulanten Angeboten zur Unterstützung des selbständigen Wohnens sind verpflichtet, die erwachsenen Menschen mit Behinderungen beziehungsweise deren gesetzliche Vertretungen einmal jährlich schriftlich auf ihre Meldepflicht gemäss Absatz 1 hinzuweisen.
+3 Die SVA Aargau ist verpflichtet, eine neue Festlegung der Beiträge gemäss den §§ 56a und 56b vorzunehmen, wenn sie sozialversicherungsrechtliche Leistungsansprüche des erwachsenen Menschen mit Behinderungen neu festlegt oder davon Kenntnis erhält. Für das weitere Verfahren gilt § 57 Abs. 2 und 3.
