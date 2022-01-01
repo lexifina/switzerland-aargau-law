@@ -5,4 +5,4 @@ Siegrist
 Staatsschreiber
 Pfirter
 Anhänge
-Anhang 1: Anhang
+Anhang 1 : Anhang 01
