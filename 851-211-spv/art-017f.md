@@ -15,8 +15,8 @@ d) einen Einkommensfreibetrag und eine Integrationszulage für vorläufig aufgen
 3 Für weitere situationsbedingte Leistungen ist beim Kantonalen Sozialdienst vorgängig ein schriftliches Gesuch um Kostengutsprache einzureichen.
 4 Der Kanton trägt die Kosten für
 a) vom zuständigen Organ beschlossene Heimunterbringungen, soweit sie nicht durch andere Kostenträger übernommen werden,
-b) Elternbeiträge gemäss § 54 Abs. 1 der Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsverordnung) vom 8. November 2006.
+b) Elternbeiträge gemäss § 54 der Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsverordnung, BeV) vom 8. November 2006.
 5 Der Kanton übernimmt für Personen in kantonalen Unterkünften
-a) die Gemeindebeiträge gemäss § 53 Abs. 1 und 4bis der Betreuungsverordnung,
+a) die Gemeindebeiträge gemäss § 53 BeV,
 b) die Restkosten der stationären Pflege gemäss den Bestimmungen der Pflegegesetzgebung,
 c) die Kosten der Mütter- und Väterberatung gemäss der zwischen dem Kantonalen Sozialdienst und der jeweiligen Trägerschaft der Mütter- und Väterberatungsstelle abgeschlossenen Vereinbarung.
