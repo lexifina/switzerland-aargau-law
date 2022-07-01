@@ -5,4 +5,4 @@ Hochuli
 Staatsschreiber
 Grünenfelder
 Anhänge
-Anhang 1 : Behördenportale gemäss § 2 Abs. 2 und 3
+Anhang 1 : Behördenportale ohne Zustellfunktion gemäss § 2 Abs. 2
