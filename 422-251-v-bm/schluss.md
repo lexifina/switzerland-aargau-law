@@ -5,4 +5,4 @@ Hasler
 Staatsschreiber
 Dr. Grünenfelder
 Anhänge
-Anhang 1 : Definitive Aufnahme in die 1. Klasse eines Berufsmaturitätsbildungsgangs an einer Berufsfachschule am Ende der Abschlussklasse der Bezirksschule Anhang 2 : Definitive Aufnahme in die 1. Klasse eines Berufsmaturitätsbildungsgangs an einer Berufsfachschule am Ende des 1. Semesters der Abschlussklasse der Bezirksschule Anhang 3 : Definitive Aufnahme in die 1. Klasse eines Berufsmaturitätsbildungsgangs an einer Berufsfachschule am Ende der Abschlussklasse der Sekundarschule Anhang 4 : Definitive Aufnahme in die 1. Klasse eines Berufsmaturitätsbildungsgangs an einer Berufsfachschule am Ende des 1. Semesters der Abschlussklasse der Sekundarschule
+Anhang 1 : Ausser Kraft Anhang 2 : Ausser Kraft Anhang 3 : Ausser Kraft Anhang 4 : Ausser Kraft Anhang 5 : Definitive Aufnahme in die 1. Klasse eines Berufsmaturitätslehrgangs an einer Berufsfachschule
