@@ -2,5 +2,5 @@
 ## 2. Vorbereitungskurs
 ## 3. Passerellenprüfung
 ## 4. Gebühren
-## 5. Rechtsschutz
+## 5. …
 ## 6. Schlussbestimmung
