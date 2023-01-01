@@ -7,5 +7,6 @@
 ## 4. Wildschaden
 ## 5. Jagdaufsicht
 ## 6. Bildung und Information
+## 6bis Gebühren
 ## 7. Strafbestimmungen
 ## 8. Schlussbestimmungen
