@@ -4,3 +4,5 @@ Landammann
 Hürzeler
 Staatsschreiber
 Grünenfelder
+Anhänge
+Anhang 01 : Anhang 1
