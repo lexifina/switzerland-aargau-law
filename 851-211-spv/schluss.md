@@ -5,4 +5,4 @@ Hasler
 Staatsschreiber
 Pfirter
 Anhänge
-Anhang 1 : Richtlinien für die Ausgestaltung und Bemessung der Sozialhilfe (SKOS-Richtlinien), Version vom 1. Januar 2022 (5. Ausgabe, ergänzt)
+Anhang 1 : Richtlinien für die Ausgestaltung und Bemessung der Sozialhilfe (SKOS-Richtlinien), Version vom 1. Januar 2023 (5. Ausgabe, ergänzt)
