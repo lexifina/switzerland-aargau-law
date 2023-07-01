@@ -5,4 +5,4 @@ Gallati
 Staatsschreiberin
 Filippi
 Anhänge
-Anhang 01: Immobilienstandards Anhang 02: Produktkatalog Immobilien
+Anhang 01 : Immobilienstandards Anhang 02: Produktkatalog Immobilien
