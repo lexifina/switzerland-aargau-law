@@ -1,3 +1,1 @@
-# § 12a Nichteintritt in das Langzeitpraktikum
-1 Wer selbst mit einer hypothetischen Note 6,0 in der interdisziplinären Projektarbeit (IDPA) weder den schulischen Teil des Qualifikationsverfahrens für den Erwerb des EFZ Kauffrau beziehungsweise Kaufmann erweiterte Grundbildung (E-Profil) noch die Bedingungen für das Bestehen des Berufsmaturitätsabschlusses erfüllt, muss das letzte Schuljahr vor einem zweiten Versuch wiederholen. Erst danach darf ein Eintritt in das Langzeitpraktikum erfolgen.
-2 Wer nach Wiederholung des letzten Schuljahrs die Bedingungen gemäss Absatz 1 ein weiteres Mal nicht erfüllt, wird aus der Schule entlassen.
+# § 12a …
