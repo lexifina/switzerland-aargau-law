@@ -5,4 +5,4 @@ Staatsschreiber
 i.V. Salm
 Inkrafttreten: 1. Juli 1989
 Anhänge
-Anhang 1: Schutzplan
+Anhang 1 : Schutzplan
