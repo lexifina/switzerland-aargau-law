@@ -8,6 +8,4 @@ b) andere polizeiliche Massnahmen erfolglos geblieben sind oder die polizeiliche
 5 Die Kantonspolizei bringt den Antrag auf Fortsetzung gemäss Absatz 4 der Oberstaatsanwaltschaft beziehungsweise bei Minderjährigen der Jugendanwaltschaft zur Kenntnis.
 6 Das Zwangsmassnahmengericht bringt den Genehmigungsentscheid gemäss Absatz 4 der Oberstaatsanwaltschaft beziehungsweise bei Minderjährigen der Jugendanwaltschaft zur Kenntnis.
 7 Die Kantonspolizei teilt den betroffenen Personen spätestens mit Abschluss der präventiven verdeckten Fahndung mit, dass nach ihnen verdeckt gefahndet worden ist.
-8 Die Mitteilung gemäss Absatz 7 kann mit Zustimmung des Zwangsmassnahmengerichts aufgeschoben oder unterlassen werden, wenn
-a) die Erkenntnisse nicht zu Beweiszwecken verwendet werden, und
-b) der Aufschub oder die Unterlassung zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
+8 …

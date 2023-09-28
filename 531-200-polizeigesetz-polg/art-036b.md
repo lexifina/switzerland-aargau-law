@@ -1,7 +1,7 @@
 # § 36b Automatische Fahrzeugfahndung und Verkehrsüberwachung
 1 Die Polizei kann Kontrollschilder von Fahrzeugen automatisiert erfassen und mit Datenbanken abgleichen.
 2 Der automatisierte Abgleich ist zulässig mit
-a) polizeilichen Personen- und Sachfahndungsregistern,
+a) …
 b) Listen von Kontrollschildern von Fahrzeugen, deren Halterinnen und Halter der Führerausweis entzogen oder verweigert worden ist,
 c) konkreten Fahndungsaufträgen der Kantonspolizei.
 3 Die automatisch erfassten Daten werden wie folgt gelöscht:
