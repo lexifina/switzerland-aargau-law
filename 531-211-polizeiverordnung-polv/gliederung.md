@@ -10,6 +10,7 @@
 ## 4. Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen
 ## 5. Waffengesetzgebung des Bundes
 ## 6. Sprengstoffgesetzgebung des Bundes
+## 6bis Bundesgesetzgebung nichtionisierende Strahlung
 ## 7. Datenschutz
 ### 7.1. Allgemeines
 ### 7.2. Datenbearbeitung
