@@ -4,5 +4,5 @@
 3 Die Beschlagnahmungen sind der AMB sofort zu melden. Die AMB erlässt umgehend einen anfechtbaren Entscheid.
 4 Die gemieteten oder beschlagnahmten Mittel werden gemäss den Regietarifen des Schweizerischen Baumeisterverbandes oder anderer Verbände abgegolten.
 5 Vor der Übernahme und bei der Rückgabe wird je ein Protokoll erstellt.
-6 Die Kosten der Instandstellung oder Wiederbeschaffung der beschlagnahmten Mittel haben der KFS oder die RFO zu tragen.
+6 Die Kosten der Wartung, der Instandsetzung oder der Wiederbeschaffung der beschlagnahmten Mittel haben der KFS oder die RFO zu tragen.
 7 Die Versicherung der beschlagnahmten Mittel ist Sache des beschlagnahmenden Organs.

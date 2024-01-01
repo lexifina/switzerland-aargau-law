@@ -1,0 +1,4 @@
+# § 8d Obligatorische Sicherheitsveranstaltung Bevölkerungsschutz b) Ausnahmen von der Teilnahmepflicht
+1 Von der Teilnahme ausgenommen sind Personen mit einem Invaliditätsgrad ab 40% und Frauen, die freiwillig den Orientierungstag besucht haben.
+2 Personen, die nur vorübergehend aufgrund von Unfall, Krankheit oder Schwangerschaft verhindert sind oder die einen Auslandsaufenthalt mit zivilrechtlicher Abmeldung absolvieren, können die Teilnahme unter Vorlage eines entsprechenden Zeugnisses oder Nachweises um maximal ein Jahr verschieben.
+3 Die kantonale Koordinationsstelle für den Bevölkerungsschutz legt fest, unter welchen Voraussetzungen die Teilnahmepflichtigen ihre Teilnahme an der Sicherheitsveranstaltung unter Vorlage eines Zeugnisses oder Nachweises um maximal ein Jahr verschieben oder sich von einer Teilnahme befreien lassen können.

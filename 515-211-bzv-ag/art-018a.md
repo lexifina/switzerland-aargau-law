@@ -1,10 +1,11 @@
 # § 18a Materialbeschaffung
-1 Die Beschaffung von Material erfolgt aufgrund der Vorgaben von Bund und Kanton sowie auf der Basis der Leistungsaufträge und Leistungsprofile.
-2 Für die Erarbeitung von Materialbedürfnissen sowie für die Koordination der Materialbeschaffung wird eine paritätische Arbeitsgruppe mit vier Vertretenden der AMB, drei Vertretenden der ZSO sowie einer Vertretung des Aargauischen Zivilschutzverbandes gebildet. Den Vorsitz übernimmt die AMB.
-3 Der Aufwand für die Koordination der Materialbeschaffung wird verrechnet, wenn
+1 Die Beschaffung von standardisiertem Material erfolgt aufgrund der Vorgaben des Bundes und der kantonalen Koordinationsstelle für den Zivilschutz sowie auf der Basis der Leistungsaufträge und Leistungsprofile.
+2 …
+3 Der Aufwand für die Evaluation, Beschaffung und Entsorgung des standardisierten Zivilschutzmaterials wird verrechnet, wenn
 a) spezielles Material von einer Minderheit der ZSO benötigt wird,
 b) der Aufwand für die Abklärungen den normalen Rahmen von zwei Arbeitstagen pro Produkt überschreitet,
 c) umfangreiche Materialtests erforderlich sind,
 d) für die Abklärungen eine externe Beratung beigezogen werden muss.
-4 Das Material des Zivilschutzes wird in der Zentralen Datenbank Zivilschutz verwaltet. Die Kostenanteile für Lizenz- und Wartungsgebühren, Erweiterungen, Softwareanpassungen, Betrieb und Unterhalt werden zwischen der AMB und den ZSO im Verhältnis der Nutzung aufgeteilt und in einem Nutzungsvertrag geregelt.
-5 Das Spezialmaterial des Bevölkerungsschutzes wird im Modul Material der Zentralen Datenbank Zivilschutz erfasst. Dem KFS und den RFO wird der Zugang gewährt. Über weitere Zugangsberechtigungen entscheidet die AMB. Die Datenverwaltung und die Datenaktualisierung erfolgen durch die AMB mit Unterstützung des KFS und der RFO. Die Koordination und Umsetzung werden durch Weisung geregelt.
+4 Das Material des Zivilschutzes wird in der zentralen Datenbank Zivilschutz verwaltet. Die Kostenanteile für Lizenz- und Wartungsgebühren, Erweiterungen, Softwareanpassungen, Betrieb und Unterhalt werden zwischen der kantonalen Koordinationsstelle für den Zivilschutz und den ZSO im Verhältnis der Nutzung aufgeteilt und in einem Nutzungsvertrag geregelt. Die Informatikkosten können im Rahmen der bundesrechtlichen Vorgaben über Ersatzbeiträge verrechnet werden.
+5 …
+6 Die kantonale Koordinationsstelle für den Zivilschutz kann für die Reparatur des Materials des Zivilschutzes Leistungsverträge abschliessen.
