@@ -1,0 +1,4 @@
+# § 41a Umgang mit Immobilienvorhaben am 31. Dezember 2023
+1 Bei Immobilienvorhaben ab Fr. 20 Mio., für die der Grosse Rat den Verpflichtungskredit für die Ausführung zwischen dem 1. Januar 2021 und dem 31. Dezember 2023 beschlossen hat, werden anstelle der Nettoinvestitionen deren jährliche Abschreibungen für den massgeblichen Saldo der Finanzierungsrechnung berücksichtigt.
+2 Am 31. Dezember 2023 aktivierte Investitionen für Immobilienvorhaben, die in der für die Schuldenbremse massgebenden Finanzierungsrechnung bisher nicht berücksichtigt wurden, werden einmalig und vollständig zu Lasten der Jahresrechnung 2024 abgeschrieben. Ausgenommen sind Immobilienvorhaben gemäss Absatz 1.
+3 Die Abschreibungen gemäss Absatz 2 werden in dem für die Schuldenbremse massgeblichen Saldo der Finanzierungsrechnung berücksichtigt.
