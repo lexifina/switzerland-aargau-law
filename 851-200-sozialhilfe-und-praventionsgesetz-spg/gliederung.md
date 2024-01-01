@@ -5,6 +5,7 @@
 #### 2.1.2. Persönliche Hilfe
 #### 2.1.3. Materielle Hilfe
 #### 2.1.4. Sonderbestimmungen
+##### 2.1.5. Observation
 ### 2.2. Rückerstattung
 ## 3. Massnahmen der sozialen Prävention
 ### 3.1. Allgemeines
