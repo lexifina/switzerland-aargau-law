@@ -7,6 +7,7 @@
 ## 3. Steuerung
 ## 4. Verpflichtungskredit
 ## 5. Vermögen und Finanzverbindlichkeiten
-## 6. Spezialfinanzierungen, Fonds, Legate, Stiftungen
+## 6. Spezialfinanzierungen und Zuwendungen aus privaten Mitteln mit besonderer Zweckbindung
+## 6bis. Finanzausgleich der Gemeinden
 ## 7. Führungsunterstützung
 ## 8. Übergangs- und Schlussbestimmungen
