@@ -3,4 +3,4 @@
 2 An die Erfüllung der Aufnahmequote angerechnet werden
 a) Personen in kantonalen Unterkünften,
 b) Personen in Bundesunterkünften,
-c) Personen gemäss Art. 83 Abs. 1 des Bundesgesetzes über die Ausländerinnen und Ausländer (Ausländergesetz, AuG) vom 16. Dezember 2005.
+c) Personen gemäss Art. 83 Abs. 1 des Bundesgesetzes über die Ausländerinnen und Ausländer und über die Integration (Ausländer- und Integrationsgesetz, AIG) vom 16. Dezember 2005.
