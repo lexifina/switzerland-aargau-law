@@ -1,7 +1,7 @@
 # § 17e Asylsuchende, Schutzbedürftige ohne Aufenthaltsbewilligung und vorläufig Aufgenommene (§ 17 SPG); Bemessung
 1 Für den tatsächlichen Anwesenheitstag in der Unterkunft beträgt der Ansatz für die Verpflegung:
-a) für Erwachsene sowie Jugendliche ab vollendetem 16. Altersjahr Fr. 8.–
-b) für Kinder bis zum vollendeten 16. Altersjahr Fr. 7.50
+a) für Erwachsene sowie Jugendliche ab vollendetem 16. Altersjahr Fr. 8.50
+b) für Kinder bis zum vollendeten 16. Altersjahr Fr. 8.–
 c) …
 2 Erwachsene, Jugendliche und Kinder ab vollendetem 6. Altersjahr erhalten darüber hinaus ein Taschengeld von Fr. 1.– pro tatsächlichem Anwesenheitstag.
 3 Notwendige Bekleidung wird als Sachleistung gewährt oder es wird ein Kleidergeld von Fr. 60.– pro Quartal und Person ausgerichtet.
