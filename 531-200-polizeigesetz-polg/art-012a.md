@@ -7,5 +7,6 @@ d) präventive Observation mit Überwachungsgeräten zur Standortfeststellung ge
 e) präventive verdeckte Fahndung gemäss § 35c Abs. 1,
 f) präventive verdeckte Ermittlung gemäss § 35d Abs. 1,
 g) optisch-elektronische Überwachung gemäss § 36a Abs. 1,
+gbis) automatische Fahrzeugfahndung und Verkehrsüberwachung gemäss § 36b Abs. 1,
 h) Datenabgleich gemäss § 36b Abs. 4.
 2 Der Regierungsrat bezeichnet die für die Anordnungen gemäss Absatz 1 zuständigen polizeilichen Kaderfunktionen durch Verordnung.
