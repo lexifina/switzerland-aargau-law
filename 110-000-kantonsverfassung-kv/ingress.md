@@ -1,4 +1,5 @@
 # Verfassung des Kantons Aargau
+(Kantonsverfassung, KV)
 Vom 25.06.1980
 Das Aargauer Volk,
 in der Absicht,
