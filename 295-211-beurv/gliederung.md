@@ -12,4 +12,5 @@
 ## 4. Behörden und Verfahren
 ### 4.1. Notariatskommission
 ### 4.2. Notariatsprüfungskommission
+## 4bis Beglaubigungen
 ## 5. Übergangs- und Schlussbestimmungen
