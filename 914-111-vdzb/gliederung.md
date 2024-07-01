@@ -7,5 +7,5 @@
 #### 2.2.3. Kantonale Naturschutzbeiträge
 ### 2.3. Landschaftsqualitätsbeiträge
 ## 3. Kontrollen, Sanktionen und Auszahlung
-## 4. Gebühren
+## 4. Kostenbeteiligung
 ## 5. Schlussbestimmung

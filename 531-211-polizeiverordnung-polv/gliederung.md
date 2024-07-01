@@ -17,9 +17,9 @@
 ### 7.3. Aufbewahrungsfristen
 ### 7.4. Archivierung
 ### 7.5. Datenaustausch mit anderen Kantonen und Bundesbehörden
-## 8. Abgeltungen und Gebühren
+## 8. Abgeltungen
 ### 8.1. Abgeltung der lokalen Sicherheit
 ### 8.2. Abgeltung der Unterstützungsleistungen
-### 8.3. Gebühren der Kantonspolizei
-### 8.4. Mehrwertsteuer
+### 8.3. …
+### 8.4. …
 ## 9. Übergangs- und Schlussbestimmungen

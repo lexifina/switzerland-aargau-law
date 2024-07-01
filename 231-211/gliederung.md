@@ -1,3 +1,3 @@
 ## 1. Prüfung
-## 2. Gebühren und Entschädigungen
+## 2. Entschädigungen
 ## 3. Schlussbestimmung

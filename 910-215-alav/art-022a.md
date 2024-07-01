@@ -1,2 +1,1 @@
-# § 22a Sonderbewilligungen für Pflanzenschutzmassnahmen
-1 Für die Behandlung von Gesuchen um die Erteilung von Sonderbewilligungen für Pflanzenschutzmassnahmen gemäss § 18 Abs. 4 der Verordnung über die Direktzahlungen an die Landwirtschaft (Direktzahlungsverordnung, DZV) vom 23. Oktober 2013 sowie für die zugehörige Beratung bei entsprechenden Einzelbewilligungen gemäss Anhang 1 Ziffer 6.3.1 DZV werden keine Gebühren erhoben.
+# § 22a …

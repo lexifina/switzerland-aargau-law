@@ -5,6 +5,6 @@
 ## 5. Handel und Werbung mit Tieren (Art. 45–51 TSchV)
 ## 6. Tierversuche (Art. 58–64 TSchV)
 ## 7. Dopingkontrollen bei Tieren (Art. 66 TSchV)
-## 8. Gebühren
+## 8. …
 ## 9. Verfahrensvorschriften
 ## 10. Übergangs- und Schlussbestimmungen
