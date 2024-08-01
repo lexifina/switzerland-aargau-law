@@ -5,3 +5,5 @@ Hans Ulrich Stöckling
 Der Generalsekretär
 Hans Ambühl
 Beitritt Kanton Aargau mit Wirkung ab 1. Januar 2024.
+Anhänge
+Anhang 1 : Anhang I
