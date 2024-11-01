@@ -1,0 +1,4 @@
+# § 29a Schutzwaldpflege
+1 Die Abteilung Wald des Departements Bau, Verkehr und Umwelt schliesst mit den betriebsplanpflichtigen Waldeigentümerinnen und Waldeigentümern oder deren Forstbetriebe Vereinbarungen zur Sicherstellung der Schutzfunktion des Schutzwalds ab. Die Dauer der Vereinbarungen richtet sich in der Regel nach den Programmvereinbarungen mit dem Bund.
+2 Erfordert es die Sicherstellung der Schutzfunktion des Schutzwalds, verpflichtet die Abteilung Wald des Departements Bau, Verkehr und Umwelt die Waldeigentümerinnen und Waldeigentümer zu einer minimalen Schutzwaldpflege. Diese beschränkt sich auf die Erhaltung der Schutzfunktion und die nachhaltige Sicherung der Bestandesstabilität.
+3 Die Abteilung Wald des Departements Bau, Verkehr und Umwelt erhebt jährlich von den Einwohnergemeinden und Infrastrukturbetreibenden die Nutzniessendenbeiträge für die Schutzwaldpflege.
