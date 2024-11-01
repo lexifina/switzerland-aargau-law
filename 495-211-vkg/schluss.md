@@ -5,4 +5,4 @@ Brogli
 Staatsschreiber
 Dr. Grünenfelder
 Anhänge
-Anhang 1 : Anhang
+Anhang 1 : Ausser Kraft Anhang 2 : Aargauer Kuratorium; Entschädigung der Mitglieder Anhang 3 : Beiträge des Kantons bei Baudenkmälern
