@@ -10,6 +10,7 @@
 ## 4. Förderungsmassnahmen
 ### 4.1. Ausbildung; Erhebungen, Forschung; Information und Beratung
 ### 4.2. Finanzierung
+### 4.3. Holzförderung und Holzverwendung
 ## 5. Organisation und Verfahren
 ### 5.1. Organisation
 ### 5.2. Verfahren
