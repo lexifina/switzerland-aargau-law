@@ -1,2 +1,3 @@
 # § 19a Ausreisepflichtige Personen; Nothilfe
 1 Personen mit einem rechtskräftigen Wegweisungsentscheid gemäss Asylrecht, denen eine Ausreisefrist angesetzt wurde, erhalten lediglich die für ein menschenwürdiges Dasein unerlässlichen Mittel in Form von Natural- und Sachleistungen (Nahrung, Kleidung, Obdach, medizinische Notversorgung), sofern sie nicht in der Lage sind, anderweitig für sich zu sorgen, und keine Leistungsverpflichtungen von Drittpersonen bestehen.
+2 Wird Verpflegung nicht als Sachleistung gewährt, beträgt der Tagesansatz für die Verpflegung für jeden tatsächlichen Anwesenheitstag in der Unterkunft Fr. 8.–.
