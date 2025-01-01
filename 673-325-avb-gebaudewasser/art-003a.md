@@ -1,6 +1,6 @@
 # § 3a Dekontaminationskosten
 1 Zusätzlich sind Kosten versichert für
-a) die Untersuchung, die Dekontamination sowie den Austausch von kontaminiertem Erdreich (inkl. Fauna und Flora) auf dem Grundstück auf dem sich das versicherte Gebäude befindet und sich der Wasserschaden ereignet hat,
+a) die Untersuchung, die Dekontamination sowie den Austausch von kontaminiertem Erdreich (inkl. Fauna und Flora) auf dem Grundstück, auf dem sich das versicherte Gebäude befindet und sich der Wasserschaden ereignet hat,
 b) den Transport von kontaminiertem Erdreich in eine Wiederaufbereitungsanlage und wieder zurück zur Schadenstätte,
 c) den Transport von kontaminiertem Erdreich in die nächste geeignete Deponie und die dortige Ablagerung oder Vernichtung,
 d) die anschliessende Wiederherstellung des Grundstücks in den Zustand wie vor Eintritt des Schadenfalls.
