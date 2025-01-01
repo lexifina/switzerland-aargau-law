@@ -1,4 +1,4 @@
-# § 131a Nachträgliche ordentliche Veranlagung
+# § 131a II. Nachträgliche ordentliche Veranlagung
 1 Für die nachträgliche ordentliche Veranlagung ist in den folgenden Fällen die Veranlagungsbehörde gemäss diesem Gesetz zuständig:
 a) für Arbeitnehmer gemäss § 131 Abs. 1 lit. a, die am Ende der Steuerpflicht oder der Steuerperiode ihren steuerrechtlichen Wohnsitz oder Aufenthalt im Kanton hatten;
 b) für Arbeitnehmer gemäss § 131 Abs. 1 lit. b, die am Ende der Steuerpflicht oder der Steuerperiode Wochenaufenthalt im Kanton hatten;

@@ -1,3 +1,3 @@
-# § 129a Notwendige Vertretung
+# § 129a 2. Notwendige Vertretung
 1 Die Steuerbehörden können von einer steuerpflichtigen Person mit Wohnsitz oder Sitz im Ausland verlangen, dass sie einen Vertreter in der Schweiz bezeichnet.
 2 Personen, die gemäss § 125c eine nachträgliche ordentliche Veranlagung beantragen, müssen die erforderlichen Unterlagen einreichen und eine Zustelladresse in der Schweiz bezeichnen. Wird keine Zustelladresse bezeichnet oder verliert die Zustelladresse während des Veranlagungsverfahrens ihre Gültigkeit, gewährt die zuständige Behörde der steuerpflichtigen Person eine angemessene Frist für die Bezeichnung einer gültigen Zustelladresse. Läuft diese Frist unbenutzt ab, tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuer auf dem Erwerbseinkommen. § 187 Abs. 2 gilt sinngemäss.
