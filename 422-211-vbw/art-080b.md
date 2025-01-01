@@ -1,8 +1,8 @@
-# § 80b Bildungsgutscheine
-1 Teilnehmende an Kursen zum Erwerb und den Erhalt von Grundkompetenzen Erwachsener können bei akkreditierten Bildungsanbietenden Bildungsgutscheine einlösen, wenn sie
+# § 80b Bildungsgutscheine a) Voraussetzungen zur Einlösung und Auftrag an Dritte
+1 Teilnehmende an Kursen zum Erwerb und den Erhalt von Grundkompetenzen Erwachsener können bei akkreditierten Bildungsanbietenden im Kanton Aargau oder benachbarten Kantonen Bildungsgutscheine einlösen, wenn sie
 a) zwischen 18 und 65 Jahre alt sind,
 b) zivilrechtlichen Wohnsitz im Kanton Aargau haben,
-c) in Deutsch mindestens das Sprachniveau A2 gemäss dem Gemeinsamen Europäischen Referenzrahmen für Sprachen (GER) aufweisen,
+c) in Deutsch mindestens das Sprachniveau A1 gemäss dem Gemeinsamen Europäischen Referenzrahmen für Sprachen (GER) oder das geforderte Sprachniveau des Kursbeschriebs aufweisen,
 d) nicht gleichzeitig eine Ausbildung auf der Sekundarstufe II absolvieren,
 e) einen von der Abteilung Berufsbildung und Mittelschule bewilligten Grundkompetenzkurs gemäss § 80 Abs. 2 besuchen, und
 f) mindestens 60 % des Grundkompetenzkurses besucht haben.
