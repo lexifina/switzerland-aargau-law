@@ -5,4 +5,5 @@
 ## 4. Anforderungen an Weine mit kontrollierter Ursprungsbezeichnung
 ## 5. Kontrollierte Ursprungsbezeichnung
 ## 5bis. Weinspezifische Begriffe
+## 5ter. Grand Cru Aargau
 ## 6. Schlussbestimmungen
