@@ -6,3 +6,5 @@
 5 Für die Eintragung des Grundpfands erlässt die Bezugsbehörde eine anfechtbare Pfandrechtsverfügung.
 6 Die Bezugsbehörde beantragt bei der Abteilungspräsidentin oder beim Abteilungspräsidenten des Spezialverwaltungsgerichts die vorläufige Eintragung des Grundpfandrechts (Art. 961 ZGB), wenn Gründe bestehen, dass die Fristen gemäss Art. 836 Abs. 2 ZGB nicht eingehalten werden können.
 7 Die Abgaben und Gebühren des Grundbuchamts gehen zu Lasten der für den Bezug zuständigen Behörde.
+10. Steuerstrafrecht
+10.1. Verletzung von Verfahrenspflichten und Steuerhinterziehung
