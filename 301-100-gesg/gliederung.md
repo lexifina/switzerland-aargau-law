@@ -4,6 +4,7 @@
 ### 3.1. Allgemeine Bestimmungen
 ### 3.2. Berufsausübung
 ## 4. Organisationen und Betriebe im Gesundheitswesen
+## 4bis. Zulassung zur Abrechnung zulasten der obligatorischen Krankenpflegeversicherung
 ## 5. Rechte und Pflichten der Patientinnen und Patienten
 ## 6. Gesundheitsvorsorge
 ## 7. Versorgungssicherheit
