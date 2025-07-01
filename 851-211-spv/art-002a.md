@@ -1,2 +1,2 @@
 # § 2a SKOS-Richtlinien
-1 Für die Sozialhilfe sind die von der Schweizerischen Konferenz für Sozialhilfe erlassenen Richtlinien (SKOS-Richtlinien) in der ab 1. Januar 2023 geltenden Fassung gemäss Anhang verbindlich. Vorbehalten bleiben die in dieser Verordnung sowie im SPG beziehungsweise dessen Ausführungserlassen enthaltenen Ausnahmen.
+1 Für die Sozialhilfe sind die von der Schweizerischen Konferenz für Sozialhilfe erlassenen Richtlinien (SKOS-Richtlinien) in der ab 1. Januar 2025 geltenden Fassung gemäss Anhang verbindlich. Vorbehalten bleiben die in dieser Verordnung sowie im SPG beziehungsweise dessen Ausführungserlassen enthaltenen Ausnahmen.
