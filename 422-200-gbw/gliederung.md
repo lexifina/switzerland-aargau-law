@@ -3,7 +3,7 @@
 ### 2.1. Allgemeines
 ### 2.2. Anbieter der beruflichen Grundbildung
 #### 2.2.1. Anbieter der Bildung in beruflicher Praxis
-#### 2.2.2. Öffentliche Anbieter der schulischen Bildung: Berufsfachschule, Berufsmaturitätsausbildung und Fachkurse
+#### 2.2.2. Öffentliche Berufsfachschulen
 #### 2.2.3. Andere Angebote
 #### 2.2.4. Private Anbieter der schulischen Bildung
 ## 3. Höhere Berufsbildung
@@ -23,5 +23,6 @@
 ### 8.4. Höhere Berufsbildung
 ### 8.5. Weiterbildung
 ### 8.6. Weitere Aufgaben
+## 8bis. Bearbeitung und Bekanntgabe von Personendaten
 ## 9. Rechtsmittel, Strafverfolgung
 ## 10. Schluss- und Übergangsbestimmungen
