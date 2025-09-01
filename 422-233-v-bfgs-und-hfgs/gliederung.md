@@ -11,6 +11,7 @@
 #### 3.2.2. Ausbildung
 #### 3.2.3. Leistungsbeurteilungen und Promotionsentscheide
 #### 3.2.4. Abschliessendes Qualifikationsverfahren und Diplom
+#### 3.2.5. Teilzeitbildungsgang
 ### 3.3. Bildungsgang Operationstechnik HF
 #### 3.3.1. Zulassung
 #### 3.3.2. Ausbildung
