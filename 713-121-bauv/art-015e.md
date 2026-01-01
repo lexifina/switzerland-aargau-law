@@ -5,4 +5,4 @@ b) Proportionen und Dimensionen der Bauten,
 c) Form, Staffelung und Gliederung der Bauten,
 d) Dachform, Dachneigung und Dachaufbauten,
 e) Gestaltung, Materialisierung und Farbgebung von Fassaden und Dächern,
-f) Ausgestaltung von Aussenräumen wie namentlich Grundstückzufahrten und -zugänge, Abstellplätze, Vorgärten und Grünflächen.
+f) Ausgestaltung von Aussenräumen wie namentlich Grundstückzufahrten und ‑zugänge, Abstellplätze, Vorgärten und Grünflächen.
