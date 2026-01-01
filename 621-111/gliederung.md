@@ -1,5 +1,5 @@
 ## 1. Behörden
-## 2. Ordentliches Veranlagungsverfahren
+## 2. Veranlagungsverfahren
 ## 3. Beschwerdeverfahren
 ## 4. Quellensteuer
 ## 5. Eröffnung der Veranlagung
