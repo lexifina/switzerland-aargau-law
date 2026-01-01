@@ -4,6 +4,7 @@
 ### 2.2. Das Büro
 ### 2.3. Kommissionen
 ### 2.4. Fraktionen
+### 2.4bis. Präsidentenkonferenz
 ### 2.5. Protokollführung und Parlamentsdienst
 ## 3. Informationsrechte und Amtsverschwiegenheit
 ### 3.1. Ratsmitglieder und Angehörige des Parlamentsdienstes
