@@ -5,3 +5,4 @@ a) Anzahl geleisteter Ausbildungswochen,
 b) Gewichtung,
 c) Normansatz.
 3 Beauftragt ein Leistungserbringer einen anderen Leistungserbringer zur Erbringung gewisser Ausbildungsleistungen, so werden nur dem Auftraggeber die entsprechenden Ausbildungspunkte angerechnet. Entsprechende Vereinbarungen und deren Änderungen sind schriftlich abzuschliessen und dem Departement Gesundheit und Soziales unverzüglich einzureichen.
+4 Die Definition und Festlegung der nicht formalisierten Ausbildungsleistung (nfA) richtet sich nach Anhang 4.
