@@ -3,7 +3,9 @@
 ### 2.1. Datensicherheit
 ### 2.2. Übrige Bestimmungen
 ## 3. Gemeinsame Bestimmungen zum Öffentlichkeitsprinzip und Datenschutz
-## 4. Archivwesen
-### 4.1. Allgemeine Bestimmungen
-### 4.2. Bestand und Benutzung des Staatsarchivs
+## 4. Aktenführung und Archivwesen
+### 4.1. Aktenführung
+#### 4.1.1. Grundsätze der Aktenführung
+#### 4.1.2. Anbietepflicht kantonaler Behörden ans Staatsarchiv
+### 4.2. Archivwesen
 ## 5. Schluss- und Übergangsbestimmungen
