@@ -1,0 +1,5 @@
+# § 23a Verschreibungspflichtige Arzneimittel
+1 Zur Abgabe von verschreibungspflichtigen Arzneimitteln sind vorbehältlich § 44 GesG Medizinal- und Fachpersonen im Gesundheitswesen (Fachpersonen) gemäss Art. 24 Abs. 1 und 2 des Bundesgesetzes über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG) vom 15. Dezember 2000 berechtigt.
+2 Im Rahmen ihrer Berufsausübung ist es neben Medizinalpersonen auch Personen der Berufskategorien gemäss Art. 52 Abs. 2 der Verordnung über die Arzneimittel (Arzneimittelverordnung, VAM) vom 21. September 2018 gestattet, eigenverantwortlich verschreibungspflichtige Arzneimittel anzuwenden.
+3 Die Bewilligung zur Berufsausübung gemäss § 10 VBOB oder die Betriebsbewilligung gemäss § 35 VBOB beinhaltet die Bewilligung zur Anwendung von verschreibungspflichtigen Arzneimitteln durch die in Absatz 2 genannten Fachpersonen.
+4 Die Kantonsapothekerin oder der Kantonsapotheker bestimmt die Arzneimittel, welche die in Absatz 2 genannten Fachpersonen anwenden dürfen.
