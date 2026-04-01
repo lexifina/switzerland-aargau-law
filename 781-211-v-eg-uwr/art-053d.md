@@ -4,3 +4,4 @@
 3 Das Kontrollintervall für Tankstellen ohne automatische Funktionssicherung beträgt 12 Monate, für Anlagen älter als 12 Jahre oder bei Nichteinhalten der LRV-Vorgaben 6 Monate.
 4 Das Kontrollintervall für Tankstellen mit selbstüberwachter automatischer Funktionssicherung beträgt 2 Jahre, bei Nichteinhalten der LRV-Vorgaben 1 Jahr.
 5 Das Kontrollintervall für Tankstellen mit selbstregulierender automatischer Funktionssicherung beträgt 3 Jahre, bei Nichteinhalten der LRV-Vorgaben 1 Jahr.
+9. Lärmschutz
