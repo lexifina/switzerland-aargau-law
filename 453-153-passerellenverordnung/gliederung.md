@@ -1,6 +1,0 @@
-## 1. Allgemeines
-## 2. Vorbereitungskurs
-## 3. Passerellenprüfung
-## 4. …
-## 5. …
-## 6. Übergangs- und Schlussbestimmungen

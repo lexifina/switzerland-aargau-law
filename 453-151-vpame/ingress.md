@@ -2,5 +2,7 @@
 (VPAME)
 Vom 07.01.1998
 Der Regierungsrat des Kantons Aargau,
-gestützt auf die §§ 38 und 39 Abs. 2 des Dekrets über die Mittelschulen (Mittelschuldekret) vom 20. Oktober 2009,
+gestützt auf die §§ 10 Abs. 2 und 22 Abs. 3 des Mittelschulgesetzes (MSG) vom 23. September 2025,
 beschliesst:
+1. Allgemeines und Promotion
+1.1. Allgemeines
