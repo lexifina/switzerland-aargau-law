@@ -7,3 +7,5 @@ d) Entscheide betreffend Gebühren und Auslagen.
 2 Die anerkannten öffentlichen und privaten höheren Fachschulen können zur Wahrnehmung ihrer Aufgaben nach dem Leistungsvertrag Verfügungen erlassen, insbesondere:
 a) Entscheide gemäss Absatz 1,
 b) Entscheide über die Erteilung von Diplomen.
+2. Berufliche Grundbildung
+2.1. Bildung in beruflicher Praxis

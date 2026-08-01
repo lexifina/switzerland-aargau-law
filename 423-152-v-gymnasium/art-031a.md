@@ -1,0 +1,5 @@
+# § 31a Übertritt von der Fachmittelschule an das Gymnasium
+1 Schülerinnen und Schüler, deren Abschlussnoten nach Berechnung gemäss § 20 der Verordnung über die Promotion, den Fachmittelschulabschluss und die Fachmaturität an der Fachmittelschule (V FMS) vom 19. Mai 2010 in den Abschlussfächern einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 5 erreichen, sind berechtigt, in die 3. Klasse des Gymnasiums überzutreten.
+2 Der Notendurchschnitt berechtigt zum einmaligen Übertritt in die 3. Klasse des Gymnasiums auf Beginn eines der beiden Schuljahre, die im Anschluss an die 3. Klasse der Fachmittelschule folgen. Vor dem Übertritt an das Gymnasium darf keine Fachmaturität erworben werden.
+3 Schülerinnen und Schüler, die ab dem Schuljahr 2026/27 in eine 1. Klasse der Fachmittelschule zugelassen werden, können ab Ende des Schuljahrs 2028/29 nicht mehr von der Fachmittelschule in die 3. Klasse des Gymnasiums übertreten.
+4 Schülerinnen und Schüler, die im Schuljahr 2025/26 in die Fachmittelschule zugelassen wurden, können auf Beginn des Schuljahrs 2028/29 letztmalig in die 3. Klasse des Gymnasiums übertreten.

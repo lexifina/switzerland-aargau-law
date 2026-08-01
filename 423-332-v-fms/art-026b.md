@@ -1,0 +1,2 @@
+# § 26b Zulassung zum Fachmaturitätslehrgang Pädagogik
+1 Zum Fachmaturitätslehrgang Pädagogik wird zugelassen, wer den Fachmittelschulausweis im Berufsfeld Pädagogik oder den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Pädagogik/Psychologie als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Pädagogik angesiedelt ist.

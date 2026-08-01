@@ -1,0 +1,2 @@
+# § 26e Zulassung zum Fachmaturitätslehrgang Kommunikation und Information
+1 Zum Fachmaturitätslehrgang Kommunikation und Information wird zugelassen, wer den Fachmittelschulausweis im Berufsfeld Kommunikation und Information oder den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Medienkunde als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Kommunikation und Information angesiedelt ist.

@@ -12,3 +12,5 @@ d) Empfehlung des nationalen Sportverbands.
 a) eines privaten Anbietenden der schulischen Bildung höchstens die Beiträge gemäss BFSV für eine Vollzeitschule,
 b) eines Anbietenden in einem Kanton, der nicht der BFSV beigetreten ist, den Tarif des jeweiligen Kantons für eine Vollzeitschule.
 4 Lernende eines Lehrgangs zur eidgenössischen Berufsmaturität für gelernte Berufsleute (BM II) müssen die Aufnahmebedingungen des Kantons Aargau gemäss § 2 und den §§ 5–10 der Verordnung über die Berufsmaturität an Berufsfachschulen (V Berufsmaturität BFS) vom 7. November 2007 erfüllen.
+4.3. Infrastruktur
+4.3.1. Grosszyklische Sanierungen sowie Neu- und Umbauten nichtkantonaler Berufsfachschulen
