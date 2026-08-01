@@ -11,4 +11,4 @@ h) Verstösse gegen richterliche Verbote im ruhenden Verkehr gemäss den Art. 25
 i) Nichtgenügen der Meldepflicht im Zusammenhang mit Parkiermanövern gemäss Art. 51 in Verbindung mit Art. 90 des Strassenverkehrsgesetzes (SVG) vom 19. Dezember 1985,
 k) Diebstähle und Sachbeschädigungen von Fahrrädern sowie Motorfahrrädern gemäss den Art. 139 und 144 StGB,
 l) unrechtmässiges Erwirken von Leistungen gemäss § 59 Abs. 1 des Gesetzes über die öffentliche Sozialhilfe und die soziale Prävention (Sozialhilfe- und Präventionsgesetz, SPG) vom 6. März 2001,
-m) Übertretungen gemäss den §§ 36a und 37 des Schulgesetzes vom 17. März 1981.
+m) Übertretungen gemäss den §§ 125 und 126 des Volksschulgesetzes (VSG) vom 23. September 2025.

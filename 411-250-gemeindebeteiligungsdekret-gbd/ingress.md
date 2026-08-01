@@ -2,5 +2,5 @@
 (Gemeindebeteiligungsdekret, GbD)
 Vom 22.02.2005
 Der Grosse Rat des Kantons Aargau,
-gestützt auf § 66 Abs. 2 und 3 des Schulgesetzes vom 17. März 1981,
+gestützt auf § 100 Abs. 1 und 2 des Volksschulgesetzes (VSG) vom 23. September 2025,
 beschliesst:
