@@ -12,3 +12,4 @@ i) die Festlegung der Termine im Zusammenhang mit dem Rechnungsabschluss,
 k) die Aufbewahrungspflichten,
 l) die Kriterien zur Zertifizierung der von den Gemeinden eingesetzten Finanzbuchhaltungssoftware,
 m) die Einzelheiten der Bilanzprüfung und die Anforderungen an die externen Revisionsstellen.
+4.5. …

@@ -4,3 +4,4 @@
 3 Der Regierungsrat regelt, für welche ambulanten Leistungen die Abklärungsstelle zuständig ist. Er kann vorsehen, dass für den Bezug bestimmter ambulanter Leistungen eine Abklärung erforderlich ist.
 4 Das zuständige Departement beauftragt durch Leistungsvertrag eine Drittorganisation mit der Führung der Abklärungsstelle. Der Kanton kann die Abklärungsstelle selber führen, wenn keine geeignete Drittorganisation zur Verfügung steht.
 5 Bei der Bemessung des Unterstützungs- oder Betreuungsbedarfs im Einzelfall ist der Kanton gegenüber der Abklärungsstelle nicht weisungsbefugt.
+4. Planung und Steuerung

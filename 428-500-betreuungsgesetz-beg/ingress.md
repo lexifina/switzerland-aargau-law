@@ -4,3 +4,4 @@ Vom 02.05.2006
 Der Grosse Rat des Kantons Aargau,
 gestützt auf § 29 Abs. 3 und 4 sowie § 39 Abs. 3 der Kantonsverfassung,
 beschliesst:
+1. Allgemeine Bestimmungen
