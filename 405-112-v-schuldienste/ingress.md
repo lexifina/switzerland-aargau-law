@@ -2,5 +2,6 @@
 (V Schuldienste)
 Vom 03.05.2017
 Der Regierungsrat des Kantons Aargau,
-gestützt auf die §§ 60 Abs. 3, 60a Abs. 4, 5 und 8, 61 Abs. 5 und 6, 61a Abs. 2, 62 Abs. 1–4 sowie 63 Abs. 2 und 5 des Schulgesetzes vom 17. März 1981,
+gestützt auf die §§ 113 Abs. 3 und 120 Abs. 1 und 2 des Volksschulgesetzes (VSG) vom 23. September 2025, § 21a Abs. 3 lit. b und c des Gesetzes über die Anstellung von Lehrpersonen (GAL) vom 17. Dezember 2002, die §§ 42 Abs. 4, 42a Abs. 1 und 2, 42b Abs. 2 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007 sowie § 42 Abs. 3 des Mittelschulgesetzes (MSG) vom 23. September 2025,
 beschliesst:
+1. Allgemeine Bestimmungen
