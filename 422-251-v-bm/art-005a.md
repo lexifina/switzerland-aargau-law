@@ -1,2 +1,2 @@
 # § 5a Wegleitung
-1 Die Berufsfachschulen erstellen eine einheitliche Prüfungswegleitung und unterbreiten diese der Abteilung Berufsbildung und Mittelschule zur Genehmigung.
+1 Die Abteilung Berufsbildung und Mittelschule erstellt eine einheitliche Prüfungswegleitung zuhanden der Berufsfachschulen.
