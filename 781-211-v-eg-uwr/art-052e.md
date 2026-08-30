@@ -1,0 +1,3 @@
+# § 52e Ausbringung von flüssigen Hof- und Recyclingdüngern
+1 Das Ausbringen von flüssigen Hof- und Recyclingdüngern mit Breitverteilern ist auf Ackerflächen bis 18 % Hangneigung verboten. In begründeten Fällen sind Ausnahmen zulässig. Sie bedürfen einer Bewilligung der für die Landwirtschaft zuständigen Abteilung.
+2 Das Ausbringen von flüssigen Hof- und Recyclingdüngern bei prognostizierten Hitzetagen mit Tageshöchsttemperaturen von 30 °C und mehr gemäss Wetterprognose des Bundesamts für Meteorologie und Klimatologie (MeteoSchweiz) ist verboten. Davon ausgenommen ist das Ausbringen mit dem Gülledrillverfahren oder Techniken mit derselben Ammoniak-Reduktionswirkung. In begründeten Fällen sind Ausnahmen zulässig.
