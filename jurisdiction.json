@@ -1,0 +1,11 @@
+{
+  "path": "ch-ag",
+  "code": "CH-AG",
+  "name": "Aargau",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-aargau-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (288 acts, 1198 versions) from the SAR",
+  "language": "de",
+  "sources": 1
+}

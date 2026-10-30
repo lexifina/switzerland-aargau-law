@@ -1,0 +1,907 @@
+day,kind,law,acts,files,branch
+1911-07-05,start,ags-bd-1-s-641,720-110,47,main
+1918-04-01,start,ags-bd-2-s-156,623-321,6,main
+1953-01-01,start,ags-bd-4-s-77,623-313,5,main
+1965-05-16,start,ags-bd-6-s-250,787-100,4,main
+1981-04-01,start,ags-bd-10-s-314,997-100,23,main
+1988-01-01,start,ags-bd-12-s-493,210-500-eg-bewg,6,main
+1994-01-01,start,ags-bd-14-s-514,121-300-obug,12,main
+1994-04-01,start,ags-bd-14-s-603,713-115-epr,6,main
+1994-04-01,start,,873-700,15,main
+1997-01-01,start,ags-1996-s-435,673-355,4,main
+1999-03-01,start,,171-200-ortsburgergemeindegesetz-obgg,22,main
+2000-01-01,start,,427-600,6,main
+2001-01-01,start,ags-2001-s-261,621-312,8,main
+2001-01-01,start,ags-2001-s-256,623-312,16,main
+2002-03-01,start,,165-171-spesenverordnung-spesenv,21,main
+2003-01-01,start,ags-2002-s-427,951-175,4,main
+2004-11-01,start,,161-221-inkonvenienzverordnung,23,main
+2005-01-01,start,ags-2004-s-226,160-621-weiterbildungsverordnung,30,main
+2005-05-01,start,ags-2005-s-68,811-400-eg-avig-avg,15,main
+2005-08-01,start,ags-2005-s-247,612-200-gfk,21,main
+2005-09-01,start,,210-511,6,main
+2005-09-01,start,,495-351-v-klosterkirche-und-klosterhalbinsel-wettingen,10,main
+2005-09-01,start,,651-271,22,main
+2005-09-01,start,,713-112-lev,28,main
+2005-09-01,start,,730-111,7,main
+2005-09-01,start,,751-172-ausnahmetransportroutenverordnung-atrv,15,main
+2005-09-01,start,,759-111-vfw-ag,18,main
+2005-09-01,start,,970-111-gastgewerbeverordnung-ggv,32,main
+2005-09-01,start,,995-811,6,main
+2005-11-01,start,,161-115-azv,33,main
+2005-12-31,start,ags-2005-s-626,612-500-g-sonderlasten,10,main
+2006-01-01,start,ags-2005-s-648,231-211,18,main
+2006-01-01,start,,301-513-v-sterg,6,main
+2006-01-01,start,ags-2005-s-722,355-112-v-chemg,6,main
+2006-01-01,start,,787-331-reusstalverordnung-rtv,13,main
+2006-01-01,start,,837-112,6,main
+2006-01-01,start,,873-311,12,main
+2007-01-01,start,ags-2006-s-259,411-215-weiterbildungsverordnung-lehrpersonen,35,main
+2007-01-01,start,ags-2006-s-288,515-213-kv-zs-ag,14,main
+2007-01-01,start,ags-2006-s-294,515-215-alarmierungsverordnung-aargau-av-ag,21,main
+2007-01-01,start,,651-111-stgv,101,main
+2007-01-01,start,ags-2007-s-148,681-100-akbg,24,main
+2007-03-01,start,ags-2007-s-3,411-712,7,main
+2007-07-01,start,ags-2007-s-97,301-515-v-transplantationsgesetz,6,main
+2007-08-01,start,ags-2007-s-43,471-200-stipendiengesetz-stipg,32,main
+2007-08-01,start,ags-2007-s-81,471-211-stipendienverordnung-stipv,47,main
+2007-09-01,start,,951-511,8,main
+2008-01-01,start,ags-2008-s-38,163-125,2,main
+2008-01-01,start,ags-2007-s-346,301-200-pflg,28,main
+2008-01-01,start,,403-711-v-schulunfallversicherung,10,main
+2008-01-01,start,,422-200-gbw,76,main
+2008-01-01,start,ags-2007-s-358,427-300-hochschul-und-innovationsforderungsgesetz-hig,11,main
+2008-01-01,start,,428-511-betreuungsverordnung-bev,69,main
+2008-01-01,start,,581-111-feuerwehrverordnung-fwv,36,main
+2008-01-01,start,ags-2007-s-176,673-111-gebvv,23,main
+2008-01-01,start,,673-131,7,main
+2008-01-01,start,ags-2008-s-4,673-353-schatzungsreglement,21,main
+2008-01-01,start,ags-2007-s-366,811-625-vbgsa,9,main
+2008-01-01,start,ags-2007-s-338,831-300-erganzungsleistungsgesetz-aargau-elg-ag,10,main
+2008-07-01,start,ags-2008-s-47,150-700-idag,53,main
+2008-07-01,start,ags-2008-s-75,150-711-vidag,38,main
+2008-07-01,start,,152-111,29,main
+2008-07-01,start,,411-731,10,main
+2008-07-01,start,ags-2008-s-108,723-154,15,main
+2008-08-01,start,,411-211-vall,66,main
+2008-08-27,start,ags-2008-s-323,681-123,2,main
+2008-09-01,start,ags-2008-s-208,764-100-wng,47,main
+2008-09-01,start,ags-2008-s-236,764-111-wnv,11,main
+2008-09-01,start,ags-2008-s-187,781-200-eg-umweltrecht-eg-uwr,49,main
+2008-09-01,start,ags-2008-s-287,915-712-weinbauverordnung,24,main
+2009-01-01,start,,131-731,42,main
+2009-01-01,start,,150-300-ug,16,main
+2009-01-01,start,,152-100-grossratswahlgesetz,29,main
+2009-01-01,start,,153-100-organisationsgesetz,55,main
+2009-01-01,start,,171-100-gemeindegesetz-gg,132,main
+2009-01-01,start,,253-331,20,main
+2009-01-01,start,,253-371,21,main
+2009-01-01,start,,271-133,5,main
+2009-01-01,start,,290-100-eg-bgfa,25,main
+2009-01-01,start,ags-2008-s-438,390-200-eg-tsg,22,main
+2009-01-01,start,ags-2008-s-539,390-211-v-eg-tsg,22,main
+2009-01-01,start,,393-111,36,main
+2009-01-01,start,,428-500-betreuungsgesetz-beg,44,main
+2009-01-01,start,,515-200-bevolkerungsschutz-und-zivilschutzgesetz-aargau-bzg-ag,57,main
+2009-01-01,start,,515-211-bzv-ag,39,main
+2009-01-01,start,,585-100-brandschutzgesetz-bsg,32,main
+2009-01-01,start,,611-115-swisslos-fonds-verordnung-slfv,18,main
+2009-01-01,start,,621-111,33,main
+2009-01-01,start,,673-100-gebaudeversicherungsgesetz-gebvg,58,main
+2009-01-01,start,,761-600-reusstalgesetz,14,main
+2009-01-01,start,,831-100-svag,25,main
+2009-01-01,start,,873-711,16,main
+2009-01-01,start,,931-100-awag,47,main
+2009-01-01,start,,931-111-awav,40,main
+2009-01-01,start,,953-311-vv-kkg,13,main
+2009-01-01,start,,991-100,17,main
+2009-01-01,start,,997-111,51,main
+2009-03-01,start,ags-2009-s-40,122-515-integrationsv,16,main
+2009-04-01,start,,152-200-geschaftsverkehrsgesetz-gvg,69,main
+2009-05-01,start,ags-2009-s-49,122-200-register-und-meldegesetz-rmg,34,main
+2009-05-01,start,,122-315-vair,20,main
+2009-05-01,start,ags-2009-s-62,122-600-egar,44,main
+2009-07-01,start,,290-111-anwv,24,main
+2009-07-01,start,ags-2009-s-126,721-115-kgbv,12,main
+2009-07-01,start,,725-100,38,main
+2009-07-01,start,,725-131,5,main
+2009-07-01,start,,781-211-v-eg-uwr,71,main
+2009-07-01,start,,851-200-sozialhilfe-und-praventionsgesetz-spg,70,main
+2009-09-01,start,,165-175,16,main
+2009-09-01,start,,811-621-vollziehungsverordnung-zur-bundesgesetzgebung-uber-die-entsandten-arbeitnehmerinnen-und-arbeitnehmer-vea,15,main
+2010-01-01,start,,131-100-gpr,94,main
+2010-01-01,start,,131-111-vgpr,65,main
+2010-01-01,start,,271-200-verwaltungsrechtspflegegesetz-vrpg,88,main
+2010-01-01,start,ags-2009-s-194,301-100-gesg,61,main
+2010-01-01,start,ags-2009-s-194,301-111-gesv,33,main
+2010-01-01,start,ags-2009-s-421,311-121-vbob,66,main
+2010-01-01,start,,331-200-spig,34,main
+2010-01-01,start,ags-2009-s-446,333-111-patientenverordnung-patv,30,main
+2010-01-01,start,ags-2009-s-454,371-112-bestattungsverordnung,15,main
+2010-01-01,start,ags-2009-s-288,495-200-kg,59,main
+2010-01-01,start,ags-2009-s-362,495-211-vkg,44,main
+2010-01-01,start,,511-761-wpev-ag,11,main
+2010-01-01,start,,651-100-stg,291,main
+2010-01-01,start,,673-216-persr,1,main
+2010-01-01,start,,713-100-baugesetz-baug,185,main
+2010-01-01,start,,751-125,4,main
+2010-01-01,start,,785-131-naturschutzverordnung,21,main
+2010-01-01,start,,811-411-v-eg-avig-avg,10,main
+2010-01-01,start,ags-2009-s-282,815-200-eg-familienzulagengesetz-eg-famzg,25,main
+2010-01-01,start,ags-2009-s-479,815-211-v-eg-famzg,21,main
+2010-01-01,start,ags-2009-s-221,933-200-jagdgesetz-des-kantons-aargau-ajsg,42,main
+2010-01-01,start,ags-2009-s-322,933-211-jagdverordnung-des-kantons-aargau-ajsv,34,main
+2010-01-01,start,ags-2009-s-309,940-100-standortforderungsgesetz-sfg,13,main
+2010-01-01,start,ags-2009-s-484,940-111-standortforderungsverordnung-sfv,7,main
+2010-01-01,start,,970-100-gastgewerbegesetz-ggg,21,main
+2010-01-01,start,,991-111-strassenverkehrsverordnung-svv,34,main
+2010-01-01,start,,995-100-ovg,19,main
+2010-03-01,start,,110-000-kantonsverfassung-kv,138,main
+2010-03-01,start,,123-121-vv-ausweisgesetz,9,main
+2010-03-01,start,ags-2010-s-12,150-200-hg,22,main
+2010-03-01,start,ags-2010-s-30,150-211-hv,5,main
+2010-03-01,start,,165-100-personalgesetz-persg,54,main
+2010-03-01,start,,231-200-eg-schkg,34,main
+2010-03-01,start,,411-200-gal,53,main
+2010-03-01,start,,531-200-polizeigesetz-polg,69,main
+2010-03-01,start,,581-100-fwg,46,main
+2010-03-01,start,,661-153,18,main
+2010-04-01,start,,585-113-bsv,15,main
+2010-08-01,start,,422-211-vbw,86,main
+2010-08-01,start,,422-251-v-bm,34,main
+2010-08-01,start,,423-152-v-gymnasium,36,main
+2010-08-01,start,ags-2010-s-156,423-155-v-wms,34,main
+2010-08-01,start,ags-2010-s-166,423-332-v-fms,49,main
+2010-08-01,start,ags-2010-s-181,423-342-v-ims,32,main
+2010-08-01,start,,453-151-vpame,27,main
+2010-08-01,start,,453-153-passerellenverordnung,19,main
+2010-08-01,start,,453-163-v-vorkurs-padagogik,10,main
+2010-09-01,start,,131-131,9,main
+2011-01-01,start,ags-2010-5-29,165-321-vvp,9,main
+2011-01-01,start,ags-2010-5-17,221-211,4,main
+2011-01-01,start,ags-2010-5-25,251-315,7,main
+2011-01-01,start,ags-2010-5-36,831-315-elkv-ag,30,main
+2011-01-01,start,ags-2010-5-37,851-215-v-casenet,14,main
+2011-01-01,law,ags-2010-5-07,152-200-geschaftsverkehrsgesetz-gvg 231-200-eg-schkg 271-200-verwaltungsrechtspflegegesetz-vrpg 290-100-eg-bgfa 651-100-stg,32,main
+2011-01-01,law,ags-2010-5-03,150-700-idag 153-100-organisationsgesetz 171-100-gemeindegesetz-gg 422-200-gbw 427-300-hochschul-und-innovationsforderungsgesetz-hig 428-500-betreuungsgesetz-beg 531-200-polizeigesetz-polg 581-100-fwg 713-100-baugesetz-baug 781-200-eg-umweltrecht-eg-uwr 851-200-sozialhilfe-und-praventionsgesetz-spg 931-100-awag,14,main
+2011-01-01,law,ags-2010-5-08,720-110,2,main
+2011-01-01,law,ags-2010-s-202,161-221-inkonvenienzverordnung,1,main
+2011-01-01,law,ags-2010-5-11,231-211 290-111-anwv,5,main
+2011-01-01,law,ags-2010-5-12,253-331 253-371 393-111 511-761-wpev-ag 621-111 991-111-strassenverkehrsverordnung-svv,28,main
+2011-01-01,law,ags-2010-5-13,764-111-wnv,2,main
+2011-01-01,law,ags-2010-5-18,428-511-betreuungsverordnung-bev,14,main
+2011-01-01,law,ags-2010-5-06,110-000-kantonsverfassung-kv,4,main
+2011-01-24,law,ags-2010-5-28,122-315-vair,4,main
+2011-03-01,law,ags-2011-1-02,110-000-kantonsverfassung-kv,1,main
+2011-05-01,law,ags-2011-2-03,423-332-v-fms,6,main
+2011-07-01,start,ags-2011-3-21,255-113-voh,16,main
+2011-07-01,law,ags-2011-3-17,851-200-sozialhilfe-und-praventionsgesetz-spg,5,main
+2011-07-01,law,ags-2011-3-34,953-311-vv-kkg,1,main
+2011-07-01,law,ags-2011-3-03,110-000-kantonsverfassung-kv,1,main
+2011-07-01,law,ags-2011-3-04,153-100-organisationsgesetz,3,main
+2011-07-01,law,ags-2011-3-05,171-100-gemeindegesetz-gg,1,main
+2011-07-01,law,ags-2011-3-06,171-100-gemeindegesetz-gg,3,main
+2011-07-01,law,ags-2011-3-07,171-100-gemeindegesetz-gg,2,main
+2011-07-01,law,ags-2011-3-08,150-300-ug 171-100-gemeindegesetz-gg,11,main
+2011-07-01,law,ags-2011-3-23,131-100-gpr,1,main
+2011-08-01,law,ags-2011-3-14,423-152-v-gymnasium,1,main
+2011-08-01,law,ags-2011-3-15,453-151-vpame,1,main
+2011-08-01,law,ags-2011-3-16,165-175,3,main
+2011-08-01,law,ags-2011-3-28,122-315-vair 122-515-integrationsv 811-621-vollziehungsverordnung-zur-bundesgesetzgebung-uber-die-entsandten-arbeitnehmerinnen-und-arbeitnehmer-vea 811-625-vbgsa,23,main
+2011-08-01,law,ags-2011-3-30,411-211-vall 411-215-weiterbildungsverordnung-lehrpersonen,30,main
+2011-08-01,law,ags-2011-3-32,423-155-v-wms,2,main
+2011-08-01,law,ags-2011-3-33,423-332-v-fms,1,main
+2011-09-01,start,ags-2011-4-02,713-121-bauv,67,main
+2011-09-01,law,ags-2011-4-02,515-215-alarmierungsverordnung-aargau-av-ag 585-113-bsv 713-112-lev 713-115-epr 751-125 751-172-ausnahmetransportroutenverordnung-atrv 759-111-vfw-ag 931-111-awav,13,main
+2011-11-21,start,ags-2012-1-04,210-118-geschaftsreglement-bvsa,23,main
+2011-11-21,start,ags-2012-1-05,210-119-personalreglement-bvsa,7,main
+2012-01-01,start,ags-2011-6-04,150-600-publikationsgesetz-pug,20,main
+2012-01-01,start,ags-2011-6-17,331-212-spiv,18,main
+2012-01-01,start,ags-2011-6-08,740-100-kantonales-geoinformationsgesetz-kgeoig,34,main
+2012-01-01,start,ags-2011-6-27,740-111-kantonale-geoinformationsverordnung-kgeoiv,56,main
+2012-01-01,law,ags-2010-5-03,131-100-gpr 152-100-grossratswahlgesetz 171-100-gemeindegesetz-gg,13,main
+2012-01-01,law,ags-2011-6-02,581-111-feuerwehrverordnung-fwv,2,main
+2012-01-01,law,ags-2011-5-01,991-111-strassenverkehrsverordnung-svv,7,main
+2012-01-01,law,ags-2011-6-03,110-000-kantonsverfassung-kv,2,main
+2012-01-01,law,ags-2011-6-05,131-100-gpr 152-100-grossratswahlgesetz 152-200-geschaftsverkehrsgesetz-gvg 153-100-organisationsgesetz 165-100-personalgesetz-persg 290-100-eg-bgfa,11,main
+2012-01-01,law,ags-2011-6-07,713-100-baugesetz-baug 725-100 764-100-wng 931-100-awag,7,main
+2012-01-01,law,ags-2011-6-08,153-100-organisationsgesetz,1,main
+2012-01-01,law,ags-2011-6-11,153-100-organisationsgesetz,1,main
+2012-01-01,law,ags-2011-5-08,811-411-v-eg-avig-avg,2,main
+2012-01-01,law,ags-2011-5-02,331-200-spig,27,main
+2012-01-01,law,ags-2011-6-16,721-115-kgbv,4,main
+2012-01-01,law,ags-2011-6-18,423-155-v-wms,1,main
+2012-01-01,law,ags-2011-6-19,423-332-v-fms,3,main
+2012-01-01,law,ags-2012-3-02,171-100-gemeindegesetz-gg,1,main
+2012-01-01,law,ags-2012-3-03,171-100-gemeindegesetz-gg,2,main
+2012-01-01,law,ags-2011-6-25,161-221-inkonvenienzverordnung,5,main
+2012-01-01,law,ags-2011-6-26,165-171-spesenverordnung-spesenv,7,main
+2012-01-01,law,ags-2011-6-14,131-111-vgpr 152-111,19,main
+2012-01-01,law,ags-2011-6-27,723-154,1,main
+2012-03-01,law,ags-2012-1-06,515-211-bzv-ag,2,main
+2012-03-01,law,ags-2012-1-08,123-121-vv-ausweisgesetz,2,main
+2012-05-01,start,ags-2012-2-01,393-400-hug,24,main
+2012-05-01,start,ags-2012-2-06,393-411-hundeverordnung-huv,28,main
+2012-05-01,law,ags-2012-2-02,152-100-grossratswahlgesetz 171-100-gemeindegesetz-gg,4,main
+2012-05-01,law,ags-2012-2-03,390-211-v-eg-tsg,4,main
+2012-05-01,law,ags-2012-2-04,131-731,3,main
+2012-05-01,law,ags-2012-2-06,393-111,2,main
+2012-07-01,start,ags-2012-3-13,271-215-ubermittlungsverordnung-umv,14,main
+2012-07-01,start,ags-2012-3-11,673-165,6,main
+2012-07-01,law,ags-2012-3-06,673-100-gebaudeversicherungsgesetz-gebvg,12,main
+2012-07-01,law,ags-2012-3-21,673-111-gebvv,10,main
+2012-08-01,start,ags-2012-4-04,422-617-lzlv,15,main
+2012-08-01,start,ags-2012-4-03,910-200-lwg-ag,65,main
+2012-08-01,start,ags-2012-4-06,910-215-alav,28,main
+2012-08-01,start,ags-2012-4-07,911-351-alk-verordnung,11,main
+2012-08-01,start,ags-2012-4-09,913-761-vsv,51,main
+2012-08-01,law,ags-2012-4-02,110-000-kantonsverfassung-kv,1,main
+2012-08-01,law,ags-2012-4-03,713-100-baugesetz-baug,1,main
+2012-08-01,law,ags-2012-3-09,422-211-vbw,3,main
+2012-08-01,law,ags-2012-4-10,915-712-weinbauverordnung,18,main
+2012-09-01,start,ags-2012-5-03,773-200-energieg,43,main
+2012-09-01,start,ags-2012-5-13,773-211-energiev,44,main
+2012-09-01,start,ags-2012-5-01,961-200-eg-arr,29,main
+2012-09-01,start,ags-2012-5-04,961-211-v-eg-arr,19,main
+2012-09-01,law,ags-2012-5-02,165-100-personalgesetz-persg,1,main
+2012-09-01,law,ags-2012-5-03,713-100-baugesetz-baug,1,main
+2012-09-01,law,ags-2012-5-09,165-321-vvp,2,main
+2012-09-01,law,ags-2012-5-12,831-315-elkv-ag,4,main
+2012-09-01,law,ags-2012-5-13,713-121-bauv,1,main
+2012-09-23,law,ags-2012-7-07,110-000-kantonsverfassung-kv,1,main
+2012-10-29,law,ags-2012-6-06,781-200-eg-umweltrecht-eg-uwr,2,main
+2012-10-29,law,ags-2012-6-11,781-211-v-eg-uwr,3,main
+2012-11-01,law,ags-2012-6-13,940-111-standortforderungsverordnung-sfv,4,main
+2012-11-22,start,ags-2013-6-04,311-213-verordnung-ausland-vo-ausland,20,main
+2012-11-22,start,ags-2013-6-02,311-215,30,main
+2013-01-01,start,ags-2012-5-02,155-200-gog,76,main
+2013-01-01,start,ags-2012-7-38,155-611,12,main
+2013-01-01,start,ags-2012-6-08,155-612,15,main
+2013-01-01,start,ags-2012-7-23,155-613,13,main
+2013-01-01,start,ags-2012-7-39,155-614,13,main
+2013-01-01,start,ags-2012-6-07,210-125-v-kesr,21,main
+2013-01-01,start,ags-2012-4-01,295-200-beurg,92,main
+2013-01-01,start,ags-2012-7-36,301-215-pflv,49,main
+2013-01-01,law,ags-2010-5-03,150-300-ug 153-100-organisationsgesetz 581-100-fwg 851-200-sozialhilfe-und-praventionsgesetz-spg,7,main
+2013-01-01,law,ags-2010-5-02,110-000-kantonsverfassung-kv,1,main
+2013-01-01,law,ags-2011-3-05,171-100-gemeindegesetz-gg,4,main
+2013-01-01,law,ags-2012-5-02,122-600-egar 131-100-gpr 150-300-ug 150-700-idag 152-200-geschaftsverkehrsgesetz-gvg 153-100-organisationsgesetz 165-100-personalgesetz-persg 271-200-verwaltungsrechtspflegegesetz-vrpg 290-100-eg-bgfa 411-200-gal 495-200-kg 531-200-polizeigesetz-polg 612-200-gfk 651-100-stg 673-100-gebaudeversicherungsgesetz-gebvg 713-100-baugesetz-baug 764-100-wng 910-200-lwg-ag 931-100-awag 961-200-eg-arr,109,main
+2013-01-01,law,ags-2012-2-03,390-211-v-eg-tsg,1,main
+2013-01-01,law,ags-2012-4-12,623-321,1,main
+2013-01-01,law,ags-2012-5-09,161-115-azv 161-221-inkonvenienzverordnung 165-171-spesenverordnung-spesenv 290-111-anwv 511-761-wpev-ag 611-115-swisslos-fonds-verordnung-slfv 621-111 623-312 661-153 713-112-lev 730-111 913-761-vsv 931-111-awav,30,main
+2013-01-01,law,ags-2012-6-01,110-000-kantonsverfassung-kv,10,main
+2013-01-01,law,ags-2012-6-02,110-000-kantonsverfassung-kv,1,main
+2013-01-01,law,ags-2012-6-03,171-100-gemeindegesetz-gg 271-200-verwaltungsrechtspflegegesetz-vrpg 301-100-gesg 471-200-stipendiengesetz-stipg 531-200-polizeigesetz-polg 651-100-stg 851-200-sozialhilfe-und-praventionsgesetz-spg 933-200-jagdgesetz-des-kantons-aargau-ajsg,17,main
+2013-01-01,law,ags-2012-6-07,131-111-vgpr 253-371 301-513-v-sterg 301-515-v-transplantationsgesetz 311-121-vbob 333-111-patientenverordnung-patv 428-511-betreuungsverordnung-bev 471-211-stipendienverordnung-stipv 651-111-stgv 651-271 851-215-v-casenet,27,main
+2013-01-01,law,ags-2012-6-09,422-251-v-bm,1,main
+2013-01-01,law,ags-2012-6-10,581-111-feuerwehrverordnung-fwv,2,main
+2013-01-01,law,ags-2012-7-01,301-200-pflg 831-300-erganzungsleistungsgesetz-aargau-elg-ag,23,main
+2013-01-01,law,ags-2012-7-05,651-100-stg,14,main
+2013-01-01,law,ags-2012-7-06,165-100-personalgesetz-persg 411-200-gal,22,main
+2013-01-01,law,ags-2012-7-11,411-211-vall,2,main
+2013-01-01,law,ags-2012-7-24,411-211-vall,3,main
+2013-01-01,law,ags-2012-7-25,673-216-persr,52,main
+2013-01-01,law,ags-2012-7-27,740-111-kantonale-geoinformationsverordnung-kgeoiv,8,main
+2013-01-01,law,ags-2012-7-28,393-111,1,main
+2013-01-01,law,ags-2012-7-29,422-211-vbw,1,main
+2013-01-01,law,ags-2012-7-30,428-511-betreuungsverordnung-bev,15,main
+2013-01-01,law,ags-2012-7-33,371-112-bestattungsverordnung,5,main
+2013-01-01,law,ags-2012-7-36,713-121-bauv,1,main
+2013-01-01,law,ags-2012-7-37,651-111-stgv,17,main
+2013-01-01,law,ags-2012-7-40,811-621-vollziehungsverordnung-zur-bundesgesetzgebung-uber-die-entsandten-arbeitnehmerinnen-und-arbeitnehmer-vea,15,main
+2013-01-24,start,ags-2013-6-03,311-217,5,main
+2013-03-01,start,ags-2013-1-13,671-200-gnb,27,main
+2013-03-01,law,ags-2013-1-13,781-200-eg-umweltrecht-eg-uwr,1,main
+2013-03-07,start,ags-2013-6-01,311-211,6,main
+2013-05-01,start,ags-2013-2-04,331-215-spiliv,13,main
+2013-06-01,law,ags-2013-2-02,131-100-gpr,1,main
+2013-06-26,start,ags-2013-5-01,673-221-agr,29,main
+2013-07-01,start,ags-2013-3-02,935-200-fischereigesetz-des-kantons-aargau-afg,36,main
+2013-07-01,start,ags-2013-3-03,935-211-aargauische-fischereiverordnung-afv,25,main
+2013-07-01,law,ags-2013-3-04,531-200-polizeigesetz-polg,3,main
+2013-08-01,start,ags-2013-3-19,153-113-delegationsverordnung-delv,21,main
+2013-08-01,start,ags-2013-4-05,210-114-entschadigungsreglement-bvsa,5,main
+2013-08-01,start,ags-2013-4-01,210-700-g-bvsa,22,main
+2013-08-01,start,ags-2013-1-09,612-300-gaf,58,main
+2013-08-01,start,,612-311-vaf,40,main
+2013-08-01,law,ags-2012-7-03,110-000-kantonsverfassung-kv,3,main
+2013-08-01,law,ags-2012-7-04,411-200-gal,2,main
+2013-08-01,law,ags-2012-7-11,411-211-vall,4,main
+2013-08-01,law,ags-2012-7-12,411-215-weiterbildungsverordnung-lehrpersonen,5,main
+2013-08-01,law,ags-2013-1-05,423-152-v-gymnasium,2,main
+2013-08-01,law,ags-2013-1-09,150-700-idag 153-100-organisationsgesetz 301-200-pflg 390-200-eg-tsg 422-200-gbw 471-200-stipendiengesetz-stipg 495-200-kg 515-200-bevolkerungsschutz-und-zivilschutzgesetz-aargau-bzg-ag 612-200-gfk 713-100-baugesetz-baug 740-100-kantonales-geoinformationsgesetz-kgeoig 811-400-eg-avig-avg 910-200-lwg-ag 931-100-awag 933-200-jagdgesetz-des-kantons-aargau-ajsg 995-100-ovg,25,main
+2013-08-01,law,ags-2013-1-17,422-211-vbw 495-211-vkg 611-115-swisslos-fonds-verordnung-slfv 781-211-v-eg-uwr,21,main
+2013-08-01,law,ags-2013-3-15,423-332-v-fms,9,main
+2013-08-01,law,ags-2013-3-19,331-212-spiv,1,main
+2013-08-01,law,ags-2013-4-02,210-118-geschaftsreglement-bvsa,10,main
+2013-08-01,law,ags-2013-4-03,210-119-personalreglement-bvsa,2,main
+2013-11-01,law,ags-2013-6-10,155-612,3,main
+2014-01-01,start,ags-2013-7-04,121-200-kbug,35,main
+2014-01-01,start,ags-2013-7-17,153-313-v-rdrr,13,main
+2014-01-01,start,ags-2013-7-03,617-113-finanzverordnung-fiv,32,main
+2014-01-01,start,ags-2013-7-26,651-313-zinsverordnung,7,main
+2014-01-01,start,ags-2013-7-20,957-111,12,main
+2014-01-01,law,ags-2011-5-02,331-200-spig,1,main
+2014-01-01,law,ags-2012-7-05,651-100-stg,41,main
+2014-01-01,law,ags-2012-7-37,651-111-stgv,16,main
+2014-01-01,law,ags-2013-7-01,171-100-gemeindegesetz-gg 171-200-ortsburgergemeindegesetz-obgg 651-100-stg,74,main
+2014-01-01,law,ags-2013-7-04,121-300-obug 171-100-gemeindegesetz-gg,5,main
+2014-01-01,law,ags-2013-7-06,153-113-delegationsverordnung-delv,3,main
+2014-01-01,law,ags-2013-7-16,423-152-v-gymnasium 423-155-v-wms 423-332-v-fms 423-342-v-ims 453-153-passerellenverordnung,11,main
+2014-01-01,law,ags-2013-7-19,428-511-betreuungsverordnung-bev,2,main
+2014-01-01,law,ags-2013-7-21,301-111-gesv,2,main
+2014-01-01,law,ags-2013-7-24,301-215-pflv,4,main
+2014-01-01,law,ags-2013-7-25,333-111-patientenverordnung-patv,1,main
+2014-01-01,law,ags-2013-7-27,740-111-kantonale-geoinformationsverordnung-kgeoiv,1,main
+2014-03-01,law,ags-2014-1-04,611-115-swisslos-fonds-verordnung-slfv,10,main
+2014-04-10,law,ags-2014-3-17,311-217,1,main
+2014-05-01,start,ags-2014-2-04,155-615,11,main
+2014-05-01,law,ags-2014-2-03,393-411-hundeverordnung-huv,5,main
+2014-06-30,law,ags-2014-3-20,773-211-energiev,3,main
+2014-08-01,law,ags-2014-3-16,471-211-stipendienverordnung-stipv,25,main
+2014-08-01,law,ags-2014-3-18,422-211-vbw,9,main
+2014-08-01,law,ags-2014-3-19,422-251-v-bm,20,main
+2014-09-01,law,ags-2014-4-07,301-111-gesv 311-121-vbob,25,main
+2014-09-01,law,ags-2014-4-08,393-411-hundeverordnung-huv,2,main
+2015-01-01,start,ags-2014-6-01,831-973,2,main
+2015-01-01,law,ags-2012-7-05,651-100-stg,1,main
+2015-01-01,law,ags-2014-5-05,331-200-spig,1,main
+2015-01-01,law,ags-2014-6-08,428-511-betreuungsverordnung-bev,2,main
+2015-01-01,law,ags-2014-6-10,713-121-bauv,11,main
+2015-01-01,law,ags-2014-6-11,721-115-kgbv,2,main
+2015-01-01,law,ags-2014-6-12,851-215-v-casenet,3,main
+2015-01-01,law,ags-2014-6-13,940-100-standortforderungsgesetz-sfg,1,main
+2015-01-01,law,ags-2014-6-15,651-313-zinsverordnung,1,main
+2015-01-01,law,ags-2014-6-17,581-111-feuerwehrverordnung-fwv 585-113-bsv,9,main
+2015-01-01,law,ags-2014-6-18,961-211-v-eg-arr,1,main
+2015-01-01,law,ags-2014-6-22,390-211-v-eg-tsg 428-511-betreuungsverordnung-bev 915-712-weinbauverordnung 933-211-jagdverordnung-des-kantons-aargau-ajsv,9,main
+2015-01-01,law,ags-2015-1-05,612-311-vaf,1,main
+2015-01-01,law,ags-2015-3-09,673-353-schatzungsreglement,4,main
+2015-03-01,law,ags-2015-1-03,152-200-geschaftsverkehrsgesetz-gvg 153-100-organisationsgesetz,16,main
+2015-03-01,law,ags-2015-1-06,422-211-vbw,2,main
+2015-05-01,law,ags-2015-2-05,422-211-vbw,1,main
+2015-07-01,law,ags-2015-3-04,150-700-idag 301-100-gesg,4,main
+2015-07-01,law,ags-2015-3-07,131-131,1,main
+2015-07-01,law,ags-2015-3-12,153-113-delegationsverordnung-delv,1,main
+2015-07-01,law,ags-2015-3-17,515-211-bzv-ag,4,main
+2015-08-01,law,ags-2015-2-03,453-163-v-vorkurs-padagogik,1,main
+2015-08-01,law,ags-2015-3-08,915-712-weinbauverordnung,16,main
+2015-08-01,law,ags-2015-3-13,411-211-vall,2,main
+2015-08-01,law,ags-2015-3-15,423-155-v-wms,33,main
+2015-08-01,law,ags-2015-3-16,423-342-v-ims,33,main
+2015-08-01,law,ags-2015-5-05,422-211-vbw,1,main
+2015-09-01,law,ags-2015-4-02,152-111,1,main
+2015-09-01,law,ags-2015-4-03,970-111-gastgewerbeverordnung-ggv,2,main
+2015-10-01,law,ags-2015-4-01,721-115-kgbv,2,main
+2015-11-01,law,ags-2015-5-04,511-761-wpev-ag,2,main
+2016-01-01,start,ags-2015-6-20,320-112-vv-epg,9,main
+2016-01-01,start,ags-2017-1-02,681-713,9,main
+2016-01-01,start,ags-2016-1-02,831-919,18,main
+2016-01-01,law,ags-2012-7-05,651-100-stg,1,main
+2016-01-01,law,ags-2015-5-02,617-113-finanzverordnung-fiv,1,main
+2016-01-01,law,ags-2015-6-02,851-200-sozialhilfe-und-praventionsgesetz-spg,7,main
+2016-01-01,law,ags-2015-6-04,301-100-gesg,2,main
+2016-01-01,law,ags-2015-6-05,301-100-gesg,1,main
+2016-01-01,law,ags-2015-6-06,301-100-gesg 301-200-pflg,10,main
+2016-01-01,law,ags-2015-6-07,301-100-gesg,1,main
+2016-01-01,law,ags-2015-6-08,301-100-gesg,1,main
+2016-01-01,law,ags-2015-6-09,612-500-g-sonderlasten,1,main
+2016-01-01,law,ags-2015-6-10,153-100-organisationsgesetz 210-700-g-bvsa 673-100-gebaudeversicherungsgesetz-gebvg 681-100-akbg 831-100-svag,14,main
+2016-01-01,law,ags-2015-6-11,612-311-vaf,1,main
+2016-01-01,law,ags-2015-6-14,651-100-stg,29,main
+2016-01-01,law,ags-2015-6-20,371-112-bestattungsverordnung,2,main
+2016-01-01,law,ags-2015-6-19,301-111-gesv 301-215-pflv 331-212-spiv,19,main
+2016-01-01,law,ags-2015-6-21,301-215-pflv,16,main
+2016-01-01,law,ags-2015-6-24,651-111-stgv,10,main
+2016-01-01,law,ags-2015-6-26,991-111-strassenverkehrsverordnung-svv,3,main
+2016-01-01,law,ags-2015-6-38,585-113-bsv,2,main
+2016-01-01,law,ags-2016-2-03,390-200-eg-tsg,3,main
+2016-02-01,law,ags-2015-6-30,411-211-vall,1,main
+2016-02-15,law,ags-2015-6-12,997-100,3,main
+2016-03-01,law,ags-2016-1-10,155-612,1,main
+2016-04-01,start,ags-2016-1-09,121-213-kbuv,34,main
+2016-04-01,law,ags-2016-1-03,165-171-spesenverordnung-spesenv,1,main
+2016-04-01,law,ags-2016-1-04,165-171-spesenverordnung-spesenv 661-153,4,main
+2016-05-01,law,ags-2016-2-07,713-100-baugesetz-baug,14,main
+2016-05-01,law,ags-2016-2-09,393-411-hundeverordnung-huv,2,main
+2016-05-01,law,ags-2016-2-13,155-612,1,main
+2016-07-01,start,ags-2016-3-18,155-616-informationsreglement,18,main
+2016-07-01,start,ags-2016-3-20,271-134-voss,6,main
+2016-07-01,start,ags-2016-3-14,837-200-kvgg,48,main
+2016-07-01,start,ags-2016-3-21,837-211-v-kvgg,18,main
+2016-07-01,law,ags-2015-6-03,422-251-v-bm,8,main
+2016-07-01,law,ags-2016-3-14,155-200-gog 831-100-svag,4,main
+2016-07-01,law,ags-2016-3-21,331-212-spiv,3,main
+2016-07-01,law,ags-2016-3-23,991-111-strassenverkehrsverordnung-svv,11,main
+2016-08-01,start,ags-2016-4-01,815-300-kinderbetreuungsgesetz-kibeg,9,main
+2016-08-01,law,ags-2016-4-01,851-200-sozialhilfe-und-praventionsgesetz-spg,2,main
+2016-08-01,law,ags-2016-3-02,422-200-gbw,18,main
+2016-08-01,law,ags-2016-3-03,423-152-v-gymnasium 423-332-v-fms 453-151-vpame 453-153-passerellenverordnung,12,main
+2016-08-01,law,ags-2016-3-11,422-211-vbw,1,main
+2016-08-01,law,ags-2016-3-13,495-211-vkg,1,main
+2016-08-01,law,ags-2016-3-16,411-211-vall 411-215-weiterbildungsverordnung-lehrpersonen,5,main
+2016-08-01,law,ags-2016-3-17,411-200-gal,1,main
+2016-08-01,law,ags-2016-3-19,811-411-v-eg-avig-avg,3,main
+2016-08-01,law,ags-2016-3-24,422-211-vbw,17,main
+2016-12-31,law,ags-2016-7-03,764-100-wng 781-200-eg-umweltrecht-eg-uwr,6,main
+2016-12-31,law,ags-2016-7-04,781-211-v-eg-uwr,3,main
+2017-01-01,start,ags-2016-7-38,371-312,6,main
+2017-01-01,start,ags-2016-7-02,785-152-naturschutzbeitragsverordnung-nbv,12,main
+2017-01-01,law,ags-2016-6-02,422-211-vbw,1,main
+2017-01-01,law,ags-2016-6-05,161-115-azv,1,main
+2017-01-01,law,ags-2016-7-43,422-211-vbw,1,main
+2017-01-01,law,ags-2016-7-01,515-200-bevolkerungsschutz-und-zivilschutzgesetz-aargau-bzg-ag,33,main
+2017-01-01,law,ags-2016-7-06,165-100-personalgesetz-persg,1,main
+2017-01-01,law,ags-2016-7-08,411-200-gal,1,main
+2017-01-01,law,ags-2016-7-09,651-100-stg,1,main
+2017-01-01,law,ags-2016-7-10,673-100-gebaudeversicherungsgesetz-gebvg,2,main
+2017-01-01,law,ags-2016-7-11,713-100-baugesetz-baug,1,main
+2017-01-01,law,ags-2016-7-12,764-100-wng,1,main
+2017-01-01,law,ags-2016-7-13,831-300-erganzungsleistungsgesetz-aargau-elg-ag,2,main
+2017-01-01,law,ags-2016-7-18,210-125-v-kesr,4,main
+2017-01-01,law,ags-2016-7-20,515-211-bzv-ag,28,main
+2017-01-01,law,ags-2016-7-21,515-213-kv-zs-ag,10,main
+2017-01-01,law,ags-2016-7-22,515-215-alarmierungsverordnung-aargau-av-ag,15,main
+2017-01-01,law,ags-2016-7-27,253-371,1,main
+2017-01-01,law,ags-2016-7-29,411-211-vall,1,main
+2017-01-01,law,ags-2016-7-37,301-111-gesv 320-112-vv-epg 371-112-bestattungsverordnung 515-211-bzv-ag,11,main
+2017-01-01,law,ags-2016-7-39,970-111-gastgewerbeverordnung-ggv,7,main
+2017-01-01,law,ags-2016-7-41,355-112-v-chemg,2,main
+2017-01-01,law,ags-2016-7-42,390-211-v-eg-tsg,1,main
+2017-01-01,law,ags-2016-7-46,495-211-vkg,3,main
+2017-01-01,law,ags-2017-4-11,585-113-bsv,2,main
+2017-01-01,law,ags-2017-5-31,612-311-vaf,1,main
+2017-03-01,law,ags-2017-1-10,253-331 253-371,13,main
+2017-03-15,law,ags-2017-2-01,837-211-v-kvgg,6,main
+2017-03-15,law,ags-2017-4-13,837-211-v-kvgg,2,main
+2017-04-01,law,ags-2017-3-01,271-200-verwaltungsrechtspflegegesetz-vrpg,1,main
+2017-04-01,law,ags-2017-3-02,271-215-ubermittlungsverordnung-umv,4,main
+2017-05-01,start,ags-2017-4-09,713-116-mehrwertabgabeverordnung-mwav,13,main
+2017-05-01,law,ags-2017-4-04,271-200-verwaltungsrechtspflegegesetz-vrpg 651-100-stg 713-100-baugesetz-baug,20,main
+2017-05-01,law,ags-2017-4-06,301-111-gesv,1,main
+2017-05-01,law,ags-2017-4-07,311-121-vbob,1,main
+2017-05-01,law,ags-2017-4-09,153-113-delegationsverordnung-delv,1,main
+2017-05-01,law,ags-2017-4-10,991-111-strassenverkehrsverordnung-svv,1,main
+2017-07-01,start,ags-2017-5-19,155-617,39,main
+2017-07-01,start,ags-2017-5-29,361-112-lebensmittel-und-gebrauchsgegenstandeverordnung-lggv,10,main
+2017-07-01,law,ags-2017-5-03,165-171-spesenverordnung-spesenv,1,main
+2017-07-01,law,ags-2017-5-19,155-616-informationsreglement,1,main
+2017-07-01,law,ags-2017-5-29,153-113-delegationsverordnung-delv,1,main
+2017-07-01,law,ags-2017-5-30,495-211-vkg,2,main
+2017-08-01,start,ags-2017-5-21,423-922,15,main
+2017-08-01,start,ags-2017-5-23,426-123,19,main
+2017-08-01,law,ags-2017-5-09,411-215-weiterbildungsverordnung-lehrpersonen,5,main
+2017-08-01,law,ags-2017-5-10,428-511-betreuungsverordnung-bev,6,main
+2017-08-01,law,ags-2017-5-20,422-251-v-bm 423-155-v-wms 423-342-v-ims,5,main
+2017-08-01,law,ags-2017-5-21,423-152-v-gymnasium 423-332-v-fms 453-163-v-vorkurs-padagogik,4,main
+2017-08-01,law,ags-2017-5-24,453-153-passerellenverordnung,6,main
+2017-09-01,start,ags-2018-1-02,831-921,22,main
+2017-09-01,law,ags-2017-6-02,933-211-jagdverordnung-des-kantons-aargau-ajsv,11,main
+2017-10-01,start,ags-2017-7-01,673-222,19,main
+2017-10-01,law,ags-2017-8-04,673-221-agr,8,main
+2017-11-01,law,ags-2017-8-06,781-211-v-eg-uwr,17,main
+2017-12-31,start,ags-2017-9-01,615-200-finanzausgleichsgesetz-fiag,28,main
+2017-12-31,start,ags-2017-9-07,615-211-finanzausgleichsverordnung-fiav,22,main
+2017-12-31,law,ags-2017-9-02,428-500-betreuungsgesetz-beg 612-300-gaf 651-100-stg 851-200-sozialhilfe-und-praventionsgesetz-spg 995-100-ovg,17,main
+2018-01-01,start,ags-2017-9-09,210-300-eg-zgb,117,main
+2018-01-01,start,ags-2017-9-15,210-311-v-eg-zgb,41,main
+2018-01-01,start,ags-2017-8-03,405-112-v-schuldienste,40,main
+2018-01-01,law,ags-2017-8-02,422-200-gbw,1,main
+2018-01-01,law,ags-2017-8-05,740-111-kantonale-geoinformationsverordnung-kgeoiv,8,main
+2018-01-01,law,ags-2017-9-09,122-200-register-und-meldegesetz-rmg 210-700-g-bvsa 231-200-eg-schkg 301-100-gesg 725-100 910-200-lwg-ag,11,main
+2018-01-01,law,ags-2017-9-10,851-200-sozialhilfe-und-praventionsgesetz-spg,14,main
+2018-01-01,law,ags-2017-9-11,720-110,1,main
+2018-01-01,law,ags-2017-9-12,995-100-ovg,4,main
+2018-01-01,law,ags-2017-9-14,121-213-kbuv,7,main
+2018-01-01,law,ags-2017-9-15,153-113-delegationsverordnung-delv 210-125-v-kesr 253-371 301-513-v-sterg 311-121-vbob 393-111 428-511-betreuungsverordnung-bev 651-271 721-115-kgbv 730-111,20,main
+2018-01-01,law,ags-2017-9-17,411-211-vall,1,main
+2018-01-01,law,ags-2017-9-20,155-612,1,main
+2018-01-01,law,ags-2017-9-21,253-331 253-371,9,main
+2018-01-01,law,ags-2017-9-22,428-511-betreuungsverordnung-bev,1,main
+2018-01-01,law,ags-2017-9-24,301-215-pflv 713-121-bauv,15,main
+2018-01-01,law,ags-2017-9-25,301-111-gesv 311-121-vbob,16,main
+2018-01-01,law,ags-2017-9-28,331-212-spiv,4,main
+2018-01-01,law,ags-2018-1-08,301-215-pflv,1,main
+2018-03-01,law,ags-2018-1-04,970-100-gastgewerbegesetz-ggg,1,main
+2018-03-01,law,ags-2018-1-05,970-100-gastgewerbegesetz-ggg,3,main
+2018-03-01,law,ags-2018-1-11,153-113-delegationsverordnung-delv 970-111-gastgewerbeverordnung-ggv,10,main
+2018-04-01,law,ags-2018-1-10,759-111-vfw-ag,2,main
+2018-04-01,law,ags-2018-2-01,612-500-g-sonderlasten,1,main
+2018-04-08,law,ags-2017-9-10,851-200-sozialhilfe-und-praventionsgesetz-spg,2,main
+2018-05-01,law,ags-2018-3-02,152-200-geschaftsverkehrsgesetz-gvg,2,main
+2018-05-01,law,ags-2018-3-04,155-617,1,main
+2018-06-12,law,ags-2018-6-03,681-713,3,main
+2018-08-01,law,ags-2017-8-03,301-111-gesv 320-112-vv-epg 422-211-vbw,4,main
+2018-08-01,law,ags-2018-4-05,471-200-stipendiengesetz-stipg,15,main
+2018-08-01,law,ags-2018-4-18,423-152-v-gymnasium 423-155-v-wms 423-332-v-fms 423-342-v-ims 453-151-vpame 453-153-passerellenverordnung 453-163-v-vorkurs-padagogik,14,main
+2018-08-01,law,ags-2018-4-03,405-112-v-schuldienste,1,main
+2018-08-01,law,ags-2018-4-08,150-700-idag,28,main
+2018-08-01,law,ags-2018-4-10,531-200-polizeigesetz-polg,6,main
+2018-08-01,law,ags-2018-4-11,811-400-eg-avig-avg,1,main
+2018-08-01,law,ags-2018-4-12,411-211-vall 411-215-weiterbildungsverordnung-lehrpersonen,8,main
+2018-08-01,law,ags-2018-4-19,423-332-v-fms 423-922,8,main
+2018-08-01,law,ags-2018-4-20,471-211-stipendienverordnung-stipv,12,main
+2018-08-01,law,ags-2018-4-21,150-711-vidag,19,main
+2018-08-01,law,ags-2018-4-22,333-111-patientenverordnung-patv,1,main
+2018-08-01,law,ags-2018-4-23,422-251-v-bm,17,main
+2018-09-01,law,ags-2018-5-03,210-118-geschaftsreglement-bvsa,10,main
+2018-09-01,law,ags-2018-5-04,713-116-mehrwertabgabeverordnung-mwav,3,main
+2018-11-01,law,ags-2018-6-06,153-113-delegationsverordnung-delv,1,main
+2018-11-01,law,ags-2018-6-09,161-221-inkonvenienzverordnung,1,main
+2018-11-01,law,ags-2018-6-10,331-215-spiliv,7,main
+2018-11-15,law,ags-2019-1-02,681-713,1,main
+2018-12-05,law,ags-2020-12-01,331-212-spiv,4,main
+2018-12-29,law,ags-2018-7-04,301-100-gesg 301-200-pflg 612-200-gfk,16,main
+2019-01-01,start,ags-2018-7-20,651-131-progressionsverordnung-2019,5,main
+2019-01-01,law,ags-2018-6-02,301-215-pflv,1,main
+2019-01-01,law,ags-2018-6-05,740-111-kantonale-geoinformationsverordnung-kgeoiv 931-111-awav,19,main
+2019-01-01,law,ags-2018-6-08,153-113-delegationsverordnung-delv 617-113-finanzverordnung-fiv,14,main
+2019-01-01,law,ags-2018-7-01,651-100-stg,4,main
+2019-01-01,law,ags-2018-7-03,150-300-ug 171-100-gemeindegesetz-gg 171-200-ortsburgergemeindegesetz-obgg,38,main
+2019-01-01,law,ags-2018-7-05,931-100-awag,7,main
+2019-01-01,law,ags-2018-7-07,931-111-awav,1,main
+2019-01-01,law,ags-2018-7-10,651-111-stgv,5,main
+2019-01-01,law,ags-2018-7-12,411-712,3,main
+2019-01-01,law,ags-2018-7-15,301-111-gesv 515-211-bzv-ag,4,main
+2019-01-01,law,ags-2018-7-19,428-511-betreuungsverordnung-bev,8,main
+2019-01-01,law,ags-2020-15-24,153-113-delegationsverordnung-delv,1,main
+2019-03-01,law,ags-2019-1-04,831-315-elkv-ag,5,main
+2019-04-01,law,ags-2019-1-01,811-411-v-eg-avig-avg,2,main
+2019-05-01,start,ags-2019-2-08,914-111-vdzb,34,main
+2019-05-01,law,ags-2019-2-03,405-112-v-schuldienste 411-211-vall,3,main
+2019-05-01,law,ags-2019-2-01,910-200-lwg-ag,20,main
+2019-05-01,law,ags-2019-2-04,301-111-gesv,1,main
+2019-05-01,law,ags-2019-2-05,422-617-lzlv,18,main
+2019-05-01,law,ags-2019-2-06,390-211-v-eg-tsg 781-211-v-eg-uwr 787-331-reusstalverordnung-rtv 910-215-alav 911-351-alk-verordnung,26,main
+2019-05-01,law,ags-2019-2-07,913-761-vsv,8,main
+2019-06-30,law,ags-2019-3-17,931-111-awav 935-211-aargauische-fischereiverordnung-afv,7,main
+2019-07-01,law,ags-2019-3-02,110-000-kantonsverfassung-kv,1,main
+2019-07-01,law,ags-2019-3-03,131-100-gpr,1,main
+2019-07-01,law,ags-2019-3-08,740-111-kantonale-geoinformationsverordnung-kgeoiv,4,main
+2019-07-01,law,ags-2019-3-11,787-331-reusstalverordnung-rtv 997-111,19,main
+2019-07-01,law,ags-2019-3-13,271-215-ubermittlungsverordnung-umv,4,main
+2019-07-01,law,ags-2019-3-18,612-311-vaf,2,main
+2019-08-01,law,ags-2019-3-04,423-342-v-ims,3,main
+2019-08-01,law,ags-2019-3-14,423-152-v-gymnasium 423-155-v-wms 423-342-v-ims 453-163-v-vorkurs-padagogik,19,main
+2019-08-01,law,ags-2019-3-15,423-332-v-fms 423-922,5,main
+2019-09-01,law,ags-2019-5-01,495-211-vkg,1,main
+2019-11-01,law,ags-2019-6-08,713-116-mehrwertabgabeverordnung-mwav,1,main
+2019-11-01,law,ags-2019-6-09,915-712-weinbauverordnung,27,main
+2019-12-30,law,ags-2019-7-03,781-200-eg-umweltrecht-eg-uwr,1,main
+2019-12-30,law,ags-2019-7-21,153-313-v-rdrr,1,main
+2020-01-01,start,ags-2019-7-07,301-517-ev-krg,7,main
+2020-01-01,start,ags-2019-7-15,651-132-progressionsverordnung-2020,6,main
+2020-01-01,start,ags-2019-7-16,651-811-vas,7,main
+2020-01-01,law,ags-2019-6-01,411-211-vall,1,main
+2020-01-01,law,ags-2019-6-02,725-131,3,main
+2020-01-01,law,ags-2019-6-03,428-511-betreuungsverordnung-bev,24,main
+2020-01-01,law,ags-2019-7-02,673-353-schatzungsreglement,1,main
+2020-01-01,law,ags-2019-7-04,301-215-pflv 831-315-elkv-ag,5,main
+2020-01-01,law,ags-2019-7-05,673-353-schatzungsreglement,4,main
+2020-01-01,law,ags-2019-7-06,651-100-stg,26,main
+2020-01-01,law,ags-2019-7-09,160-621-weiterbildungsverordnung 161-115-azv 165-175,14,main
+2020-01-01,law,ags-2019-7-10,301-215-pflv,1,main
+2020-01-01,law,ags-2019-7-14,651-111-stgv,5,main
+2020-01-01,law,ags-2019-7-18,210-300-eg-zgb 651-100-stg 725-100,24,main
+2020-01-01,law,ags-2019-7-19,651-100-stg,1,main
+2020-01-01,law,ags-2020-1-07,612-311-vaf,3,main
+2020-02-01,law,ags-2019-3-16,153-113-delegationsverordnung-delv 453-151-vpame 453-163-v-vorkurs-padagogik,5,main
+2020-03-01,law,ags-2020-1-09,155-612,2,main
+2020-03-01,law,ags-2020-1-10,153-113-delegationsverordnung-delv 713-116-mehrwertabgabeverordnung-mwav,2,main
+2020-03-01,law,ags-2020-1-11,301-111-gesv,1,main
+2020-04-01,law,ags-2010-1-06,155-200-gog,17,main
+2020-04-01,law,ags-2020-1-02,131-111-vgpr,2,main
+2020-04-01,law,ags-2020-1-03,153-113-delegationsverordnung-delv,1,main
+2020-04-01,law,ags-2020-1-04,131-100-gpr,3,main
+2020-04-01,law,ags-2020-1-05,150-300-ug,2,main
+2020-04-01,law,ags-2020-1-06,131-100-gpr 231-200-eg-schkg,8,main
+2020-04-20,law,ags-2020-5-10,611-115-swisslos-fonds-verordnung-slfv,3,main
+2020-05-01,law,ags-2020-5-08,155-615,1,main
+2020-05-01,law,ags-2020-5-09,426-123,1,main
+2020-06-25,start,ags-2022-12-01,400-720,38,main
+2020-07-01,law,ags-2020-5-03,121-200-kbug,3,main
+2020-07-01,law,ags-2020-5-07,121-213-kbuv,3,main
+2020-07-01,law,ags-2020-9-01,713-100-baugesetz-baug 740-100-kantonales-geoinformationsgesetz-kgeoig,2,main
+2020-07-01,law,ags-2020-9-06,612-311-vaf,2,main
+2020-08-01,law,ags-2020-5-09,422-211-vbw,33,main
+2020-08-01,law,ags-2020-9-03,423-922,4,main
+2020-08-01,law,ags-2020-9-07,405-112-v-schuldienste,1,main
+2020-08-01,law,ags-2020-9-09,165-175,1,main
+2020-08-01,law,ags-2020-9-12,331-215-spiliv,1,main
+2020-09-01,law,ags-2020-9-11,122-515-integrationsv,8,main
+2020-09-01,law,ags-2020-12-04,837-211-v-kvgg,1,main
+2020-09-16,law,ags-ags-2021-02-03,651-100-stg,1,main
+2020-10-01,law,ags-2020-12-02,422-251-v-bm,9,main
+2020-10-30,law,ags-2020-14-05,751-172-ausnahmetransportroutenverordnung-atrv,7,main
+2020-12-01,law,ags-2020-15-18,612-311-vaf,2,main
+2021-01-01,start,ags-2020-15-13,253-112-strafvollzugsverordnung-smv,104,main
+2021-01-01,start,ags-2020-15-20,331-217-gwlv,9,main
+2021-01-01,start,ags-2020-15-23,651-712-qstv-ag,32,main
+2021-01-01,start,ags-2021-18-03,681-714,11,main
+2021-01-01,start,ags-2020-15-07,959-300-gsg,11,main
+2021-01-01,start,ags-2020-15-24,959-312-gsv,40,main
+2021-01-01,law,ags-2019-7-18,651-100-stg,24,main
+2021-01-01,law,ags-2020-14-03,122-315-vair,6,main
+2021-01-01,law,ags-2020-14-04,617-113-finanzverordnung-fiv,1,main
+2021-01-01,law,ags-2020-14-07,411-211-vall,1,main
+2021-01-01,law,ags-2020-14-08,740-111-kantonale-geoinformationsverordnung-kgeoiv,2,main
+2021-01-01,law,ags-2020-15-01,940-100-standortforderungsgesetz-sfg,1,main
+2021-01-01,law,ags-2020-15-02,612-300-gaf,2,main
+2021-01-01,law,ags-2020-15-04,110-000-kantonsverfassung-kv,1,main
+2021-01-01,law,ags-2020-15-05,301-100-gesg 331-200-spig 651-100-stg,9,main
+2021-01-01,law,ags-2020-15-07,301-100-gesg 612-300-gaf,3,main
+2021-01-01,law,ags-2020-15-12,123-121-vv-ausweisgesetz,1,main
+2021-01-01,law,ags-2020-15-13,153-113-delegationsverordnung-delv 253-331,6,main
+2021-01-01,law,ags-2020-15-14,951-175,1,main
+2021-01-01,law,ags-2020-15-16,301-111-gesv 970-111-gastgewerbeverordnung-ggv,17,main
+2021-01-01,law,ags-2020-15-19,411-211-vall,2,main
+2021-01-01,law,ags-2020-15-22,615-211-finanzausgleichsverordnung-fiav,4,main
+2021-01-01,law,ags-2020-15-24,301-111-gesv 611-115-swisslos-fonds-verordnung-slfv,5,main
+2021-01-01,law,ags-2020-15-25,155-612,1,main
+2021-01-01,unexplained,,163-125,1,main
+2021-03-01,law,ags-ags-2021-02-07,301-111-gesv,3,main
+2021-04-30,law,ags-2021-04-06,153-113-delegationsverordnung-delv,1,main
+2021-07-01,start,ags-2021-07-10,251-213-obvv,10,main
+2021-07-01,start,ags-2021-07-12,531-211-polizeiverordnung-polv,93,main
+2021-07-01,law,ags-2021-07-03,171-100-gemeindegesetz-gg 531-200-polizeigesetz-polg,54,main
+2021-07-01,law,ags-2021-07-11,320-112-vv-epg,4,main
+2021-07-01,law,ags-2021-07-12,153-113-delegationsverordnung-delv,2,main
+2021-08-01,law,ags-2021-04-01,411-211-vall,6,main
+2021-08-01,law,ags-2021-07-08,453-163-v-vorkurs-padagogik,4,main
+2021-08-30,law,ags-2021-12-21,837-211-v-kvgg,1,main
+2021-09-01,start,ags-2021-09-02,122-212-register-und-meldeverordnung-rmv,29,main
+2021-09-01,law,ags-2021-09-01,122-200-register-und-meldegesetz-rmg 673-100-gebaudeversicherungsgesetz-gebvg 740-100-kantonales-geoinformationsgesetz-kgeoig,28,main
+2021-09-01,law,ags-2021-12-20,495-211-vkg,2,main
+2021-11-01,law,ags-2021-12-25,713-121-bauv,37,main
+2022-01-01,start,ags-2021-07-06,301-112-vdpg,12,main
+2022-01-01,start,,331-219-vorhalteleistungs-verordnung-volev,12,main
+2022-01-01,start,ags-2021-12-29,581-514-interventionsfondsverordnung-ifv,25,main
+2022-01-01,start,ags-2021-12-30,673-156-praventionsfondsverordnung-pfv,20,main
+2022-01-01,start,ags-2021-18-04,751-200-strassengesetz-strg,37,main
+2022-01-01,start,ags-2021-18-21,751-211-ksv,22,main
+2022-01-01,law,ags-ags-2021-18-02,585-100-brandschutzgesetz-bsg,19,main
+2022-01-01,law,ags-2021-12-02,110-000-kantonsverfassung-kv,1,main
+2022-01-01,law,ags-2021-12-03,131-100-gpr 171-100-gemeindegesetz-gg 210-300-eg-zgb 411-200-gal,8,main
+2022-01-01,law,ags-2021-12-05,581-100-fwg,13,main
+2022-01-01,law,ags-2021-12-06,673-100-gebaudeversicherungsgesetz-gebvg,4,main
+2022-01-01,law,ags-2021-12-07,428-500-betreuungsgesetz-beg,30,main
+2022-01-01,law,ags-2021-12-08,210-311-v-eg-zgb,2,main
+2022-01-01,law,ags-2021-12-09,290-111-anwv,3,main
+2022-01-01,law,ags-2021-12-10,411-211-vall,4,main
+2022-01-01,law,ags-2021-12-11,210-300-eg-zgb,1,main
+2022-01-01,law,ags-2021-12-12,210-300-eg-zgb,2,main
+2022-01-01,law,ags-2021-12-14,231-200-eg-schkg,2,main
+2022-01-01,law,ags-2021-12-15,290-100-eg-bgfa,2,main
+2022-01-01,law,ags-2021-12-16,428-511-betreuungsverordnung-bev 831-315-elkv-ag,68,main
+2022-01-01,law,ags-2021-12-18,165-171-spesenverordnung-spesenv 405-112-v-schuldienste 411-211-vall,5,main
+2022-01-01,law,ags-2021-12-24,651-111-stgv,3,main
+2022-01-01,law,ags-2021-12-28,581-111-feuerwehrverordnung-fwv,13,main
+2022-01-01,law,ags-2021-18-04,713-100-baugesetz-baug 991-100,18,main
+2022-01-01,law,ags-2021-18-07,390-200-eg-tsg,4,main
+2022-01-01,law,ags-2021-18-11,405-112-v-schuldienste,1,main
+2022-01-01,law,ags-2021-18-12,390-211-v-eg-tsg,11,main
+2022-01-01,law,ags-2021-18-13,585-113-bsv,6,main
+2022-01-01,law,ags-2021-18-15,935-211-aargauische-fischereiverordnung-afv,7,main
+2022-01-01,law,ags-2021-18-20,651-712-qstv-ag,1,main
+2022-01-01,law,ags-2021-18-21,713-121-bauv 751-125 759-111-vfw-ag 991-111-strassenverkehrsverordnung-svv,11,main
+2022-01-01,law,ags-2021-18-22,403-711-v-schulunfallversicherung,12,main
+2022-01-01,law,ags-2021-18-24,651-100-stg,6,main
+2022-01-01,law,ags-2022-02-01,301-215-pflv,2,main
+2022-03-01,law,ags-2022-05-02,155-616-informationsreglement,2,main
+2022-03-01,law,ags-2022-05-06,155-612,1,main
+2022-04-01,law,ags-2022-05-04,811-411-v-eg-avig-avg,3,main
+2022-04-01,law,ags-2022-05-05,495-351-v-klosterkirche-und-klosterhalbinsel-wettingen,12,main
+2022-07-01,law,ags-2022-12-02,121-213-kbuv,4,main
+2022-07-01,law,ags-2022-12-04,210-311-v-eg-zgb,3,main
+2022-07-01,law,ags-2022-12-07,155-617,1,main
+2022-07-01,law,ags-2022-12-08,271-215-ubermittlungsverordnung-umv 471-211-stipendienverordnung-stipv 713-121-bauv,16,main
+2022-08-01,law,ags-2020-9-08,422-251-v-bm,3,main
+2022-08-01,law,ags-2022-05-03,422-617-lzlv,1,main
+2022-08-01,law,ags-2022-10-04,423-332-v-fms 426-123,21,main
+2022-08-01,law,ags-2022-12-05,423-152-v-gymnasium,8,main
+2022-08-01,law,ags-2022-12-06,453-151-vpame 453-153-passerellenverordnung 453-163-v-vorkurs-padagogik,22,main
+2022-09-01,law,ags-2022-14-01,837-211-v-kvgg,1,main
+2022-11-01,law,ags-2022-14-01,837-211-v-kvgg,2,main
+2022-11-01,law,ags-2022-15-06,837-200-kvgg,3,main
+2022-12-27,law,ags-2023-01-02,331-217-gwlv,3,main
+2023-01-01,start,ags-2022-18-10,651-133-progressionsverordnung-2023,6,main
+2023-01-01,law,ags-2022-15-04,171-100-gemeindegesetz-gg,11,main
+2023-01-01,law,ags-2022-15-07,405-112-v-schuldienste,1,main
+2023-01-01,law,ags-2022-15-09,422-211-vbw,6,main
+2023-01-01,law,ags-2022-15-10,933-211-jagdverordnung-des-kantons-aargau-ajsv,11,main
+2023-01-01,law,ags-2022-18-01,611-115-swisslos-fonds-verordnung-slfv 612-311-vaf,11,main
+2023-01-01,law,ags-2022-18-02,110-000-kantonsverfassung-kv,1,main
+2023-01-01,law,ags-2022-18-03,152-200-geschaftsverkehrsgesetz-gvg 171-100-gemeindegesetz-gg,3,main
+2023-01-01,law,ags-2022-18-04,152-200-geschaftsverkehrsgesetz-gvg,5,main
+2023-01-01,law,ags-2022-18-23,155-617,1,main
+2023-01-01,law,ags-2022-18-11,428-511-betreuungsverordnung-bev,9,main
+2023-01-01,law,ags-2022-18-14,957-111,4,main
+2023-01-01,law,ags-2022-18-17,161-221-inkonvenienzverordnung,6,main
+2023-01-01,law,ags-2022-18-18,165-171-spesenverordnung-spesenv,12,main
+2023-01-01,law,ags-2022-18-19,411-211-vall,3,main
+2023-01-01,law,ags-2022-18-21,651-100-stg,1,main
+2023-01-01,law,ags-2022-18-24,155-617,1,main
+2023-01-01,law,ags-2022-18-22,773-211-energiev,5,main
+2023-01-01,law,ags-2023-05-01,681-714,2,main
+2023-02-01,law,ags-2023-04-05,311-211,3,main
+2023-02-27,law,ags-2023-03-04,713-121-bauv,5,main
+2023-03-01,start,ags-2023-03-02,495-222,16,main
+2023-05-01,start,ags-2023-04-07,612-117-immov,32,main
+2023-05-01,law,ags-2023-03-01,831-300-erganzungsleistungsgesetz-aargau-elg-ag,2,main
+2023-07-01,law,ags-2023-05-08,331-217-gwlv,1,main
+2023-07-01,law,ags-2023-05-09,355-112-v-chemg,2,main
+2023-07-01,law,ags-2023-05-11,651-111-stgv,1,main
+2023-07-01,law,ags-2023-05-12,997-111,2,main
+2023-07-01,law,ags-2023-07-01,612-117-immov,2,main
+2023-08-01,law,ags-2022-12-10,471-211-stipendienverordnung-stipv,2,main
+2023-08-01,law,ags-2022-18-07,423-332-v-fms,1,main
+2023-08-01,law,ags-2023-05-03,122-515-integrationsv,2,main
+2023-08-01,law,ags-2023-05-04,423-152-v-gymnasium 423-332-v-fms 453-151-vpame,3,main
+2023-08-01,law,ags-2023-05-05,423-155-v-wms 423-342-v-ims,24,main
+2023-08-01,law,ags-2023-06-02,673-353-schatzungsreglement,6,main
+2023-08-23,law,ags-2023-10-07,681-713,6,main
+2023-09-28,law,ags-2023-09-06,531-200-polizeigesetz-polg,2,main
+2023-10-01,law,ags-2023-08-01,311-121-vbob,5,main
+2023-11-01,law,ags-2023-09-05,301-111-gesv 531-211-polizeiverordnung-polv,5,main
+2024-01-01,start,ags-2023-10-15,651-134-progressionsverordnung-2024,6,main
+2024-01-01,law,ags-2019-7-04,301-215-pflv,1,main
+2024-01-01,law,ags-2023-09-02,152-200-geschaftsverkehrsgesetz-gvg 612-300-gaf,13,main
+2024-01-01,law,ags-2023-09-04,301-112-vdpg,1,main
+2024-01-01,law,ags-2023-10-02,515-200-bevolkerungsschutz-und-zivilschutzgesetz-aargau-bzg-ag,31,main
+2024-01-01,law,ags-2023-10-03,210-300-eg-zgb 851-200-sozialhilfe-und-praventionsgesetz-spg,4,main
+2024-01-01,law,ags-2023-10-04,851-200-sozialhilfe-und-praventionsgesetz-spg,4,main
+2024-01-01,law,ags-2023-10-05,851-200-sozialhilfe-und-praventionsgesetz-spg,10,main
+2024-01-01,law,ags-2023-10-24,153-100-organisationsgesetz 612-500-g-sonderlasten,7,main
+2024-01-01,law,ags-2023-10-10,123-121-vv-ausweisgesetz,1,main
+2024-01-01,law,ags-2023-10-11,301-215-pflv,2,main
+2024-01-01,law,ags-2023-10-12,612-311-vaf,7,main
+2024-01-01,law,ags-2023-10-13,740-111-kantonale-geoinformationsverordnung-kgeoiv,6,main
+2024-01-01,law,ags-2023-10-18,515-211-bzv-ag,40,main
+2024-01-01,law,ags-2023-10-19,515-213-kv-zs-ag,3,main
+2024-01-01,law,ags-2023-10-20,515-215-alarmierungsverordnung-aargau-av-ag,16,main
+2024-01-01,law,ags-2023-10-21,651-712-qstv-ag,1,main
+2024-01-01,law,ags-2023-10-23,331-217-gwlv,2,main
+2024-03-01,law,ags-2024-01-07,393-411-hundeverordnung-huv,7,main
+2024-03-01,law,ags-2024-01-08,411-731,6,main
+2024-03-01,law,ags-2024-01-10,155-612,1,main
+2024-04-01,law,ags-2024-02-01,851-200-sozialhilfe-und-praventionsgesetz-spg,1,main
+2024-04-08,law,ags-2024-02-03,122-315-vair,2,main
+2024-05-01,start,ags-2024-03-05,150-400-statistikgesetz-statg,27,main
+2024-05-01,start,ags-2024-03-12,150-411-statv,5,main
+2024-05-01,law,ags-2024-03-01,110-000-kantonsverfassung-kv,1,main
+2024-05-01,law,ags-2024-03-05,122-200-register-und-meldegesetz-rmg,1,main
+2024-05-01,law,ags-2024-03-10,831-315-elkv-ag,5,main
+2024-05-01,law,ags-2024-03-11,612-117-immov,2,main
+2024-05-01,law,ags-2024-03-12,615-211-finanzausgleichsverordnung-fiav 651-811-vas 837-211-v-kvgg,3,main
+2024-05-01,law,ags-2024-03-13,997-111,7,main
+2024-06-01,law,ags-2024-03-06,210-300-eg-zgb 531-200-polizeigesetz-polg,9,main
+2024-06-30,law,ags-2024-05-02,110-000-kantonsverfassung-kv,2,main
+2024-07-01,start,ags-2024-05-10,301-113-v-pflegeausbildung,14,main
+2024-07-01,start,ags-2024-04-01,662-100-gebuhrg,28,main
+2024-07-01,start,ags-2024-04-03,662-111-gebuhrv,50,main
+2024-07-01,law,ags-2024-02-03,122-315-vair,1,main
+2024-07-01,law,ags-2024-03-02,153-100-organisationsgesetz,1,main
+2024-07-01,law,ags-2024-03-03,171-100-gemeindegesetz-gg,3,main
+2024-07-01,law,ags-2024-04-01,121-200-kbug 122-200-register-und-meldegesetz-rmg 122-600-egar 131-100-gpr 150-200-hg 150-600-publikationsgesetz-pug 150-700-idag 210-300-eg-zgb 210-500-eg-bewg 231-200-eg-schkg 271-200-verwaltungsrechtspflegegesetz-vrpg 290-100-eg-bgfa 301-100-gesg 393-400-hug 411-200-gal 422-200-gbw 428-500-betreuungsgesetz-beg 495-200-kg 515-200-bevolkerungsschutz-und-zivilschutzgesetz-aargau-bzg-ag 531-200-polizeigesetz-polg 585-100-brandschutzgesetz-bsg 612-300-gaf 651-100-stg 671-200-gnb 713-100-baugesetz-baug 740-100-kantonales-geoinformationsgesetz-kgeoig 764-100-wng 773-200-energieg 781-200-eg-umweltrecht-eg-uwr 910-200-lwg-ag 933-200-jagdgesetz-des-kantons-aargau-ajsg 935-200-fischereigesetz-des-kantons-aargau-afg 959-300-gsg 961-200-eg-arr 970-100-gastgewerbegesetz-ggg 991-100 997-100,70,main
+2024-07-01,law,ags-2024-04-03,121-213-kbuv 122-212-register-und-meldeverordnung-rmv 122-315-vair 123-121-vv-ausweisgesetz 131-111-vgpr 150-711-vidag 210-311-v-eg-zgb 210-511 231-211 253-112-strafvollzugsverordnung-smv 290-111-anwv 393-111 405-112-v-schuldienste 422-211-vbw 422-617-lzlv 423-922 426-123 428-511-betreuungsverordnung-bev 453-153-passerellenverordnung 453-163-v-vorkurs-padagogik 495-351-v-klosterkirche-und-klosterhalbinsel-wettingen 515-211-bzv-ag 515-213-kv-zs-ag 531-211-polizeiverordnung-polv 612-311-vaf 621-111 651-111-stgv 651-313-zinsverordnung 661-153 773-211-energiev 781-211-v-eg-uwr 811-621-vollziehungsverordnung-zur-bundesgesetzgebung-uber-die-entsandten-arbeitnehmerinnen-und-arbeitnehmer-vea 910-215-alav 914-111-vdzb 915-712-weinbauverordnung 931-111-awav 933-211-jagdverordnung-des-kantons-aargau-ajsv 935-211-aargauische-fischereiverordnung-afv 953-311-vv-kkg 959-312-gsv 961-211-v-eg-arr 970-111-gastgewerbeverordnung-ggv 991-111-strassenverkehrsverordnung-svv 995-811 997-111,186,main
+2024-07-01,law,ags-2024-05-04,471-211-stipendienverordnung-stipv,1,main
+2024-08-01,start,,400-740-maturitatsanerkennungsreglement-mar,40,main
+2024-08-01,law,ags-2024-01-04,453-153-passerellenverordnung,4,main
+2024-08-01,law,ags-2024-05-09,165-175,2,main
+2024-09-01,law,ags-2024-07-01,773-200-energieg,1,main
+2024-09-02,law,ags-2024-08-06,837-211-v-kvgg,1,main
+2024-09-15,start,ags-2024-07-03,422-233-v-bfgs-und-hfgs,77,main
+2024-09-15,law,ags-2024-07-03,423-332-v-fms,3,main
+2024-10-01,law,ags-2024-07-05,422-211-vbw,2,main
+2024-11-01,law,ags-2024-08-01,931-100-awag,20,main
+2024-11-01,law,ags-2024-08-05,831-921,11,main
+2024-11-01,law,ags-2024-08-11,495-211-vkg,4,main
+2024-11-01,law,ags-2024-08-12,931-111-awav,10,main
+2024-12-01,law,ags-2024-09-01,411-211-vall,3,main
+2024-12-23,law,ags-2025-01-04,331-217-gwlv,1,main
+2025-01-01,start,ags-2024-10-24,428-514-vsmb,10,main
+2025-01-01,start,ags-2024-10-17,511-712-vma-ag,21,main
+2025-01-01,start,ags-2024-10-16,651-135-progressionsverordnung-2025,6,main
+2025-01-01,start,ags-2024-10-12,651-217-vbg,19,main
+2025-01-01,start,ags-2024-10-22,651-821-vevst,23,main
+2025-01-01,law,ags-2024-08-04,390-211-v-eg-tsg,1,main
+2025-01-01,law,ags-2024-08-08,422-211-vbw,4,main
+2025-01-01,law,ags-2024-08-10,301-215-pflv,5,main
+2025-01-01,law,ags-2024-10-02,651-100-stg,10,main
+2025-01-01,law,ags-2024-10-06,295-200-beurg,18,main
+2025-01-01,law,ags-2024-10-08,673-216-persr,45,main
+2025-01-01,law,ags-2024-10-14,428-511-betreuungsverordnung-bev,7,main
+2025-01-01,law,ags-2024-10-18,740-111-kantonale-geoinformationsverordnung-kgeoiv,5,main
+2025-01-01,law,ags-2024-10-20,621-111,5,main
+2025-01-01,law,ags-2024-10-21,651-111-stgv,5,main
+2025-01-01,law,ags-2024-10-23,651-100-stg,35,main
+2025-01-01,law,ags-2024-10-25,662-111-gebuhrv 915-712-weinbauverordnung,26,main
+2025-01-01,law,ags-2024-10-26,651-100-stg,34,main
+2025-01-01,law,ags-2024-10-28,405-112-v-schuldienste,1,main
+2025-01-01,law,ags-2025-01-04,331-217-gwlv,2,main
+2025-03-01,start,ags-2025-01-03,165-134-vep,5,main
+2025-03-01,law,ags-2025-01-05,970-111-gastgewerbeverordnung-ggv,4,main
+2025-04-01,law,ags-2024-10-03,713-100-baugesetz-baug 773-200-energieg,15,main
+2025-04-01,law,ags-2024-10-09,713-121-bauv 773-211-energiev,30,main
+2025-05-01,law,ags-2025-02-07,301-112-vdpg,7,main
+2025-06-01,law,ags-2025-03-01,271-215-ubermittlungsverordnung-umv,2,main
+2025-07-01,start,ags-2025-04-19,301-114-vzok,18,main
+2025-07-01,law,ags-2025-02-02,713-100-baugesetz-baug,1,main
+2025-07-01,law,ags-2025-04-06,301-100-gesg,4,main
+2025-07-01,law,ags-2025-04-08,301-111-gesv 662-111-gebuhrv,13,main
+2025-07-01,law,ags-2025-04-09,651-811-vas,1,main
+2025-08-01,law,ags-2025-04-04,422-200-gbw,28,main
+2025-08-01,law,ags-2025-04-12,611-115-swisslos-fonds-verordnung-slfv,4,main
+2025-08-01,law,ags-2025-04-14,422-211-vbw 422-251-v-bm,41,main
+2025-08-01,law,ags-2025-04-18,422-251-v-bm,5,main
+2025-08-30,law,ags-2025-05-03,781-211-v-eg-uwr,12,main
+2025-08-30,law,ags-2025-05-05,933-211-jagdverordnung-des-kantons-aargau-ajsv,18,main
+2025-09-01,law,ags-2025-05-01,961-211-v-eg-arr,2,main
+2025-09-01,law,ags-2025-05-02,961-200-eg-arr,1,main
+2025-09-01,law,ags-2025-05-09,422-233-v-bfgs-und-hfgs 422-617-lzlv 662-111-gebuhrv,26,main
+2025-09-01,law,ags-2025-06-13,837-211-v-kvgg,3,main
+2025-10-29,law,ags-2025-06-15,651-821-vevst,1,main
+2025-11-01,law,ags-2025-06-06,150-300-ug,4,main
+2025-12-01,law,ags-2025-07-02,815-200-eg-familienzulagengesetz-eg-famzg 831-100-svag 831-300-erganzungsleistungsgesetz-aargau-elg-ag 837-200-kvgg,15,main
+2026-01-01,start,ags-2025-08-13,150-731-aktenv,25,main
+2026-01-01,start,ags-2025-08-01,755-100-vstg,18,main
+2026-01-01,start,ags-2025-08-23,755-112-verkehrssteuerverordnung-vstv,24,main
+2026-01-01,law,ags-2024-10-21,651-111-stgv,1,main
+2026-01-01,law,ags-2025-04-04,422-200-gbw,3,main
+2026-01-01,law,ags-2025-04-08,301-111-gesv,2,main
+2026-01-01,law,ags-2025-04-14,422-211-vbw,3,main
+2026-01-01,law,ags-2025-06-05,815-200-eg-familienzulagengesetz-eg-famzg,4,main
+2026-01-01,law,ags-2025-06-07,405-112-v-schuldienste,2,main
+2026-01-01,law,ags-2025-06-09,301-215-pflv,1,main
+2026-01-01,law,ags-2025-06-10,428-511-betreuungsverordnung-bev,3,main
+2026-01-01,law,ags-2025-06-11,815-211-v-eg-famzg,1,main
+2026-01-01,law,ags-2025-06-14,740-111-kantonale-geoinformationsverordnung-kgeoiv,2,main
+2026-01-01,law,ags-2025-07-01,122-515-integrationsv,7,main
+2026-01-01,law,ags-2025-08-01,751-200-strassengesetz-strg,1,main
+2026-01-01,law,ags-2025-08-04,152-200-geschaftsverkehrsgesetz-gvg 153-100-organisationsgesetz 171-100-gemeindegesetz-gg,16,main
+2026-01-01,law,ags-2025-08-09,511-761-wpev-ag,2,main
+2026-01-01,law,ags-2025-08-11,651-135-progressionsverordnung-2025,2,main
+2026-01-01,law,ags-2025-08-12,773-211-energiev,1,main
+2026-01-01,law,ags-2025-08-13,150-711-vidag,13,main
+2026-01-01,law,ags-2025-08-14,621-111,3,main
+2026-01-01,law,ags-2025-08-15,651-111-stgv,1,main
+2026-01-01,law,ags-2025-08-19,713-121-bauv,2,main
+2026-01-01,law,ags-2025-08-21,301-113-v-pflegeausbildung,2,main
+2026-01-01,law,ags-2025-08-22,311-121-vbob,3,main
+2026-01-01,law,ags-2025-08-24,331-217-gwlv,2,main
+2026-01-01,law,ags-2026-01-02,673-222,7,main
+2026-03-01,law,ags-2026-01-04,910-215-alav,9,main
+2026-03-01,law,ags-2026-01-05,911-351-alk-verordnung,3,main
+2026-04-01,law,ags-2026-01-06,165-171-spesenverordnung-spesenv,2,main
+2026-04-01,law,ags-2026-02-01,781-211-v-eg-uwr,14,main
+2026-05-01,start,ags-2026-03-01,461-100-sportg,18,main
+2026-05-01,start,ags-2026-03-05,461-115-sportverordnung-sportv,43,main
+2026-05-01,law,ags-2026-03-04,253-112-strafvollzugsverordnung-smv 531-211-polizeiverordnung-polv,45,main
+2026-05-01,law,ags-2026-04-01,935-211-aargauische-fischereiverordnung-afv,11,main
+2026-07-01,law,ags-2026-05-09,471-211-stipendienverordnung-stipv,13,main
+2026-07-01,law,ags-2026-05-13,301-215-pflv,23,main
+2026-07-01,law,ags-2026-05-18,713-121-bauv,22,main
+2026-08-01,start,ags-2026-05-01,421-100-vsg,142,main
+2026-08-01,start,ags-2026-05-05,421-315-v-vsg,124,main
+2026-08-01,start,ags-2026-05-06,421-325-vrf,31,main
+2026-08-01,start,ags-2026-05-16,422-214-v-abu,11,main
+2026-08-01,start,ags-2026-05-10,422-222-v-bruckenangebot,27,main
+2026-08-01,start,ags-2026-05-02,423-100-msg,51,main
+2026-08-01,start,ags-2026-05-11,423-125-mittelschulverordnung-msv,59,main
+2026-08-01,start,ags-2026-05-12,453-113-v-ame,14,main
+2026-08-01,law,ags-2025-08-06,423-332-v-fms,2,main
+2026-08-01,law,ags-2026-05-01,171-100-gemeindegesetz-gg 411-200-gal 428-500-betreuungsgesetz-beg,57,main
+2026-08-01,law,ags-2026-05-02,422-200-gbw,28,main
+2026-08-01,law,ags-2026-05-05,122-515-integrationsv 153-113-delegationsverordnung-delv 403-711-v-schulunfallversicherung 405-112-v-schuldienste 411-211-vall 411-712 411-731 428-511-betreuungsverordnung-bev,68,main
+2026-08-01,law,ags-2026-05-10,422-211-vbw 422-233-v-bfgs-und-hfgs 422-617-lzlv,42,main
+2026-08-01,law,ags-2026-05-11,422-211-vbw 423-152-v-gymnasium 423-155-v-wms 423-332-v-fms 423-342-v-ims 423-922 426-123 662-111-gebuhrv,143,main
+2026-08-01,law,ags-2026-05-12,453-151-vpame 453-153-passerellenverordnung 453-163-v-vorkurs-padagogik,27,main
+2026-08-01,law,ags-2026-05-17,422-251-v-bm 662-111-gebuhrv,56,main
+2026-08-30,law,ags-2026-06-02,781-211-v-eg-uwr,7,main
+2026-09-01,law,ags-2026-07-08,837-211-v-kvgg,5,main
+2026-11-01,law,ags-2026-07-10,123-121-vv-ausweisgesetz,4,zukunft
+2027-01-01,law,ags-2026-07-01,131-100-gpr,20,zukunft
+2027-01-01,law,ags-2026-07-02,615-200-finanzausgleichsgesetz-fiag,15,zukunft
+2027-01-01,law,ags-2026-07-05,615-211-finanzausgleichsverordnung-fiav,8,zukunft
+2027-03-01,law,ags-2026-07-09,411-211-vall,1,zukunft
+2027-08-01,law,ags-2026-07-07,423-125-mittelschulverordnung-msv 423-152-v-gymnasium 423-332-v-fms 453-151-vpame 453-163-v-vorkurs-padagogik,47,zukunft
