@@ -1,6 +1,6 @@
 # Aargau: law history in git
 
-The law of the canton of Aargau (Kanton Aargau, Switzerland) as a git history: one file per article, one commit per amending act on the day it took effect, and the amending act as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; checking out a date gives the text in force that day.
+The law of the canton of Aargau (Kanton Aargau, Switzerland) as a git record. The original 288 acts have consolidated in-force histories with one file per article and amendments credited where the official source identifies them. The additional 173 acts each have one current consolidated version in text.md, credited to the official publisher as the oldest version recorded here. Textual PDF annexes are retained in combined annex files. Earlier versions of these additional acts are outside this addition.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ch-ag/`. The federal law is in [lexifina/switzerland-law](https://github.com/lexifina/switzerland-law).
 
@@ -8,7 +8,7 @@ The text is in German, the canton's official language, exactly as the canton pub
 
 ## What this repository holds
 
-288 acts with 1198 versions so far: the cantonal constitution, the cantonal laws (Gesetze) in force and 206 Verordnungen and Reglemente in force, in the order of the systematic collection, added in parts. Other decrees and decisions, intercantonal agreements and repealed acts are not included yet.
+461 acts with 1,371 recorded versions: the existing 288 acts and their 1,198 consolidated versions, plus 173 additional acts with one current consolidated version each and 24 textual-annex units. The additions include decrees, decisions and intercantonal agreements as well as laws and regulations. Two listed scanned acts and normative graphics remain outside this addition. Scheduled versions stay on zukunft until they take effect.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -303,7 +303,7 @@ The text is in German, the canton's official language, exactly as the canton pub
 
 ## Source
 
-The SAR (systematic collection) of the canton, published by the canton at <https://gesetzessammlungen.ag.ch/>. For each act it gives every consolidated version it holds, with the day each version took effect, and a change table listing each amendment: its decision date, the day it took effect, the provision it touched and its entry in the chronological collection (AGS). Annexes the collection publishes only as separate PDF files are not included.
+The SAR (systematic collection) of the canton, published by the canton at <https://gesetzessammlungen.ag.ch/>. For each act it gives every consolidated version it holds, with the day each version took effect, and a change table listing each amendment: its decision date, the day it took effect, the provision it touched and its entry in the chronological collection (AGS). The original histories omit separate PDF annexes. The additional current texts include their textual annexes; graphic annexes remain outside this addition.
 
 ## Dates
 
@@ -314,7 +314,7 @@ The SAR (systematic collection) of the canton, published by the canton at <https
 
 ## Files
 
-`<act>/art-005.md` is Art. 5 (or § 5), `art-005a.md` Art. 5a; `ingress.md` holds the title, date and preamble; `gliederung.md` the section headings; `schluss.md` the closing formula and signatures. One paragraph or list item per line. Amendment markers (`*`), footnote numbers and the "Stand" date are left out.
+For the original histories, `<act>/art-005.md` is Art. 5 (or § 5), `art-005a.md` Art. 5a; `ingress.md` holds the title, date and preamble; `gliederung.md` the section headings; `schluss.md` the closing formula and signatures. The added current-text acts use `<act>/text.md` in source order; `<act>/annexes.md` contains combined textual PDF annexes. Their PDF text preserves source line order, tables, page labels and reference notes. Structured text has one paragraph or list item per line. Amendment markers (`*`), footnote numbers and the "Stand" date are left out.
 
 ## How it is checked
 
@@ -329,3 +329,183 @@ The author of a commit is the amending act, named by its entry in the chronologi
 ## Limits
 
 This is not an official publication. The binding text is the one the canton publishes as binding (its chronological collection, or its systematic collection where cantonal law makes that binding). The history starts with the oldest consolidated version the collection holds for each act, which for many acts is later than the act's enactment. Only the acts listed above are included.
+
+## Additional current texts
+
+This addition records 173 further acts with one current consolidated version each, plus their textual annexes. The combined record contains 461 acts. For these additions, text.md preserves the source's text order; combined textual PDF annexes appear once in annexes.md. Earlier versions, graphic annexes and normative images remain outside this addition. SAR 181.141 and 530.037 remain outside because their scanned pages require verified OCR.
+
+| Folder | Act | Current version in force from |
+| --- | --- | --- |
+| `110-300/` | Beschluss über Standesfarbe, Wappen und Siegel des Kantons (SAR 110.300) | 1803-04-20 |
+| `117-110/` | Dekret über die Bezirks- und Kreiseinteilung (SAR 117.110) | 2026-01-01 |
+| `150-717/` | Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität (SAR 150.717) | 2019-12-11 |
+| `150-721/` | Verwaltungsvereinbarung über die Zusammenarbeit von Schweizer Kantonen bezüglich Errichtung und Betrieb eines Verbundes für die Archivierung elektronischer Unterlagen (SAR 150.721) | 2019-12-03 |
+| `150-920/` | Dekret über das öffentliche Beschaffungswesen (SAR 150.920) | 2021-07-01 |
+| `150-950/` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (SAR 150.950) | 2010-07-01 |
+| `150-960/` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (SAR 150.960) | 2021-07-01 |
+| `152-020/` | Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz (SAR 152.020) | 2023-02-25 |
+| `152-210/` | Dekret über die Geschäftsführung des Grossen Rates (SAR 152.210) | 2026-01-01 |
+| `152-212/` | Richtlinien des Büros des Grossen Rats zur Vorbereitung und Durchführung der durch den Grossen Rat vorzunehmenden Wahlen (SAR 152.212) | 2026-09-01 |
+| `153-010/` | Vereinbarung über die Nordwestschweizer Regierungskonferenz (SAR 153.010) | 2025-07-01 |
+| `153-520/` | Dekret über die Besoldung der Mitglieder des Regierungsrats (SAR 153.520) | 2015-01-01 |
+| `153-560/` | Dekret über die berufliche Vorsorge für die Mitglieder des Regierungsrats und die Übergangsleistungen beim Ausscheiden aus dem Amt (SAR 153.560) | 2017-01-01 |
+| `155-520/` | Dekret über die Besoldung der Mitglieder des Obergerichts (SAR 155.520) | 2013-01-01 |
+| `155-560/` | Dekret über die Entschädigung der nebenamtlichen Richterinnen und Richter (SAR 155.560) | 2013-04-01 |
+| `155-900/` | Geschäftsordnung des Justizgerichts des Kantons Aargau (SAR 155.900) | 2013-11-01 |
+| `160-120/` | Dekret über die Form der Inpflichtnahmen (SAR 160.120) | 2003-01-01 |
+| `163-120/` | Dekret über die Aargauische Pensionskasse (SAR 163.120) | 2024-01-01 |
+| `165-111/` | Personal- und Lohnverordnung (SAR 165.111) | 2026-01-01 |
+| `165-130/` | Dekret über die Löhne des kantonalen Personals (SAR 165.130) | 2024-01-01 |
+| `165-170/` | Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen (SAR 165.170) | 2024-07-01 |
+| `165-320/` | Dekret über die vorzeitige Pensionierung und die Entschädigungen bei Nichtwiederwahl (SAR 165.320) | 2012-09-01 |
+| `171-150/` | Verwaltungsvereinbarung über die interkantonalen Gemeindeverbände zwischen den Kantonen Aargau und Luzern (SAR 171.150) | 1984-11-01 |
+| `171-180/` | Rahmenvertrag zwischen dem Kanton Aargau und dem Kanton Zürich über die Zusammenarbeit zwischen den Gemeinden (SAR 171.180) | 2021-01-01 |
+| `181-100/` | Übereinkommen zwischen dem Schweizerischen Bundesrat, der Regierung der Bundesrepublik Deutschland, der Regierung der französischen Republik und der Regierung des Grossherzogtums Luxemburg über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen (SAR 181.100) | 1997-09-01 |
+| `181-131/` | Kooperationsvereinbarung über die Erneuerung der Hochrheinkommission (SAR 181.131) | 2016-01-01 |
+| `181-200/` | Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz (SAR 181.200) | 2021-01-01 |
+| `181-300/` | Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands (SAR 181.300) | 2009-04-01 |
+| `181-400/` | Vereinbarung zwischen den Kantonen und dem Bund über die Harmonisierung der Informatik in der Strafjustiz (SAR 181.400) | 2025-07-01 |
+| `191-100/` | Übereinkunft zwischen dem Stand Aargau und dem päpstlichen Stuhle über den Beitritt Aargau's zum Bistum (SAR 191.100) | 1828-12-02 |
+| `191-200/` | Übereinkunft zwischen den Ständen Luzern, Bern, Solothurn und Zug und dem päpstlichen Stuhle über die Wiederherstellung und neue Umschreibung des Bistums Basel (SAR 191.200) | 1828-03-26 |
+| `195-050/` | Staatsvertrag zwischen den Kantonen Aargau und Zürich über die Erfüllung kommunaler Aufgaben für das Kloster Fahr (SAR 195.050) | 2008-01-01 |
+| `197-100/` | Tagsatzungsbeschluss über den Eidgenössischen Bettag (SAR 197.100) | 1832-08-01 |
+| `210-115/` | Ausführungsbestimmungen zur BVG- und Stiftungsaufsicht Aargau (SAR 210.115) | 2024-01-01 |
+| `210-120/` | Gebührenordnung der BVG- und Stiftungsaufsicht Aargau (SAR 210.120) | 2021-04-01 |
+| `210-170/` | Dekret über die Zivilstandskreise (SAR 210.170) | 2026-01-01 |
+| `210-175/` | Vereinbarung zwischen den Regierungsräten der Kantone Aargau und Zürich betreffend Zivilstandsdienst der Gemeinde Bergdietikon (SAR 210.175) | 2004-09-01 |
+| `210-701/` | Vereinbarung der Kantone Aargau und Solothurn über die BVG-Aufsicht (SAR 210.701) | 2018-01-01 |
+| `221-200/` | Einführungsgesetz zur Schweizerischen Zivilprozessordnung (SAR 221.200) | 2022-01-01 |
+| `251-200/` | Einführungsgesetz zur Schweizerischen Strafprozessordnung (SAR 251.200) | 2024-07-01 |
+| `251-300/` | Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung (SAR 251.300) | 2021-07-01 |
+| `253-020/` | Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen (SAR 253.020) | 2008-01-01 |
+| `253-050/` | Konkordat über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (SAR 253.050) | 2011-01-01 |
+| `253-710/` | Dekret über die Begnadigung (SAR 253.710) | 2011-01-01 |
+| `291-150/` | Dekret über die Entschädigung der Anwälte (SAR 291.150) | 2024-01-01 |
+| `295-211/` | Beurkundungs- und Beglaubigungsverordnung (SAR 295.211) | 2025-01-01 |
+| `295-250/` | Dekret über den Notariatstarif (SAR 295.250) | 2025-01-01 |
+| `301-170/` | Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz (SAR 301.170) | 2014-01-01 |
+| `311-010/` | Verordnung zum Register über die Gesundheitsfachpersonen NAREG (SAR 311.010) | 2022-02-01 |
+| `313-320/` | Dekret über die Entschädigung von nebenamtlich tätigen Personen im Gesundheitswesen (SAR 313.320) | 2017-01-01 |
+| `331-010/` | Interkantonale Vereinbarung über die hochspezialisierte Medizin (SAR 331.010) | 2009-01-01 |
+| `331-020/` | Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen (SAR 331.020) | 2022-01-01 |
+| `350-050/` | Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorates (SAR 350.050) | 2003-07-16 |
+| `351-115/` | Heilmittel- und Betäubungsmittelverordnung (SAR 351.115) | 2026-03-01 |
+| `400-100/` | Konkordat über die Schulkoordination (SAR 400.100) | 1989-10-23 |
+| `400-300/` | Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen (SAR 400.300) | 2026-08-01 |
+| `400-400/` | Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte (SAR 400.400) | 2026-08-01 |
+| `400-510/` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen (SAR 400.510) | 2015-03-01 |
+| `400-562/` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung (SAR 400.562) | 2026-08-01 |
+| `400-700/` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen (SAR 400.700) | 2025-07-01 |
+| `411-210/` | Dekret über die Löhne der Lehrpersonen (SAR 411.210) | 2026-08-01 |
+| `411-250/` | Dekret über die Beteiligung der Gemeinden am Personalaufwand der Volksschulen und Kindergärten (SAR 411.250) | 2026-08-01 |
+| `413-110/` | Dekret über die Personalvorsorge für Lehrpersonen an der Volksschule (SAR 413.110) | 2003-08-26 |
+| `413-310/` | Dekret über die Überführung der Personalvorsorge für Lehrpersonen an der Volksschule in die Aargauische Pensionskasse (SAR 413.310) | 2008-01-01 |
+| `420-540/` | Vertrag über die Aufnahme von Schülerinnen und Schülern des Kantons Aargau an Basler Gymnasien (SAR 420.540) | 2024-08-01 |
+| `425-050/` | Interkantonale Vereinbarung über die Hochschule für Heilpädagogik Zürich (SAR 425.050) | 2001-02-07 |
+| `426-040/` | Interkantonale Fachhochschulvereinbarung (FHV) ab 2005 (SAR 426.040) | 2005-10-01 |
+| `426-070/` | Staatsvertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW) (SAR 426.070) | 2012-01-01 |
+| `427-150/` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich (SAR 427.150) | 2025-01-01 |
+| `427-400/` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen (SAR 427.400) | 2022-01-01 |
+| `428-030/` | Interkantonale Vereinbarung für Soziale Einrichtungen (SAR 428.030) | 2020-06-01 |
+| `471-210/` | Dekret über die Höchstansätze der Ausbildungsbeiträge (SAR 471.210) | 2018-08-01 |
+| `471-500/` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen (SAR 471.500) | 2014-04-27 |
+| `490-710/` | Vertrag über die Römerstadt Augusta Raurica (SAR 490.710) | 2026-01-01 |
+| `495-010/` | Vereinbarung über die interkantonale Zusammenarbeit im Bereich überregionaler Kultureinrichtungen (SAR 495.010) | 2025-01-01 |
+| `495-223/` | Aargauer Kunsthaus Benutzungs- und Gebührenreglement (SAR 495.223) | 2026-01-01 |
+| `495-228/` | Benutzungs- und Gebührenreglement Aargauer Kantonsbibliothek (SAR 495.228) | 2023-09-01 |
+| `495-233/` | Museum Aargau Benutzungs- und Gebührenreglement Schloss Wildegg (SAR 495.233) | 2015-01-01 |
+| `495-235/` | Museum Aargau Benutzungs- und Gebührenreglement Schloss Habsburg (SAR 495.235) | 2015-01-01 |
+| `495-237/` | Museum Aargau Benutzungs- und Gebührenreglement Schloss Lenzburg (SAR 495.237) | 2015-01-01 |
+| `495-239/` | Museum Aargau Benutzungs- und Gebührenreglement Schloss Hallwyl (SAR 495.239) | 2015-01-01 |
+| `495-241/` | Museum Aargau Benutzungs- und Gebührenreglement Legionärspfad (SAR 495.241) | 2015-01-01 |
+| `495-243/` | Museum Aargau Benutzungs- und Gebührenreglement Klosterkirche Königsfelden (SAR 495.243) | 2015-01-01 |
+| `495-245/` | Benutzungsordnung Staatsarchiv Aargau (SAR 495.245) | 2016-07-01 |
+| `530-033/` | Verwaltungsvereinbarung zwischen dem Kanton Aargau und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartemement über die Zusammenarbeit zwischen der Kantonspolizei Aargau und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung (SAR 530.033) | 2014-10-01 |
+| `530-035/` | Verwaltungsvereinbarung betreffend die Delegation von polizeilichen Ermittlungs- und Untersuchungshandlungen (SAR 530.035) | 2014-07-07 |
+| `530-041/` | Vereinbarung über die interkantonalen Polizeieinsätze (SAR 530.041) | 2025-01-01 |
+| `530-043/` | Verwaltungsvereinbarung zwischen den Kantonen Zürich und Aargau betreffend Leistungen der Kantonspolizei Zürich für den Wegweisungsvollzug von im Zentrum für Ausländerrechtliche Administrativhaft (ZAA) oder in anderen Hafteinrichtungen im Kanton Zürich untergebrachte Personen (SAR 530.043) | 2025-07-01 |
+| `530-100/` | Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz (SAR 530.100) | 1996-02-13 |
+| `530-200/` | Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch (SAR 530.200) | 2004-12-08 |
+| `531-210/` | Dekret über die Gewährleistung der öffentlichen Sicherheit (SAR 531.210) | 2026-08-01 |
+| `533-100/` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen (SAR 533.100) | 2014-01-07 |
+| `585-115/` | Beschluss des Interkantonalen Organs Technische Handelshemmnisse (IOTH) (SAR 585.115) | 2019-01-01 |
+| `585-153/` | Tarif über die Erhebung von Gebühren in Brandschutzangelegenheiten (SAR 585.153) | 2024-10-01 |
+| `612-310/` | Dekret über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (SAR 612.310) | 2026-07-01 |
+| `612-320/` | Dekret über den finanziellen Feinausgleich der Aufgabenverschiebungen zwischen dem Kanton und den Gemeinden (SAR 612.320) | 2023-01-01 |
+| `615-010/` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (SAR 615.010) | 2007-04-17 |
+| `615-210/` | Dekret über den Finanzausgleich zwischen den Gemeinden (SAR 615.210) | 2017-12-31 |
+| `630-100/` | Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die steuerliche Behandlung von Zuwendungen zu ausschliesslich uneigennützigen Zwecken (SAR 630.100) | 1982-01-05 |
+| `631-100/` | Konkordat zwischen den Kantonen der schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen (SAR 631.100) | 1949-10-06 |
+| `633-010/` | Vereinbarung zwischen dem Regierungsrat des Kantons Appenzell A. Rh. und dem Regierungsrat des Kantons Aargau betreffend die Befreiung von der Erbschafts-, Vermächtnis- und Schenkungssteuer (SAR 633.010) | 1969-05-14 |
+| `633-020/` | Gegenrechtsvereinbarung zwischen den Kantonen Aargau und St. Gallen über die Befreiung von Zuwendungen von der Erbschafts- und Schenkungssteuer (SAR 633.020) | 1975-01-01 |
+| `633-030/` | Gegenrechtsvereinbarung zwischen den Kantonen Wallis und Aargau über die Befreiung von Zuwendungen von der Erbschafts- und Schenkungssteuer (SAR 633.030) | 1978-01-01 |
+| `633-050/` | Vereinbarung der Regierungen des Kantons Aargau und der Republik und des Kantons Jura betreffend Gegenrechtserklärungen über Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.050) | 1979-03-05 |
+| `633-070/` | Gegenrechtsvereinbarung zwischen den Kantonen Appenzell I.Rh. und Aargau über die Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.070) | 1982-01-01 |
+| `633-090/` | Gegenrechtsvereinbarung zwischen den Kantonen Aargau und Solothurn betreffend die Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.090) | 1991-01-01 |
+| `633-110/` | Vereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Uri betreffend Befreiung von Erbschafts- und Schenkungssteuer (SAR 633.110) | 1994-05-31 |
+| `633-120/` | Vereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Luzern betreffend Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.120) | 1994-07-05 |
+| `633-130/` | Vereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Bern betreffend Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.130) | 1994-09-07 |
+| `633-150/` | Gegenrechtserklärungen der Regierungen der Kantone Aargau und Glarus betreffend Befreiung von den Erbschafts- und Schenkungssteuern (SAR 633.150) | 1930-12-31 |
+| `633-160/` | Vereinbarung zwischen den Regierungsräten der Kantone Aargau und Thurgau betreffend Befreiung von der Erbschaftssteuer (SAR 633.160) | 1932-01-01 |
+| `633-170/` | Gegenrechtserklärungen der Regierungen der Kantone Aargau und Waadt betreffend Befreiung von den Erbschafts- und Schenkungssteuern (SAR 633.170) | 1938-02-18 |
+| `633-180/` | Vereinbarung zwischen der Regierung des Kantons Schaffhausen einerseits und der Regierung des Kantons Aargau anderseits betreffend Befreiung von der Erbschafts- oder Schenkungssteuer auf Zuwendungen für öffentliche oder gemeinnützige Zwecke (SAR 633.180) | 1948-08-03 |
+| `633-190/` | Vereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Zürich über Befreiungen von der Erbschafts- und Schenkungssteuer für Zuwendungen zu öffentlichen oder gemeinnützigen Zwecken (SAR 633.190) | 1949-08-18 |
+| `633-210/` | Gegenrechtsvereinbarung zwischen dem Regierungsrat des Kantons Aargau und der Regierung des Kantons Graubünden betreffend Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.210) | 1999-01-01 |
+| `633-220/` | Gegenrechtsvereinbarung zwischen den Kantonen Zug und Aargau über Befreiungen von der Erbschafts- und Schenkungssteuer für Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken (SAR 633.220) | 1956-05-18 |
+| `633-230/` | Gegenrechtsvereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Basel-Stadt über Befreiungen von der Erbschafts- und Schenkungssteuer für Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken (SAR 633.230) | 1959-07-15 |
+| `633-250/` | Vereinbarung zwischen dem Staatsrat der Republik und des Kantons Neuenburg und dem Regierungsrat des Kantons Aargau betreffend Befreiung gewisser Zuwendungen von sämtlichen Erbschafts- und Schenkungssteuern (SAR 633.250) | 1971-01-01 |
+| `633-260/` | Gegenrechtsvereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Staatsrat des Kantons Freiburg betreffend Befreiung von Zuwendungen von der Erbschafts- und Schenkungssteuer (SAR 633.260) | 1973-11-26 |
+| `633-270/` | Gegenrechtsvereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Basel-Landschaft betreffend Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.270) | 1974-01-03 |
+| `651-110/` | Dekret über die Möglichkeit von Steuererleichterungen (SAR 651.110) | 2009-01-01 |
+| `651-140/` | Dekret über die Anpassung der Eigenmietwerte per 1. Januar 2016 (SAR 651.140) | 2016-01-01 |
+| `661-710/` | Dekret über Gebühren für Amtshandlungen der Gemeinden (SAR 661.710) | 2024-07-01 |
+| `662-110/` | Gebührendekret (SAR 662.110) | 2024-07-01 |
+| `671-500/` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz (SAR 671.500) | 1975-10-01 |
+| `671-830/` | Dekret über die Sicherung der öffentlichen Heilquellen und das Graben nach solchen in Baden und Ennetbaden (SAR 671.830) | 2013-01-01 |
+| `673-325/` | Allgemeine Versicherungsbedingungen für die Gebäudewasserversicherung (SAR 673.325) | 2025-01-01 |
+| `673-343/` | Tarif für die Gebäudewasserversicherung der Aargauischen Gebäudeversicherung (SAR 673.343) | 2025-01-01 |
+| `673-346/` | Tarif für die Feuer- und Elementarschadenversicherung der Aargauischen Gebäudeversicherung (SAR 673.346) | 2020-01-01 |
+| `681-121/` | Geschäfts- und Organisationsreglement der Aargauischen Kantonalbank (SAR 681.121) | 2025-04-02 |
+| `713-010/` | Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe (IVHB) (SAR 713.010) | 2010-11-26 |
+| `713-140/` | Grossratsbeschluss über den kantonalen Richtplan (SAR 713.140) | 2026-04-30 |
+| `713-150/` | Grossratsbeschluss über den kantonalen Nutzungsplan Durchgangsplatz Augsterstich (SAR 713.150) | 2003-12-11 |
+| `713-160/` | Kantonaler Nutzungsplan für den Schutz der Thermalquellen in Baden und Ennetbaden (Gemeinden Baden, Ennetbaden und Obersiggenthal) (SAR 713.160) | 2017-02-27 |
+| `713-170/` | Kantonaler Nutzungsplan für den Schutz der Thermalquelle Bad Schinznach (Gemeinden Schinznach-Bad, Bözberg, Brugg, Habsburg, Hausen, Holderbank, Lupfig, Schinznach, Veltheim, Villnachern und Zeihen) (SAR 713.170) | 2019-02-28 |
+| `713-180/` | Kantonaler Nutzungsplan Südspange ESP Sisslerfeld (SAR 713.180) | 2024-02-29 |
+| `713-510/` | Dekret über die Beiträge an die Raumplanung (SAR 713.510) | 2026-07-01 |
+| `725-110/` | Dekret über die Grundbuchgebühren (SAR 725.110) | 2018-01-01 |
+| `750-100/` | Abkommen zwischen dem Schweizerischen Bundesrat und der Regierung der Bundesrepublik Deutschland über den Bau einer Rheinbrücke zwischen Säckingen und Stein (Aargau) (SAR 750.100) | 1977-03-28 |
+| `761-510/` | Kantonaler Nutzungsplan mit Dekret über den Schutz des Rheins und seines Ufers (SAR 761.510) | 2008-08-25 |
+| `761-520/` | Dekret über den Schutz der Reuss und ihrer Ufer unterhalb Bremgarten (SAR 761.520) | 2018-06-30 |
+| `761-530/` | Dekret über den Schutz des Mündungsgebietes Aare–Reuss–Limmat (SAR 761.530) | 2018-06-30 |
+| `761-560/` | Dekret über den Schutz des Klingnauer Stausees und seiner Umgebung (SAR 761.560) | 2023-08-28 |
+| `764-110/` | Wassernutzungsabgabendekret (SAR 764.110) | 2024-07-01 |
+| `773-330/` | Dekret über den Leistungsauftrag der AEW Energie AG (SAR 773.330) | 2025-08-30 |
+| `785-110/` | Dekret über den Natur- und Landschaftsschutz (SAR 785.110) | 2017-01-01 |
+| `787-310/` | Dekret über das Naturschutzgebiet Fronwaldwiese bei Arni (SAR 787.310) | 1973-12-19 |
+| `787-311/` | Nutzungsordnung über das Naturschutzgebiet Fronwaldwiese bei Arni (SAR 787.311) | 2011-09-01 |
+| `787-320/` | Dekret zum Schutze des Landschaftsbildes der Lägern und des Geissberges (SAR 787.320) | 2005-08-01 |
+| `787-330/` | Dekret über den Schutz der Landschaft und die Nutzung im Gebiet der Reusstalsanierung (SAR 787.330) | 2018-06-30 |
+| `787-350/` | Dekret zum Schutze der Hallwilerseelandschaft (SAR 787.350) | 2007-10-01 |
+| `837-140/` | Dekret zur Prämienverbilligung (SAR 837.140) | 2026-09-01 |
+| `851-211/` | Sozialhilfe- und Präventionsverordnung (SAR 851.211) | 2026-01-01 |
+| `851-253/` | Richtlinien über die Geltendmachung von Verwandtenunterstützung (SAR 851.253) | 2011-07-01 |
+| `931-110/` | Dekret zum Waldgesetz des Kantons Aargau (SAR 931.110) | 2024-11-01 |
+| `935-030/` | Übereinkunft betreffend die Ausübung der Fischerei in der Aare, soweit diese die Grenze zwischen den Kantonen Aargau und Solothurn bildet (SAR 935.030) | 2009-04-01 |
+| `935-040/` | Übereinkunft über den Fischfang im Hallwilersee (SAR 935.040) | 2022-01-01 |
+| `950-050/` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse (SAR 950.050) | 2003-02-04 |
+| `958-011/` | Vereinbarung zwischen der Eidgenössischen Spielbankenkommission (ESBK) und dem Regierungsrat des Kantons Aargau (SAR 958.011) | 2002-12-30 |
+| `959-200/` | Gesamtschweizerisches Geldspielkonkordat (SAR 959.200) | 2021-01-01 |
+| `959-250/` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (SAR 959.250) | 2021-01-01 |
+| `963-372/` | Normalarbeitsvertrag über das Arbeitsverhältnis in der Landwirtschaft (SAR 963.372) | 2018-01-01 |
+| `963-375/` | Normalarbeitsvertrag für Hauspersonal (SAR 963.375) | 2020-01-01 |
+| `965-030/` | Staatsvertrag der Kantone Aargau und Bern über den Vollzug der Bundesgesetzgebung über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten (SAR 965.030) | 2014-01-01 |
+| `991-010/` | Vereinbarung zwischen den Kantonen Solothurn und Aargau über die Ausübung der Autobahnpolizei auf der N 1 (SAR 991.010) | 2013-02-01 |
+| `991-020/` | Vereinbarung zwischen den Kantonen Basel-Landschaft und Aargau über die Polizeitätigkeit auf den Autobahnen A2 und A3 (SAR 991.020) | 1996-11-01 |
+| `991-172/` | Vereinbarung zwischen den Kantonen Zug und Aargau über die Durchführung von amtlichen, periodischen Nachprüfungen von Fahrzeugen (SAR 991.172) | 2016-01-01 |
+| `991-173/` | Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau über die Durchführung der amtlichen Nachkontrollen von Fahrzeugen (SAR 991.173) | 1997-07-01 |
+| `995-010/` | Vereinbarung betreffend den integralen Tarifverbund Nordwestschweiz (TNW) ab 1. Januar 1990 (SAR 995.010) | 1990-01-01 |
+| `995-011/` | Grossratsbeschluss über den Abschluss der Vereinbarung betreffend den integralen Tarifverbund Nordwestschweiz (TNW) ab 1. Januar 1990 (SAR 995.011) | 1990-01-01 |
+| `995-030/` | Vereinbarung über den Tarifverbund A-Welle (SAR 995.030) | 2009-07-01 |
+| `997-010/` | Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau in Rheinschifffahrts- und Hafenangelegenheiten (SAR 997.010) | 1997-01-01 |
+| `997-030/` | Vereinbarung zwischen den Kantonen Luzern und Aargau über den Vollzug der Schifffahrtsvorschriften auf dem luzernischen Teil des Hallwilersees (SAR 997.030) | 2010-01-01 |

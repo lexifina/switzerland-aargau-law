@@ -1,6 +1,6 @@
 # Vollziehungsverordnung zum Bundesgesetz über die Ausweise für Schweizer Staatsangehörige
 
-VV Ausweisgesetz · 6 versions, from 2010-03-01 (latest in force: 2024-07-01) · <https://gesetzessammlungen.ag.ch/app/de/texts_of_law/123.121>
+VV Ausweisgesetz · 6 versions, from 2010-03-01 (latest in force: 2026-11-01) · <https://gesetzessammlungen.ag.ch/app/de/texts_of_law/123.121>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

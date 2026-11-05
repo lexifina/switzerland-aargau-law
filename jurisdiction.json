@@ -5,7 +5,7 @@
   "level": "canton",
   "parent": "ch",
   "repo": "https://github.com/lexifina/switzerland-aargau-law",
-  "build": "built: constitution, cantonal laws and Verordnungen (288 acts, 1198 versions) from the SAR",
+  "build": "461 acts / 1371 recorded versions: 288 acts with consolidated histories plus 173 single-file current-text acts and 24 textual-annex units from the SAR; two scans and normative graphics remain outside the addition",
   "language": "de",
   "sources": 1
 }

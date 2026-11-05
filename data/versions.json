@@ -9492,6 +9492,2428 @@
      "sha256": "8fe550b3fbc509a3f50f521a0715f7f31e2dbead58fabb4876a9358ffa7f089e"
     }
    ]
+  },
+  {
+   "slug": "110-300",
+   "short": "SAR 110.300",
+   "title": "Beschluss über Standesfarbe, Wappen und Siegel des Kantons (SAR 110.300)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/110.300",
+   "versions": [
+    {
+     "from": "1803-04-20",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/110.300",
+     "sha256": "3b326b4f86b6a3707a56a43b25856e194db1e44adfe6c6aae82cd2b35a48eef4"
+    }
+   ]
+  },
+  {
+   "slug": "117-110",
+   "short": "DBK",
+   "title": "Dekret über die Bezirks- und Kreiseinteilung (SAR 117.110)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/117.110",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/117.110",
+     "sha256": "0f19fde3a1f87750b0c2ce5634921d4fed5f33f8a77929676a8c7314b10b3983"
+    }
+   ]
+  },
+  {
+   "slug": "150-717",
+   "short": "SAR 150.717",
+   "title": "Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität (SAR 150.717)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/150.717",
+   "versions": [
+    {
+     "from": "2019-12-11",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/150.717",
+     "sha256": "e378a5e7df426293cbe1faa91febbe01554a15054d967b0e83776df10b6c916f"
+    }
+   ]
+  },
+  {
+   "slug": "150-721",
+   "short": "Archivverbund DIMAG Schweiz",
+   "title": "Verwaltungsvereinbarung über die Zusammenarbeit von Schweizer Kantonen bezüglich Errichtung und Betrieb eines Verbundes für die Archivierung elektronischer Unterlagen (SAR 150.721)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/150.721",
+   "versions": [
+    {
+     "from": "2019-12-03",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/150.721",
+     "sha256": "8a221341e1528359858a33fa1063405258b557c0836f95d8dead2e23aaba9768"
+    }
+   ]
+  },
+  {
+   "slug": "150-920",
+   "short": "DöB",
+   "title": "Dekret über das öffentliche Beschaffungswesen (SAR 150.920)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/150.920",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/150.920",
+     "sha256": "01088636bfa2a1f6c3d550cd343f0a69bce2da879456dbec7a0603277316fe6a"
+    }
+   ]
+  },
+  {
+   "slug": "150-950",
+   "short": "IVöB",
+   "title": "Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (SAR 150.950)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/150.950",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/150.950",
+     "sha256": "5b71e3e71bd372ac64e53d424c1cb7f4786dde9897e8637955a39b46a80c0a01"
+    }
+   ]
+  },
+  {
+   "slug": "150-960",
+   "short": "IVöB",
+   "title": "Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (SAR 150.960)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/150.960",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/150.960",
+     "sha256": "c7f902bbcf1ce3cf9e570873fc7a6f4f80f6dd3a95b209f0b141b49386ff3748"
+    }
+   ]
+  },
+  {
+   "slug": "152-020",
+   "short": "SAR 152.020",
+   "title": "Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz (SAR 152.020)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/152.020",
+   "versions": [
+    {
+     "from": "2023-02-25",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/152.020",
+     "sha256": "3335c4b5a8221e469400b67066b112f679590918e0aa5a0c35089e1382d17295"
+    }
+   ]
+  },
+  {
+   "slug": "152-210",
+   "short": "Geschäftsordnung, GO",
+   "title": "Dekret über die Geschäftsführung des Grossen Rates (SAR 152.210)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/152.210",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/152.210",
+     "sha256": "d722f0c23f8a3d317bcec63e660346d6c6d07394cce0adcf43fb85d358beb94b"
+    }
+   ]
+  },
+  {
+   "slug": "152-212",
+   "short": "SAR 152.212",
+   "title": "Richtlinien des Büros des Grossen Rats zur Vorbereitung und Durchführung der durch den Grossen Rat vorzunehmenden Wahlen (SAR 152.212)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/152.212",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/152.212",
+     "sha256": "da3322082549bcb47f5dd39633f3b646785938285787bdc597dcd1fff60ce508"
+    }
+   ]
+  },
+  {
+   "slug": "153-010",
+   "short": "SAR 153.010",
+   "title": "Vereinbarung über die Nordwestschweizer Regierungskonferenz (SAR 153.010)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/153.010",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/153.010",
+     "sha256": "9e6990081becc77fb4da1baffed23b7790896d2617059fc3029af502fb8f9941"
+    }
+   ]
+  },
+  {
+   "slug": "153-520",
+   "short": "SAR 153.520",
+   "title": "Dekret über die Besoldung der Mitglieder des Regierungsrats (SAR 153.520)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/153.520",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/153.520",
+     "sha256": "9f6513eab35b37a7078727176ec6a3b2620cb402595af2bb9878196c2dc44a26"
+    }
+   ]
+  },
+  {
+   "slug": "153-560",
+   "short": "Vorsorgedekret RR, VDRR",
+   "title": "Dekret über die berufliche Vorsorge für die Mitglieder des Regierungsrats und die Übergangsleistungen beim Ausscheiden aus dem Amt (SAR 153.560)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/153.560",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/153.560",
+     "sha256": "7ed2c3ac0b2e34c33c85d2a114136795e073468efc9008b8479a636075f14fa2"
+    }
+   ]
+  },
+  {
+   "slug": "155-520",
+   "short": "SAR 155.520",
+   "title": "Dekret über die Besoldung der Mitglieder des Obergerichts (SAR 155.520)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/155.520",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/155.520",
+     "sha256": "4fab633461270ebf032a0194403cbb0f95f77c762eccf0382905c72c9e24371b"
+    }
+   ]
+  },
+  {
+   "slug": "155-560",
+   "short": "SAR 155.560",
+   "title": "Dekret über die Entschädigung der nebenamtlichen Richterinnen und Richter (SAR 155.560)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/155.560",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/155.560",
+     "sha256": "48a85292b1e107966ca71b78a7b52dce50633a369933bdffcded4b2ca5b8bd63"
+    }
+   ]
+  },
+  {
+   "slug": "155-900",
+   "short": "SAR 155.900",
+   "title": "Geschäftsordnung des Justizgerichts des Kantons Aargau (SAR 155.900)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/155.900",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/155.900",
+     "sha256": "78c0811496e3a4adae59c4dd30090a1a5a3fdd506a6370aa71babdfc0b76eb9d"
+    }
+   ]
+  },
+  {
+   "slug": "160-120",
+   "short": "SAR 160.120",
+   "title": "Dekret über die Form der Inpflichtnahmen (SAR 160.120)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/160.120",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/160.120",
+     "sha256": "e7713dd4a5185094b366edab50f00c1a5c611acd08026ff84b4825110452e7cb"
+    }
+   ]
+  },
+  {
+   "slug": "163-120",
+   "short": "Pensionskassendekret",
+   "title": "Dekret über die Aargauische Pensionskasse (SAR 163.120)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/163.120",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/163.120",
+     "sha256": "2b76bc7f9b0a35eb50e361c66964ab525249c28f5777d27bf78bccf79b7954d9"
+    }
+   ]
+  },
+  {
+   "slug": "165-111",
+   "short": "PLV",
+   "title": "Personal- und Lohnverordnung (SAR 165.111)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.111",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/165.111",
+     "sha256": "eedfbaee92a81a9c4557699749e4304bee8028855b99136fd92fa0bf3396255c"
+    }
+   ]
+  },
+  {
+   "slug": "165-130",
+   "short": "Lohndekret",
+   "title": "Dekret über die Löhne des kantonalen Personals (SAR 165.130)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.130",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/165.130",
+     "sha256": "2519dbdde0b8e004d5152dabf434ddeea0fac8a9b4134e81e2bc6e3c6ad6ef46"
+    }
+   ]
+  },
+  {
+   "slug": "165-170",
+   "short": "SAR 165.170",
+   "title": "Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen (SAR 165.170)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.170",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/165.170",
+     "sha256": "15bf4e042ed654d12ad4c2b0fd97adb5184079ba40476b0e22a426fc354a6449"
+    }
+   ]
+  },
+  {
+   "slug": "165-320",
+   "short": "DvPEN",
+   "title": "Dekret über die vorzeitige Pensionierung und die Entschädigungen bei Nichtwiederwahl (SAR 165.320)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.320",
+   "versions": [
+    {
+     "from": "2012-09-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/165.320",
+     "sha256": "678e99e4a800fe41acce947f19dfade7372756322373b13015c5601495c3238c"
+    }
+   ]
+  },
+  {
+   "slug": "171-150",
+   "short": "SAR 171.150",
+   "title": "Verwaltungsvereinbarung über die interkantonalen Gemeindeverbände zwischen den Kantonen Aargau und Luzern (SAR 171.150)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/171.150",
+   "versions": [
+    {
+     "from": "1984-11-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/171.150",
+     "sha256": "04deb75ff78b8bf9ea0f3f6e69fe200ece937605c9c56cd3c48878666b6f3148"
+    }
+   ]
+  },
+  {
+   "slug": "171-180",
+   "short": "SAR 171.180",
+   "title": "Rahmenvertrag zwischen dem Kanton Aargau und dem Kanton Zürich über die Zusammenarbeit zwischen den Gemeinden (SAR 171.180)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/171.180",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/171.180",
+     "sha256": "2d063c632443333d534b79c0b83f31de383153985e12f16d606b1f6fb0998461"
+    }
+   ]
+  },
+  {
+   "slug": "181-100",
+   "short": "Karlsruher Übereinkommen",
+   "title": "Übereinkommen zwischen dem Schweizerischen Bundesrat, der Regierung der Bundesrepublik Deutschland, der Regierung der französischen Republik und der Regierung des Grossherzogtums Luxemburg über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen (SAR 181.100)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/181.100",
+   "versions": [
+    {
+     "from": "1997-09-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/181.100",
+     "sha256": "4b54005fffd56265b77aabed57b3ffd9cfd8e7556f085d0c4b324c089022d8fd"
+    }
+   ]
+  },
+  {
+   "slug": "181-131",
+   "short": "SAR 181.131",
+   "title": "Kooperationsvereinbarung über die Erneuerung der Hochrheinkommission (SAR 181.131)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/181.131",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/181.131",
+     "sha256": "429aa33a8699992b2d6f36f1c646f7160d345ff38c4a717a62b860931ae60756"
+    }
+   ]
+  },
+  {
+   "slug": "181-200",
+   "short": "PTI-Vereinbarung, VPTI",
+   "title": "Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz (SAR 181.200)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/181.200",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/181.200",
+     "sha256": "0f6d4af494d8d9bb9898af5201f9dbfe914ee8f404d06cbb299b0a1efbe50a29"
+    }
+   ]
+  },
+  {
+   "slug": "181-300",
+   "short": "SAR 181.300",
+   "title": "Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands (SAR 181.300)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/181.300",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/181.300",
+     "sha256": "7744acdc37b284b5b8959aa2575c6f1fbc6e72d934d7eda2e76306df3d2e94c0"
+    }
+   ]
+  },
+  {
+   "slug": "181-400",
+   "short": "VHIS",
+   "title": "Vereinbarung zwischen den Kantonen und dem Bund über die Harmonisierung der Informatik in der Strafjustiz (SAR 181.400)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/181.400",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/181.400",
+     "sha256": "234a49c50d9f3571fb99b48cc2f3f42bfa539ffd77c2c84c1c793004596e2f88"
+    }
+   ]
+  },
+  {
+   "slug": "191-100",
+   "short": "SAR 191.100",
+   "title": "Übereinkunft zwischen dem Stand Aargau und dem päpstlichen Stuhle über den Beitritt Aargau's zum Bistum (SAR 191.100)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/191.100",
+   "versions": [
+    {
+     "from": "1828-12-02",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/191.100",
+     "sha256": "aa38949339e992ed6c482edac677f539f2c6365a4534d0b171b48f03c3b17075"
+    }
+   ]
+  },
+  {
+   "slug": "191-200",
+   "short": "SAR 191.200",
+   "title": "Übereinkunft zwischen den Ständen Luzern, Bern, Solothurn und Zug und dem päpstlichen Stuhle über die Wiederherstellung und neue Umschreibung des Bistums Basel (SAR 191.200)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/191.200",
+   "versions": [
+    {
+     "from": "1828-03-26",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/191.200",
+     "sha256": "64dc565475e91b244faf1e9c8cf94316df78febe8dac203d7dd7a1f6aa3bf8bb"
+    }
+   ]
+  },
+  {
+   "slug": "195-050",
+   "short": "SAR 195.050",
+   "title": "Staatsvertrag zwischen den Kantonen Aargau und Zürich über die Erfüllung kommunaler Aufgaben für das Kloster Fahr (SAR 195.050)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/195.050",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/195.050",
+     "sha256": "98ba846dd6c4cbd6821eb703e8bcceb46704c7ac36cb4cd9727bf0b09a177b0c"
+    }
+   ]
+  },
+  {
+   "slug": "197-100",
+   "short": "SAR 197.100",
+   "title": "Tagsatzungsbeschluss über den Eidgenössischen Bettag (SAR 197.100)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/197.100",
+   "versions": [
+    {
+     "from": "1832-08-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/197.100",
+     "sha256": "c29f67a4f441ba5d9a7f3df8094afb2c2751c63cc49f9704de175315f14cf8af"
+    }
+   ]
+  },
+  {
+   "slug": "210-115",
+   "short": "Ausführungsbestimmungen BVSA",
+   "title": "Ausführungsbestimmungen zur BVG- und Stiftungsaufsicht Aargau (SAR 210.115)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.115",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/210.115",
+     "sha256": "c9f54b3974df13cf286d7cc05b0c6005dec7d37d94bf150a486c5c58aeb1ce11"
+    }
+   ]
+  },
+  {
+   "slug": "210-120",
+   "short": "Gebührenordnung BVSA",
+   "title": "Gebührenordnung der BVG- und Stiftungsaufsicht Aargau (SAR 210.120)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.120",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/210.120",
+     "sha256": "ca74d2f8f28a7018e955de5b8ebd0f9e30ef188178781b56a522ee5159fad01f"
+    }
+   ]
+  },
+  {
+   "slug": "210-170",
+   "short": "SAR 210.170",
+   "title": "Dekret über die Zivilstandskreise (SAR 210.170)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.170",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/210.170",
+     "sha256": "b81ccb033f46d82fae388ccf964d734fd42d82ad32771c1fd67a0e59ad6e2194"
+    }
+   ]
+  },
+  {
+   "slug": "210-175",
+   "short": "SAR 210.175",
+   "title": "Vereinbarung zwischen den Regierungsräten der Kantone Aargau und Zürich betreffend Zivilstandsdienst der Gemeinde Bergdietikon (SAR 210.175)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.175",
+   "versions": [
+    {
+     "from": "2004-09-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/210.175",
+     "sha256": "70cde155ecfbf836f1c5fdd7b1ff83fdbc78ff3681750fa4ce0d941ba02d8cc0"
+    }
+   ]
+  },
+  {
+   "slug": "210-701",
+   "short": "SAR 210.701",
+   "title": "Vereinbarung der Kantone Aargau und Solothurn über die BVG-Aufsicht (SAR 210.701)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.701",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/210.701",
+     "sha256": "1d139b91c5b30cb317e9cc65f54a105b67adad17c9a361794b450c0d0a3f47c4"
+    }
+   ]
+  },
+  {
+   "slug": "221-200",
+   "short": "EG ZPO",
+   "title": "Einführungsgesetz zur Schweizerischen Zivilprozessordnung (SAR 221.200)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/221.200",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/221.200",
+     "sha256": "f21c9383fea361bff7a1759d8dcb086b40c6e30dda7a869f88057fb3de47fb1e"
+    }
+   ]
+  },
+  {
+   "slug": "251-200",
+   "short": "EG StPO",
+   "title": "Einführungsgesetz zur Schweizerischen Strafprozessordnung (SAR 251.200)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/251.200",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/251.200",
+     "sha256": "dbb9e52a00b02f469e0dfd2d152415e97b29e04b484d8d4385dfb93e8b841c11"
+    }
+   ]
+  },
+  {
+   "slug": "251-300",
+   "short": "EG JStPO",
+   "title": "Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung (SAR 251.300)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/251.300",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/251.300",
+     "sha256": "1692dd3b8218140450a0a772b531bcca945744de381e1dbe92fd49e524f68065"
+    }
+   ]
+  },
+  {
+   "slug": "253-020",
+   "short": "SAR 253.020",
+   "title": "Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen (SAR 253.020)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/253.020",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/253.020",
+     "sha256": "d7985c87118d2e36654e7695a9524c13bb226305c62bfb9ff768a54c7d8b5ea4"
+    }
+   ]
+  },
+  {
+   "slug": "253-050",
+   "short": "ViCLAS-Konkordat",
+   "title": "Konkordat über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (SAR 253.050)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/253.050",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/253.050",
+     "sha256": "373deb518b701400eead62b468064ade1fff8ee3a42f67b5b5d8e24123909d1d"
+    }
+   ]
+  },
+  {
+   "slug": "253-710",
+   "short": "SAR 253.710",
+   "title": "Dekret über die Begnadigung (SAR 253.710)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/253.710",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/253.710",
+     "sha256": "cb92b1a92a979b24ed19dea31ae83adc82f054c16ed82f40dd5a08c696589d60"
+    }
+   ]
+  },
+  {
+   "slug": "291-150",
+   "short": "Anwaltstarif",
+   "title": "Dekret über die Entschädigung der Anwälte (SAR 291.150)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/291.150",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/291.150",
+     "sha256": "d6d724094c224584de40f8a58381b27038c2fc8f39acf87016a690719b480729"
+    }
+   ]
+  },
+  {
+   "slug": "295-211",
+   "short": "BeurV",
+   "title": "Beurkundungs- und Beglaubigungsverordnung (SAR 295.211)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/295.211",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/295.211",
+     "sha256": "06022e93dab70aad80688b97ec07faf995e25fdc00b6678bd267fdfc2aa0a2c4"
+    }
+   ]
+  },
+  {
+   "slug": "295-250",
+   "short": "SAR 295.250",
+   "title": "Dekret über den Notariatstarif (SAR 295.250)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/295.250",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/295.250",
+     "sha256": "e5fee11f7a4ea2c6a0d552679c0d0129b2f5bf1e9b017f2a6790990f312083d8"
+    }
+   ]
+  },
+  {
+   "slug": "301-170",
+   "short": "Vereinbarung Ethikkommission Nordwest- und Zentralschweiz - EKNZ",
+   "title": "Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz (SAR 301.170)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.170",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/301.170",
+     "sha256": "58e0a4b45e0cd9aa876713071ade0168f148133cab730d69ae17853f0fb74cb4"
+    }
+   ]
+  },
+  {
+   "slug": "311-010",
+   "short": "NAREG-VO",
+   "title": "Verordnung zum Register über die Gesundheitsfachpersonen NAREG (SAR 311.010)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/311.010",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/311.010",
+     "sha256": "86157e6fff2b8f3bc6a26c7d750810183c780b767345383d03d4e98f842761e6"
+    }
+   ]
+  },
+  {
+   "slug": "313-320",
+   "short": "DEPG",
+   "title": "Dekret über die Entschädigung von nebenamtlich tätigen Personen im Gesundheitswesen (SAR 313.320)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/313.320",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/313.320",
+     "sha256": "1d6fda019173f1b04bfc424c335151c3874f96a14b9bcadd0a439f12d22f8074"
+    }
+   ]
+  },
+  {
+   "slug": "331-010",
+   "short": "IVHSM",
+   "title": "Interkantonale Vereinbarung über die hochspezialisierte Medizin (SAR 331.010)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/331.010",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/331.010",
+     "sha256": "b01e0c53f3b420bb13241ac413ccbec4d6d9f99613e2f25179a1fbb8fc39cd36"
+    }
+   ]
+  },
+  {
+   "slug": "331-020",
+   "short": "Weiterbildungsfinanzierungsvereinbarung, WFV",
+   "title": "Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen (SAR 331.020)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/331.020",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/331.020",
+     "sha256": "b8a37f84179ac37b844f12818a9e7bb5cb8b77395a3272e4e558d381573942d2"
+    }
+   ]
+  },
+  {
+   "slug": "350-050",
+   "short": "SAR 350.050",
+   "title": "Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorates (SAR 350.050)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/350.050",
+   "versions": [
+    {
+     "from": "2003-07-16",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/350.050",
+     "sha256": "fba94c8d1d8ec801f10a57f1e2f55d70963e30f455dea0a97bf280f496191c55"
+    }
+   ]
+  },
+  {
+   "slug": "351-115",
+   "short": "HBV",
+   "title": "Heilmittel- und Betäubungsmittelverordnung (SAR 351.115)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/351.115",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/351.115",
+     "sha256": "a43d9c8a9b377a527ca3e218b3bd971ff86c91aee6cd06a997f68f83d1e12de0"
+    }
+   ]
+  },
+  {
+   "slug": "400-100",
+   "short": "SAR 400.100",
+   "title": "Konkordat über die Schulkoordination (SAR 400.100)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/400.100",
+   "versions": [
+    {
+     "from": "1989-10-23",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/400.100",
+     "sha256": "7ff31a042ac608a95e08834a1e77bdc4f26055491427ec8b1da6de0bb8032a09"
+    }
+   ]
+  },
+  {
+   "slug": "400-300",
+   "short": "RSA 2009",
+   "title": "Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen (SAR 400.300)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/400.300",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/400.300",
+     "sha256": "2bb573b54c2f84dabc316b66e8f28ae93247704e51f0451834ff4d20ef116780"
+    }
+   ]
+  },
+  {
+   "slug": "400-400",
+   "short": "SAR 400.400",
+   "title": "Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte (SAR 400.400)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/400.400",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/400.400",
+     "sha256": "e49f17347ed3fa568c49887432e15871f721b1b80cf1039517eb94dfda0900c8"
+    }
+   ]
+  },
+  {
+   "slug": "400-510",
+   "short": "HFSV",
+   "title": "Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen (SAR 400.510)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/400.510",
+   "versions": [
+    {
+     "from": "2015-03-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/400.510",
+     "sha256": "6a704486263cefe96288a1267877a9bbe35aa196094074aaf26dbf8f11e38356"
+    }
+   ]
+  },
+  {
+   "slug": "400-562",
+   "short": "Berufsfachschulvereinbarung, BFSV",
+   "title": "Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung (SAR 400.562)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/400.562",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/400.562",
+     "sha256": "83640e3f2fb3bfcc12d9651280ff14cdf21c135dea905517ead53143b92d942c"
+    }
+   ]
+  },
+  {
+   "slug": "400-700",
+   "short": "SAR 400.700",
+   "title": "Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen (SAR 400.700)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/400.700",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/400.700",
+     "sha256": "596ae7b1bd16cf7e4fd2d62366aa9bf3a18656fa4062e701a2019f394b4a1a1c"
+    }
+   ]
+  },
+  {
+   "slug": "411-210",
+   "short": "Lohndekret Lehrpersonen, LDLP",
+   "title": "Dekret über die Löhne der Lehrpersonen (SAR 411.210)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.210",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/411.210",
+     "sha256": "01995e57035bd4d8ce95fc7c6c00b03d666281f69fd54ff4dd816c2cba3504ae"
+    }
+   ]
+  },
+  {
+   "slug": "411-250",
+   "short": "Gemeindebeteiligungsdekret, GbD",
+   "title": "Dekret über die Beteiligung der Gemeinden am Personalaufwand der Volksschulen und Kindergärten (SAR 411.250)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.250",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/411.250",
+     "sha256": "f183a853fcacab2bf1ce3fa99c8bb16b594cad4115e728af9e092b0f70227f21"
+    }
+   ]
+  },
+  {
+   "slug": "413-110",
+   "short": "LPV-Dekret",
+   "title": "Dekret über die Personalvorsorge für Lehrpersonen an der Volksschule (SAR 413.110)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/413.110",
+   "versions": [
+    {
+     "from": "2003-08-26",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/413.110",
+     "sha256": "4a26919c43994be86ed1c4768bc550dca2ef7bcf7dd81a5393638ceb782212b1"
+    }
+   ]
+  },
+  {
+   "slug": "413-310",
+   "short": "Überführungs-Dekret",
+   "title": "Dekret über die Überführung der Personalvorsorge für Lehrpersonen an der Volksschule in die Aargauische Pensionskasse (SAR 413.310)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/413.310",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/413.310",
+     "sha256": "c991d518aa0c9db46ed216fdfe029a2ff1ff31a34cf5b143bb51b6b6b634b0e4"
+    }
+   ]
+  },
+  {
+   "slug": "420-540",
+   "short": "SAR 420.540",
+   "title": "Vertrag über die Aufnahme von Schülerinnen und Schülern des Kantons Aargau an Basler Gymnasien (SAR 420.540)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/420.540",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/420.540",
+     "sha256": "fed372afbd483e8f3393fcc0fb037ac585127443f815909074743b3a0d61eef2"
+    }
+   ]
+  },
+  {
+   "slug": "425-050",
+   "short": "HfH",
+   "title": "Interkantonale Vereinbarung über die Hochschule für Heilpädagogik Zürich (SAR 425.050)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/425.050",
+   "versions": [
+    {
+     "from": "2001-02-07",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/425.050",
+     "sha256": "b30540d91f4d8185382239651ae12e29ed6b48e680fe74737dc9f663f1c1e7a3"
+    }
+   ]
+  },
+  {
+   "slug": "426-040",
+   "short": "FHV",
+   "title": "Interkantonale Fachhochschulvereinbarung (FHV) ab 2005 (SAR 426.040)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/426.040",
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/426.040",
+     "sha256": "41ed640d69eabb0e842468d08f5c3fd2e580faac4c4fbb532658404abfc86aaf"
+    }
+   ]
+  },
+  {
+   "slug": "426-070",
+   "short": "SAR 426.070",
+   "title": "Staatsvertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW) (SAR 426.070)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/426.070",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/426.070",
+     "sha256": "f50d6c829507d4a70a875734b99dee5b8bccb1daa0bca561e6e288acdb8d1380"
+    }
+   ]
+  },
+  {
+   "slug": "427-150",
+   "short": "Hochschulkonkordat",
+   "title": "Interkantonale Vereinbarung über den schweizerischen Hochschulbereich (SAR 427.150)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/427.150",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/427.150",
+     "sha256": "6666981819c5c4cfdbab51b6323907f5cc5d95e58ad650e46262bdb7dca6e1a1"
+    }
+   ]
+  },
+  {
+   "slug": "427-400",
+   "short": "Interkantonale Universitätsvereinbarung, IUV",
+   "title": "Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen (SAR 427.400)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/427.400",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/427.400",
+     "sha256": "25097e91efaf548d1791555c55c9c7c0c7caeaabe1eaf2b08690a2751950b5bc"
+    }
+   ]
+  },
+  {
+   "slug": "428-030",
+   "short": "IVSE",
+   "title": "Interkantonale Vereinbarung für Soziale Einrichtungen (SAR 428.030)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/428.030",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/428.030",
+     "sha256": "b29d185c0bf7c8f484094361c2d73520700ed6b2031b2d1b8eaf833508b9b98d"
+    }
+   ]
+  },
+  {
+   "slug": "471-210",
+   "short": "Stipendiendekret, StipD",
+   "title": "Dekret über die Höchstansätze der Ausbildungsbeiträge (SAR 471.210)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/471.210",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/471.210",
+     "sha256": "17b4dd7e246a759f2bd2e6a7681a5e413e6d35b5c7892df9c2f80fc2bbe7f015"
+    }
+   ]
+  },
+  {
+   "slug": "471-500",
+   "short": "SAR 471.500",
+   "title": "Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen (SAR 471.500)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/471.500",
+   "versions": [
+    {
+     "from": "2014-04-27",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/471.500",
+     "sha256": "edd7665ee3586b685b32cf456c80f0141d1150e60bc5818c7837e84e8e13ce97"
+    }
+   ]
+  },
+  {
+   "slug": "490-710",
+   "short": "Römervertrag",
+   "title": "Vertrag über die Römerstadt Augusta Raurica (SAR 490.710)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/490.710",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/490.710",
+     "sha256": "4cdd8fd9d304a3630054bfe2e11abc8d66bac9e11dbcdc2994e760639c052d64"
+    }
+   ]
+  },
+  {
+   "slug": "495-010",
+   "short": "Interkantonale Kulturlastenvereinbarung",
+   "title": "Vereinbarung über die interkantonale Zusammenarbeit im Bereich überregionaler Kultureinrichtungen (SAR 495.010)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.010",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/495.010",
+     "sha256": "d4a3b49cf2cbdb1ecfa682bf4f0d2ffc863d870ca6b886d59688101c0070b537"
+    }
+   ]
+  },
+  {
+   "slug": "495-223",
+   "short": "SAR 495.223",
+   "title": "Aargauer Kunsthaus Benutzungs- und Gebührenreglement (SAR 495.223)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.223",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/495.223",
+     "sha256": "d003f55071d2b5729d35cff543e4ac35b040ff32b7e73da6a2f5e327b97dccdc"
+    }
+   ]
+  },
+  {
+   "slug": "495-228",
+   "short": "SAR 495.228",
+   "title": "Benutzungs- und Gebührenreglement Aargauer Kantonsbibliothek (SAR 495.228)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.228",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/495.228",
+     "sha256": "466301d6eca641fc964019f9ae93ee5685c3a1b002fb1bbb48a16d9c8f4edfc9"
+    }
+   ]
+  },
+  {
+   "slug": "495-233",
+   "short": "SAR 495.233",
+   "title": "Museum Aargau Benutzungs- und Gebührenreglement Schloss Wildegg (SAR 495.233)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.233",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/495.233",
+     "sha256": "33dbf6f06f8bb86c0233247a686587ee0c6f135df29c800e559cd2635f93727d"
+    }
+   ]
+  },
+  {
+   "slug": "495-235",
+   "short": "SAR 495.235",
+   "title": "Museum Aargau Benutzungs- und Gebührenreglement Schloss Habsburg (SAR 495.235)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.235",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/495.235",
+     "sha256": "fce994265856a7754ea6015fadf7a9ef77e6d6bd09eddf891befec6550710f4e"
+    }
+   ]
+  },
+  {
+   "slug": "495-237",
+   "short": "SAR 495.237",
+   "title": "Museum Aargau Benutzungs- und Gebührenreglement Schloss Lenzburg (SAR 495.237)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.237",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/495.237",
+     "sha256": "5a9d7b625f6d527a453856b74c258561ae4cdfced708d6f12e50d5d3ab7a7134"
+    }
+   ]
+  },
+  {
+   "slug": "495-239",
+   "short": "SAR 495.239",
+   "title": "Museum Aargau Benutzungs- und Gebührenreglement Schloss Hallwyl (SAR 495.239)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.239",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/495.239",
+     "sha256": "33ae5cf0fd2a5bfdf745381dab8f46e35a5d2b204afadb688b1a822fe6cd6682"
+    }
+   ]
+  },
+  {
+   "slug": "495-241",
+   "short": "SAR 495.241",
+   "title": "Museum Aargau Benutzungs- und Gebührenreglement Legionärspfad (SAR 495.241)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.241",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/495.241",
+     "sha256": "17e4be96f8b05a94814da64999ca35cba4dbfe9eeba7489cea4bfbf5fa3a35bb"
+    }
+   ]
+  },
+  {
+   "slug": "495-243",
+   "short": "SAR 495.243",
+   "title": "Museum Aargau Benutzungs- und Gebührenreglement Klosterkirche Königsfelden (SAR 495.243)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.243",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/495.243",
+     "sha256": "58d78f4a7462fac5d0d207251cee44012e3b36ca47c0e12a07060862ff59ce3b"
+    }
+   ]
+  },
+  {
+   "slug": "495-245",
+   "short": "SAR 495.245",
+   "title": "Benutzungsordnung Staatsarchiv Aargau (SAR 495.245)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.245",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/495.245",
+     "sha256": "71db0ee9918ce31c8db46b17b101f9dcff03163ff8e54db96581585e556eba9e"
+    }
+   ]
+  },
+  {
+   "slug": "530-033",
+   "short": "SAR 530.033",
+   "title": "Verwaltungsvereinbarung zwischen dem Kanton Aargau und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartemement über die Zusammenarbeit zwischen der Kantonspolizei Aargau und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung (SAR 530.033)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/530.033",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/530.033",
+     "sha256": "4c7f1efd36c4c449e305070864d484a1485048ed765953913a1087b6969fe9cc"
+    }
+   ]
+  },
+  {
+   "slug": "530-035",
+   "short": "SAR 530.035",
+   "title": "Verwaltungsvereinbarung betreffend die Delegation von polizeilichen Ermittlungs- und Untersuchungshandlungen (SAR 530.035)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/530.035",
+   "versions": [
+    {
+     "from": "2014-07-07",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/530.035",
+     "sha256": "8cfd273c30ae26f3ea830a1d909d255c0a4129fbe0db73a2623f5d819787d588"
+    }
+   ]
+  },
+  {
+   "slug": "530-041",
+   "short": "IKAPOL",
+   "title": "Vereinbarung über die interkantonalen Polizeieinsätze (SAR 530.041)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/530.041",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/530.041",
+     "sha256": "1127b429a045393403b90a0a85c87af5beb9020ee20ab895bdb56a9f0617ef10"
+    }
+   ]
+  },
+  {
+   "slug": "530-043",
+   "short": "SAR 530.043",
+   "title": "Verwaltungsvereinbarung zwischen den Kantonen Zürich und Aargau betreffend Leistungen der Kantonspolizei Zürich für den Wegweisungsvollzug von im Zentrum für Ausländerrechtliche Administrativhaft (ZAA) oder in anderen Hafteinrichtungen im Kanton Zürich untergebrachte Personen (SAR 530.043)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/530.043",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/530.043",
+     "sha256": "99a2523bc289d27f626271e7f8668b2a013da6c8cc69318707f1218d47d866f3"
+    }
+   ]
+  },
+  {
+   "slug": "530-100",
+   "short": "SAR 530.100",
+   "title": "Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz (SAR 530.100)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/530.100",
+   "versions": [
+    {
+     "from": "1996-02-13",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/530.100",
+     "sha256": "f76851ca40d1e004c4341a336f5a42068a38b0719623f5d0bbb5e25f3aaeddda"
+    }
+   ]
+  },
+  {
+   "slug": "530-200",
+   "short": "SAR 530.200",
+   "title": "Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch (SAR 530.200)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/530.200",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/530.200",
+     "sha256": "09b2397bb2ab81e4e2dd9b7d91e4eff9678a7abc883fe18edc1c5911bcc3e2d6"
+    }
+   ]
+  },
+  {
+   "slug": "531-210",
+   "short": "Polizeidekret, PolD",
+   "title": "Dekret über die Gewährleistung der öffentlichen Sicherheit (SAR 531.210)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/531.210",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/531.210",
+     "sha256": "ab831a1a17f86df9e9b3486262aae0efbc94428b7634d4e4f178bda141b927c8"
+    }
+   ]
+  },
+  {
+   "slug": "533-100",
+   "short": "SAR 533.100",
+   "title": "Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen (SAR 533.100)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/533.100",
+   "versions": [
+    {
+     "from": "2014-01-07",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/533.100",
+     "sha256": "0c3c82396d87083d7ffbe738bf9702b7ba5d5e5834de9fd94059b31e70e74b7f"
+    }
+   ]
+  },
+  {
+   "slug": "585-115",
+   "short": "SAR 585.115",
+   "title": "Beschluss des Interkantonalen Organs Technische Handelshemmnisse (IOTH) (SAR 585.115)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/585.115",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/585.115",
+     "sha256": "9107c80a21af8d5a1117091373ad38e280f8febab0e13d1538bbf4564dfbf471"
+    }
+   ]
+  },
+  {
+   "slug": "585-153",
+   "short": "Gebührentarif Brandschutz",
+   "title": "Tarif über die Erhebung von Gebühren in Brandschutzangelegenheiten (SAR 585.153)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/585.153",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/585.153",
+     "sha256": "db19ea8fe75197a949e23db13a2996cb1c3fb04eaeb51ee1447ccedbcc958e0c"
+    }
+   ]
+  },
+  {
+   "slug": "612-310",
+   "short": "DAF",
+   "title": "Dekret über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (SAR 612.310)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.310",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/612.310",
+     "sha256": "f88fd7c8821ea2dc31f021b25d95659f050f469cf70ed7e2177af597ec6578ae"
+    }
+   ]
+  },
+  {
+   "slug": "612-320",
+   "short": "Aufgabenverschiebungsdekret, AVD",
+   "title": "Dekret über den finanziellen Feinausgleich der Aufgabenverschiebungen zwischen dem Kanton und den Gemeinden (SAR 612.320)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.320",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/612.320",
+     "sha256": "5dbd0e45eb2f265ba79769f86b77759a8242a9790008849640d7373a10403c2c"
+    }
+   ]
+  },
+  {
+   "slug": "615-010",
+   "short": "Rahmenvereinbarung, IRV",
+   "title": "Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (SAR 615.010)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/615.010",
+   "versions": [
+    {
+     "from": "2007-04-17",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/615.010",
+     "sha256": "fa6f350897f34b7a40f24c94bb75916a5cc7415b67a465bdfdbeb05c09cce3a8"
+    }
+   ]
+  },
+  {
+   "slug": "615-210",
+   "short": "Finanzausgleichsdekret, FiAD",
+   "title": "Dekret über den Finanzausgleich zwischen den Gemeinden (SAR 615.210)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/615.210",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/615.210",
+     "sha256": "ca48a802361a17ee6b3ef9971f79a556a4d9eaecad3227295acdab73c221b9e7"
+    }
+   ]
+  },
+  {
+   "slug": "630-100",
+   "short": "SAR 630.100",
+   "title": "Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die steuerliche Behandlung von Zuwendungen zu ausschliesslich uneigennützigen Zwecken (SAR 630.100)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/630.100",
+   "versions": [
+    {
+     "from": "1982-01-05",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/630.100",
+     "sha256": "39c7bd143311e50910f20bea6ce4dd70a4308b0e06311e56a985a00040590b4e"
+    }
+   ]
+  },
+  {
+   "slug": "631-100",
+   "short": "SAR 631.100",
+   "title": "Konkordat zwischen den Kantonen der schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen (SAR 631.100)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/631.100",
+   "versions": [
+    {
+     "from": "1949-10-06",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/631.100",
+     "sha256": "8554945f425726babc4030b15336dc04686c34bd09e3211abf6daacfce03985c"
+    }
+   ]
+  },
+  {
+   "slug": "633-010",
+   "short": "SAR 633.010",
+   "title": "Vereinbarung zwischen dem Regierungsrat des Kantons Appenzell A. Rh. und dem Regierungsrat des Kantons Aargau betreffend die Befreiung von der Erbschafts-, Vermächtnis- und Schenkungssteuer (SAR 633.010)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.010",
+   "versions": [
+    {
+     "from": "1969-05-14",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.010",
+     "sha256": "472cd5ac8d608e4e637d31b28f6fb765d66ba96cfb94039ae1d85a832933e930"
+    }
+   ]
+  },
+  {
+   "slug": "633-020",
+   "short": "SAR 633.020",
+   "title": "Gegenrechtsvereinbarung zwischen den Kantonen Aargau und St. Gallen über die Befreiung von Zuwendungen von der Erbschafts- und Schenkungssteuer (SAR 633.020)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.020",
+   "versions": [
+    {
+     "from": "1975-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.020",
+     "sha256": "3889f38fbbc3b0ae223c799342cf88be9165349f8a2e417ec485c69f3ee257d7"
+    }
+   ]
+  },
+  {
+   "slug": "633-030",
+   "short": "SAR 633.030",
+   "title": "Gegenrechtsvereinbarung zwischen den Kantonen Wallis und Aargau über die Befreiung von Zuwendungen von der Erbschafts- und Schenkungssteuer (SAR 633.030)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.030",
+   "versions": [
+    {
+     "from": "1978-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.030",
+     "sha256": "31922319466703d7e1b97f3d284bb4cac241fb9fe16b2465167b24b416dac8fd"
+    }
+   ]
+  },
+  {
+   "slug": "633-050",
+   "short": "SAR 633.050",
+   "title": "Vereinbarung der Regierungen des Kantons Aargau und der Republik und des Kantons Jura betreffend Gegenrechtserklärungen über Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.050)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.050",
+   "versions": [
+    {
+     "from": "1979-03-05",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.050",
+     "sha256": "03bc758e2c73d36acabf9e8b97e5c0359785b5b026618a2b43b3b583c4a04d2f"
+    }
+   ]
+  },
+  {
+   "slug": "633-070",
+   "short": "SAR 633.070",
+   "title": "Gegenrechtsvereinbarung zwischen den Kantonen Appenzell I.Rh. und Aargau über die Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.070)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.070",
+   "versions": [
+    {
+     "from": "1982-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.070",
+     "sha256": "0fa7894e05ff006ddd911529537bc3b6a3158d32d90e159578178be0ca893a9c"
+    }
+   ]
+  },
+  {
+   "slug": "633-090",
+   "short": "SAR 633.090",
+   "title": "Gegenrechtsvereinbarung zwischen den Kantonen Aargau und Solothurn betreffend die Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.090)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.090",
+   "versions": [
+    {
+     "from": "1991-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.090",
+     "sha256": "b44f8f94339cfb52e0b46bdc1adf7fa90c9f58fe5769ee4c833429da60c3dde3"
+    }
+   ]
+  },
+  {
+   "slug": "633-110",
+   "short": "SAR 633.110",
+   "title": "Vereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Uri betreffend Befreiung von Erbschafts- und Schenkungssteuer (SAR 633.110)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.110",
+   "versions": [
+    {
+     "from": "1994-05-31",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.110",
+     "sha256": "4faf2f66527012c094e6646788ce1ff3bb41aee97dcb57b2e85c4b785a5bde79"
+    }
+   ]
+  },
+  {
+   "slug": "633-120",
+   "short": "SAR 633.120",
+   "title": "Vereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Luzern betreffend Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.120)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.120",
+   "versions": [
+    {
+     "from": "1994-07-05",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.120",
+     "sha256": "f1db30e1cc27971fb1408d109fd65e75b00931900a03df6563f981368bfc3e5c"
+    }
+   ]
+  },
+  {
+   "slug": "633-130",
+   "short": "SAR 633.130",
+   "title": "Vereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Bern betreffend Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.130)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.130",
+   "versions": [
+    {
+     "from": "1994-09-07",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.130",
+     "sha256": "5ce4adc8fedfba6224a8c9201921992d60e0d960a89f7ef4816ae9469e6ab1be"
+    }
+   ]
+  },
+  {
+   "slug": "633-150",
+   "short": "SAR 633.150",
+   "title": "Gegenrechtserklärungen der Regierungen der Kantone Aargau und Glarus betreffend Befreiung von den Erbschafts- und Schenkungssteuern (SAR 633.150)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.150",
+   "versions": [
+    {
+     "from": "1930-12-31",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.150",
+     "sha256": "a8c50ea5b59cafe701277a15324e9740b9f9d08ae4b46edc2932ff383109ffd1"
+    }
+   ]
+  },
+  {
+   "slug": "633-160",
+   "short": "SAR 633.160",
+   "title": "Vereinbarung zwischen den Regierungsräten der Kantone Aargau und Thurgau betreffend Befreiung von der Erbschaftssteuer (SAR 633.160)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.160",
+   "versions": [
+    {
+     "from": "1932-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.160",
+     "sha256": "1a80be5ef82d5a883c7f0e4612657c28402bf8533ccf8bf092668b5ab8ddaf8d"
+    }
+   ]
+  },
+  {
+   "slug": "633-170",
+   "short": "SAR 633.170",
+   "title": "Gegenrechtserklärungen der Regierungen der Kantone Aargau und Waadt betreffend Befreiung von den Erbschafts- und Schenkungssteuern (SAR 633.170)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.170",
+   "versions": [
+    {
+     "from": "1938-02-18",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.170",
+     "sha256": "adf4463f1c5fc22eb5db7df54c33fefe98a1868ccd5ec364a088931c97b0e78d"
+    }
+   ]
+  },
+  {
+   "slug": "633-180",
+   "short": "SAR 633.180",
+   "title": "Vereinbarung zwischen der Regierung des Kantons Schaffhausen einerseits und der Regierung des Kantons Aargau anderseits betreffend Befreiung von der Erbschafts- oder Schenkungssteuer auf Zuwendungen für öffentliche oder gemeinnützige Zwecke (SAR 633.180)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.180",
+   "versions": [
+    {
+     "from": "1948-08-03",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.180",
+     "sha256": "933c7f13cad576f92a132b4da598c14b6a4bf48a184d2b2b34060baa4219a70e"
+    }
+   ]
+  },
+  {
+   "slug": "633-190",
+   "short": "SAR 633.190",
+   "title": "Vereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Zürich über Befreiungen von der Erbschafts- und Schenkungssteuer für Zuwendungen zu öffentlichen oder gemeinnützigen Zwecken (SAR 633.190)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.190",
+   "versions": [
+    {
+     "from": "1949-08-18",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.190",
+     "sha256": "538165b3d28f6552cf6f9e369791e4fe8f94efe89a0a57f60fc50d1986a0e182"
+    }
+   ]
+  },
+  {
+   "slug": "633-210",
+   "short": "SAR 633.210",
+   "title": "Gegenrechtsvereinbarung zwischen dem Regierungsrat des Kantons Aargau und der Regierung des Kantons Graubünden betreffend Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.210)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.210",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.210",
+     "sha256": "9810533d73b4a8d88e9e4f1d515d05bc2cba2b3909269826e8cb32c1e1ebf751"
+    }
+   ]
+  },
+  {
+   "slug": "633-220",
+   "short": "SAR 633.220",
+   "title": "Gegenrechtsvereinbarung zwischen den Kantonen Zug und Aargau über Befreiungen von der Erbschafts- und Schenkungssteuer für Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken (SAR 633.220)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.220",
+   "versions": [
+    {
+     "from": "1956-05-18",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.220",
+     "sha256": "c639cf3445da8f8578e7baba2de1385d7308d9f0ab176cb76b04ff3481153ca1"
+    }
+   ]
+  },
+  {
+   "slug": "633-230",
+   "short": "SAR 633.230",
+   "title": "Gegenrechtsvereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Basel-Stadt über Befreiungen von der Erbschafts- und Schenkungssteuer für Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken (SAR 633.230)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.230",
+   "versions": [
+    {
+     "from": "1959-07-15",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.230",
+     "sha256": "521d102729c592343ef09f0b70d9dd8d992b5563b0f7ed33bc387bdd29af47e9"
+    }
+   ]
+  },
+  {
+   "slug": "633-250",
+   "short": "SAR 633.250",
+   "title": "Vereinbarung zwischen dem Staatsrat der Republik und des Kantons Neuenburg und dem Regierungsrat des Kantons Aargau betreffend Befreiung gewisser Zuwendungen von sämtlichen Erbschafts- und Schenkungssteuern (SAR 633.250)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.250",
+   "versions": [
+    {
+     "from": "1971-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.250",
+     "sha256": "2785f8ff2928bd92fe99050912cf45ded754e9fce09438533c2bcca950aca32f"
+    }
+   ]
+  },
+  {
+   "slug": "633-260",
+   "short": "SAR 633.260",
+   "title": "Gegenrechtsvereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Staatsrat des Kantons Freiburg betreffend Befreiung von Zuwendungen von der Erbschafts- und Schenkungssteuer (SAR 633.260)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.260",
+   "versions": [
+    {
+     "from": "1973-11-26",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.260",
+     "sha256": "495002fbc6a1beea77bf790ab4ecbbc1750036aa77352b56e53bc0e9c4d96b82"
+    }
+   ]
+  },
+  {
+   "slug": "633-270",
+   "short": "SAR 633.270",
+   "title": "Gegenrechtsvereinbarung zwischen dem Regierungsrat des Kantons Aargau und dem Regierungsrat des Kantons Basel-Landschaft betreffend Befreiung von der Erbschafts- und Schenkungssteuer (SAR 633.270)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/633.270",
+   "versions": [
+    {
+     "from": "1974-01-03",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/633.270",
+     "sha256": "5f2877cbdc560bc75e8d5c7d1127830b33d25905ff630d5d9458464ef1aa99eb"
+    }
+   ]
+  },
+  {
+   "slug": "651-110",
+   "short": "SAR 651.110",
+   "title": "Dekret über die Möglichkeit von Steuererleichterungen (SAR 651.110)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.110",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/651.110",
+     "sha256": "2abd9ff123ba34fe09097d29df8f65066462de802dea850e1c2e3e2f571212e2"
+    }
+   ]
+  },
+  {
+   "slug": "651-140",
+   "short": "SAR 651.140",
+   "title": "Dekret über die Anpassung der Eigenmietwerte per 1. Januar 2016 (SAR 651.140)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.140",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/651.140",
+     "sha256": "76547c491662bd9bfc90cd0dad1a703c5d9fd155208965798bb9fc60e1a1c838"
+    }
+   ]
+  },
+  {
+   "slug": "661-710",
+   "short": "Gemeindegebührendekret, GGebD",
+   "title": "Dekret über Gebühren für Amtshandlungen der Gemeinden (SAR 661.710)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/661.710",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/661.710",
+     "sha256": "01d0273f9ac9c75ee87419db6aee219eccfa40fcb4e2dfa6ee16704ef9771df5"
+    }
+   ]
+  },
+  {
+   "slug": "662-110",
+   "short": "GebührD",
+   "title": "Gebührendekret (SAR 662.110)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/662.110",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/662.110",
+     "sha256": "a9ced711285f7fa6366a3cb2098a0db8b4d814f61c4c092e9cbf15296eebc84f"
+    }
+   ]
+  },
+  {
+   "slug": "671-500",
+   "short": "SAR 671.500",
+   "title": "Interkantonale Vereinbarung über den Salzverkauf in der Schweiz (SAR 671.500)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/671.500",
+   "versions": [
+    {
+     "from": "1975-10-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/671.500",
+     "sha256": "bc317ed61b8f3160286d78b896f4b4a0a8215871a95748504a3ef232bec88024"
+    }
+   ]
+  },
+  {
+   "slug": "671-830",
+   "short": "SAR 671.830",
+   "title": "Dekret über die Sicherung der öffentlichen Heilquellen und das Graben nach solchen in Baden und Ennetbaden (SAR 671.830)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/671.830",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/671.830",
+     "sha256": "200f925e2143f79e99c10ec653b6a41d9420df33d87b4f5bfa8e901a818bf9f5"
+    }
+   ]
+  },
+  {
+   "slug": "673-325",
+   "short": "AVB Gebäudewasser",
+   "title": "Allgemeine Versicherungsbedingungen für die Gebäudewasserversicherung (SAR 673.325)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/673.325",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/673.325",
+     "sha256": "8cb4c06a097d72f4a964ba283f9974205dda10f596cebda99fec742d7c621019"
+    }
+   ]
+  },
+  {
+   "slug": "673-343",
+   "short": "Tarif Gebäudewasser",
+   "title": "Tarif für die Gebäudewasserversicherung der Aargauischen Gebäudeversicherung (SAR 673.343)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/673.343",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/673.343",
+     "sha256": "a06c23feea482fec704e586c824cb564e0479b1eacc20f7de5dbde55fcf12194"
+    }
+   ]
+  },
+  {
+   "slug": "673-346",
+   "short": "Tarif Feuer Elementar",
+   "title": "Tarif für die Feuer- und Elementarschadenversicherung der Aargauischen Gebäudeversicherung (SAR 673.346)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/673.346",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/673.346",
+     "sha256": "4b8773ec45d321ff400a75057bcf5942087e806a442e2c9be8f880c89c126358"
+    }
+   ]
+  },
+  {
+   "slug": "681-121",
+   "short": "SAR 681.121",
+   "title": "Geschäfts- und Organisationsreglement der Aargauischen Kantonalbank (SAR 681.121)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/681.121",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/681.121",
+     "sha256": "a59c22c9386c0edf29ce8e1d972222139effbf0d1aab41c51c1079b25d1a41fd"
+    }
+   ]
+  },
+  {
+   "slug": "713-010",
+   "short": "IVHB",
+   "title": "Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe (IVHB) (SAR 713.010)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.010",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/713.010",
+     "sha256": "c3b54b80f27b6f798808957887e31cf26665cc1e1d5a84cb5c1e3007db5fee8e"
+    }
+   ]
+  },
+  {
+   "slug": "713-140",
+   "short": "SAR 713.140",
+   "title": "Grossratsbeschluss über den kantonalen Richtplan (SAR 713.140)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.140",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/713.140",
+     "sha256": "747ac0914edd11f98bf907fe4e1d6169c5af6e29ffa89e54d3fee0fbdf64436b"
+    }
+   ]
+  },
+  {
+   "slug": "713-150",
+   "short": "Gemeinde Kaiseraugst",
+   "title": "Grossratsbeschluss über den kantonalen Nutzungsplan Durchgangsplatz Augsterstich (SAR 713.150)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.150",
+   "versions": [
+    {
+     "from": "2003-12-11",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/713.150",
+     "sha256": "40c90a27b3c9030025e363b698f2b1c14b5ae2980718872a889f646fb116f2c6"
+    }
+   ]
+  },
+  {
+   "slug": "713-160",
+   "short": "SAR 713.160",
+   "title": "Kantonaler Nutzungsplan für den Schutz der Thermalquellen in Baden und Ennetbaden (Gemeinden Baden, Ennetbaden und Obersiggenthal) (SAR 713.160)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.160",
+   "versions": [
+    {
+     "from": "2017-02-27",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/713.160",
+     "sha256": "e7a66a7b455ca91e608be5e6cad68a82ea417ca529faa77981c65d3f66b43c05"
+    }
+   ]
+  },
+  {
+   "slug": "713-170",
+   "short": "SAR 713.170",
+   "title": "Kantonaler Nutzungsplan für den Schutz der Thermalquelle Bad Schinznach (Gemeinden Schinznach-Bad, Bözberg, Brugg, Habsburg, Hausen, Holderbank, Lupfig, Schinznach, Veltheim, Villnachern und Zeihen) (SAR 713.170)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.170",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/713.170",
+     "sha256": "2a811576f31f1ca7b1c54beaaa4191825064a819462c811d2b9838fb55708478"
+    }
+   ]
+  },
+  {
+   "slug": "713-180",
+   "short": "Kt NP Sisslerfeld",
+   "title": "Kantonaler Nutzungsplan Südspange ESP Sisslerfeld (SAR 713.180)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.180",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/713.180",
+     "sha256": "d1edcc6a5734034b340f50b3dd7dcfcdb44c29fed75d5e8243a7cce4b2a1b2d0"
+    }
+   ]
+  },
+  {
+   "slug": "713-510",
+   "short": "SAR 713.510",
+   "title": "Dekret über die Beiträge an die Raumplanung (SAR 713.510)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.510",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/713.510",
+     "sha256": "85b7ff2b656394cec27f4d5d60ef39baee99d5fc5e811f91924a248933c9ef30"
+    }
+   ]
+  },
+  {
+   "slug": "725-110",
+   "short": "SAR 725.110",
+   "title": "Dekret über die Grundbuchgebühren (SAR 725.110)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/725.110",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/725.110",
+     "sha256": "b7eeded44e3a4044afc1c6079aa584d1e282b5b5a3656ded9dbfca4d5d2f763d"
+    }
+   ]
+  },
+  {
+   "slug": "750-100",
+   "short": "SAR 750.100",
+   "title": "Abkommen zwischen dem Schweizerischen Bundesrat und der Regierung der Bundesrepublik Deutschland über den Bau einer Rheinbrücke zwischen Säckingen und Stein (Aargau) (SAR 750.100)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/750.100",
+   "versions": [
+    {
+     "from": "1977-03-28",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/750.100",
+     "sha256": "a1f98ab36496926a9c89b8a56464bb70557038e388fe576463471f5acef2d1f3"
+    }
+   ]
+  },
+  {
+   "slug": "761-510",
+   "short": "Rheinuferschutzdekret, RhD",
+   "title": "Kantonaler Nutzungsplan mit Dekret über den Schutz des Rheins und seines Ufers (SAR 761.510)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/761.510",
+   "versions": [
+    {
+     "from": "2008-08-25",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/761.510",
+     "sha256": "d46a7ce514d30a07046fa9939148c3b0990a94bd571a7bb6181eb4746b3e4ecb"
+    }
+   ]
+  },
+  {
+   "slug": "761-520",
+   "short": "Reussuferschutzdekret, RUD",
+   "title": "Dekret über den Schutz der Reuss und ihrer Ufer unterhalb Bremgarten (SAR 761.520)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/761.520",
+   "versions": [
+    {
+     "from": "2018-06-30",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/761.520",
+     "sha256": "efa735c14550470d76f00b02c75117335bbb1c3c0db0be72d829ad81a4173c00"
+    }
+   ]
+  },
+  {
+   "slug": "761-530",
+   "short": "Wasserschlossdekret, WSD",
+   "title": "Dekret über den Schutz des Mündungsgebietes Aare–Reuss–Limmat (SAR 761.530)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/761.530",
+   "versions": [
+    {
+     "from": "2018-06-30",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/761.530",
+     "sha256": "ac5965cd8e86e85baaddb65102b9ce94fd43152f7b526fb216b9a81c259af3eb"
+    }
+   ]
+  },
+  {
+   "slug": "761-560",
+   "short": "SAR 761.560",
+   "title": "Dekret über den Schutz des Klingnauer Stausees und seiner Umgebung (SAR 761.560)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/761.560",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/761.560",
+     "sha256": "551a8391d28c6cfef70a29d0ee00ab043485ba4160a32d3bd11e9c43537d73b5"
+    }
+   ]
+  },
+  {
+   "slug": "764-110",
+   "short": "WnD",
+   "title": "Wassernutzungsabgabendekret (SAR 764.110)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/764.110",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/764.110",
+     "sha256": "bb23b502170114aae5631e69d3a637c8d15f5d13399beba21d6229576ddaa196"
+    }
+   ]
+  },
+  {
+   "slug": "773-330",
+   "short": "SAR 773.330",
+   "title": "Dekret über den Leistungsauftrag der AEW Energie AG (SAR 773.330)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/773.330",
+   "versions": [
+    {
+     "from": "2025-08-30",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/773.330",
+     "sha256": "69ff19eebf1e91e6f7ba9a6755613f4ae66c90678323e346ecfc8d958577742f"
+    }
+   ]
+  },
+  {
+   "slug": "785-110",
+   "short": "NLD",
+   "title": "Dekret über den Natur- und Landschaftsschutz (SAR 785.110)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/785.110",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/785.110",
+     "sha256": "75dad54c0b1a88aa855bc4f4c7ee37db7569b4fa5e84afefe93a0873ec5ffe72"
+    }
+   ]
+  },
+  {
+   "slug": "787-310",
+   "short": "SAR 787.310",
+   "title": "Dekret über das Naturschutzgebiet Fronwaldwiese bei Arni (SAR 787.310)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/787.310",
+   "versions": [
+    {
+     "from": "1973-12-19",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/787.310",
+     "sha256": "f37acdba2a2c5312ad103e7e51a22b0c6bc8f8f21df97946536ad200a6cf740d"
+    }
+   ]
+  },
+  {
+   "slug": "787-311",
+   "short": "SAR 787.311",
+   "title": "Nutzungsordnung über das Naturschutzgebiet Fronwaldwiese bei Arni (SAR 787.311)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/787.311",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/787.311",
+     "sha256": "6e686f83e8a60abeae77e898412a12cfaf19187998dec037155bb88eea6717bf"
+    }
+   ]
+  },
+  {
+   "slug": "787-320",
+   "short": "Lägernschutzdekret",
+   "title": "Dekret zum Schutze des Landschaftsbildes der Lägern und des Geissberges (SAR 787.320)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/787.320",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/787.320",
+     "sha256": "78ec8fc696e26ba4aa4a4c2fae2b74a16324f5e102862ec1922a86781d074096"
+    }
+   ]
+  },
+  {
+   "slug": "787-330",
+   "short": "Reusstaldekret, RTD",
+   "title": "Dekret über den Schutz der Landschaft und die Nutzung im Gebiet der Reusstalsanierung (SAR 787.330)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/787.330",
+   "versions": [
+    {
+     "from": "2018-06-30",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/787.330",
+     "sha256": "052d51674bab8a835c2681f4908c5718d25841d73b829320c18b083d1153e5db"
+    }
+   ]
+  },
+  {
+   "slug": "787-350",
+   "short": "Hallwilerseeschutzdekret",
+   "title": "Dekret zum Schutze der Hallwilerseelandschaft (SAR 787.350)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/787.350",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/787.350",
+     "sha256": "d3f9e3b38cccf23c4a1c906e5b44189c373b733df067d73d9dfbf3c8df266afa"
+    }
+   ]
+  },
+  {
+   "slug": "837-140",
+   "short": "DPV",
+   "title": "Dekret zur Prämienverbilligung (SAR 837.140)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/837.140",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/837.140",
+     "sha256": "c96aca70953a0d9e8bc03e5d2f186d99c9a4b20021a4a89617bf2f6bfc93a7e3"
+    }
+   ]
+  },
+  {
+   "slug": "851-211",
+   "short": "SPV",
+   "title": "Sozialhilfe- und Präventionsverordnung (SAR 851.211)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/851.211",
+     "sha256": "0e418fcf46b7d6d3c3ce593da7be6d01ffa48fde4f2a06b7e74785effa7dfed5"
+    }
+   ]
+  },
+  {
+   "slug": "851-253",
+   "short": "Verwandtenunterstützungsrichtlinien, VUR",
+   "title": "Richtlinien über die Geltendmachung von Verwandtenunterstützung (SAR 851.253)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.253",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/851.253",
+     "sha256": "6591c5931952c870fd6777770b903eaab339f50d2bf60e2b05c48591b4e1507b"
+    }
+   ]
+  },
+  {
+   "slug": "931-110",
+   "short": "Walddekret, AWaD",
+   "title": "Dekret zum Waldgesetz des Kantons Aargau (SAR 931.110)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/931.110",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/931.110",
+     "sha256": "d8044a95fc17a166a7e5042baaab51ae2fd78f76c07b10965e88dbf0dfd1a036"
+    }
+   ]
+  },
+  {
+   "slug": "935-030",
+   "short": "SAR 935.030",
+   "title": "Übereinkunft betreffend die Ausübung der Fischerei in der Aare, soweit diese die Grenze zwischen den Kantonen Aargau und Solothurn bildet (SAR 935.030)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/935.030",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/935.030",
+     "sha256": "1ef06f51c6abf79db1ebde43f27b2aab373e166b236394ce8190393289f83b72"
+    }
+   ]
+  },
+  {
+   "slug": "935-040",
+   "short": "SAR 935.040",
+   "title": "Übereinkunft über den Fischfang im Hallwilersee (SAR 935.040)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/935.040",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/935.040",
+     "sha256": "fa1c30884f0cc9570974b0a11eed7bbfcd0202e4de7483d435481ec020f902dd"
+    }
+   ]
+  },
+  {
+   "slug": "950-050",
+   "short": "SAR 950.050",
+   "title": "Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse (SAR 950.050)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/950.050",
+   "versions": [
+    {
+     "from": "2003-02-04",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/950.050",
+     "sha256": "233e462ec070592d6bc3d68d09c5c4fa69a5a46695e5312e25cedcf97bf71fe9"
+    }
+   ]
+  },
+  {
+   "slug": "958-011",
+   "short": "SAR 958.011",
+   "title": "Vereinbarung zwischen der Eidgenössischen Spielbankenkommission (ESBK) und dem Regierungsrat des Kantons Aargau (SAR 958.011)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/958.011",
+   "versions": [
+    {
+     "from": "2002-12-30",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/958.011",
+     "sha256": "d334b7923174a4491e63450f9b272efce01a77c71d221dc45585ad1e15b5391e"
+    }
+   ]
+  },
+  {
+   "slug": "959-200",
+   "short": "GSK",
+   "title": "Gesamtschweizerisches Geldspielkonkordat (SAR 959.200)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/959.200",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/959.200",
+     "sha256": "f3ce6ed6d7d61e667c585a538a1ec8f1ddb8cf8c64777fdbe1bcb6158311529f"
+    }
+   ]
+  },
+  {
+   "slug": "959-250",
+   "short": "IKV 2020",
+   "title": "Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (SAR 959.250)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/959.250",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/959.250",
+     "sha256": "271bfc1bd48b9248bd495f2242835175c4120ce2399ec54b52e632e6b6874a45"
+    }
+   ]
+  },
+  {
+   "slug": "963-372",
+   "short": "SAR 963.372",
+   "title": "Normalarbeitsvertrag über das Arbeitsverhältnis in der Landwirtschaft (SAR 963.372)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/963.372",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/963.372",
+     "sha256": "64aa75a22b7c9a4c103102f1fcd3f50d5cc894bad5829320bdc125b17fa18aa7"
+    }
+   ]
+  },
+  {
+   "slug": "963-375",
+   "short": "NAV Hauspersonal",
+   "title": "Normalarbeitsvertrag für Hauspersonal (SAR 963.375)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/963.375",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/963.375",
+     "sha256": "6ebe75215695764e77a607350d5c1f24f662e213ade286d8d7f840f861521d91"
+    }
+   ]
+  },
+  {
+   "slug": "965-030",
+   "short": "SAR 965.030",
+   "title": "Staatsvertrag der Kantone Aargau und Bern über den Vollzug der Bundesgesetzgebung über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten (SAR 965.030)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/965.030",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/965.030",
+     "sha256": "8d6728965008ea96b646a7e8610e1f555eb4adda375f961c1311aee7d2c50f02"
+    }
+   ]
+  },
+  {
+   "slug": "991-010",
+   "short": "SAR 991.010",
+   "title": "Vereinbarung zwischen den Kantonen Solothurn und Aargau über die Ausübung der Autobahnpolizei auf der N 1 (SAR 991.010)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/991.010",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/991.010",
+     "sha256": "b4229f4dfd313921f0ec9e2b67501bd8ec3b5c8ae8ad8eecb03074d436be255b"
+    }
+   ]
+  },
+  {
+   "slug": "991-020",
+   "short": "SAR 991.020",
+   "title": "Vereinbarung zwischen den Kantonen Basel-Landschaft und Aargau über die Polizeitätigkeit auf den Autobahnen A2 und A3 (SAR 991.020)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/991.020",
+   "versions": [
+    {
+     "from": "1996-11-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/991.020",
+     "sha256": "a64bd05021a8ee5d1ccce4af436162657c2bbe71780eb385a615bcbc3568230e"
+    }
+   ]
+  },
+  {
+   "slug": "991-172",
+   "short": "SAR 991.172",
+   "title": "Vereinbarung zwischen den Kantonen Zug und Aargau über die Durchführung von amtlichen, periodischen Nachprüfungen von Fahrzeugen (SAR 991.172)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/991.172",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/991.172",
+     "sha256": "5e7a049ba9bd8eea30392383ffa10e4cc75bbeeabb4543d3dfaa36a1db985203"
+    }
+   ]
+  },
+  {
+   "slug": "991-173",
+   "short": "SAR 991.173",
+   "title": "Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau über die Durchführung der amtlichen Nachkontrollen von Fahrzeugen (SAR 991.173)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/991.173",
+   "versions": [
+    {
+     "from": "1997-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/991.173",
+     "sha256": "fa3b433427f62f3ee68cd2d4ac6006736e5416c40c8ef5015a7eff03f43f9520"
+    }
+   ]
+  },
+  {
+   "slug": "995-010",
+   "short": "SAR 995.010",
+   "title": "Vereinbarung betreffend den integralen Tarifverbund Nordwestschweiz (TNW) ab 1. Januar 1990 (SAR 995.010)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/995.010",
+   "versions": [
+    {
+     "from": "1990-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/995.010",
+     "sha256": "5b0c25e053d7bf70eb88006f1fe328c12bb1c3f4a3089a7ff430ecd913be8816"
+    }
+   ]
+  },
+  {
+   "slug": "995-011",
+   "short": "SAR 995.011",
+   "title": "Grossratsbeschluss über den Abschluss der Vereinbarung betreffend den integralen Tarifverbund Nordwestschweiz (TNW) ab 1. Januar 1990 (SAR 995.011)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/995.011",
+   "versions": [
+    {
+     "from": "1990-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/995.011",
+     "sha256": "c922e690ce557ea35207a81277f4ebcc52deea99dd4c1669477cba9fe8da86d5"
+    }
+   ]
+  },
+  {
+   "slug": "995-030",
+   "short": "SAR 995.030",
+   "title": "Vereinbarung über den Tarifverbund A-Welle (SAR 995.030)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/995.030",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/995.030",
+     "sha256": "0867979c8bcc082f278d83e514fe13459f0743083feca84094d84c73396e6b02"
+    }
+   ]
+  },
+  {
+   "slug": "997-010",
+   "short": "SAR 997.010",
+   "title": "Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau in Rheinschifffahrts- und Hafenangelegenheiten (SAR 997.010)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/997.010",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/997.010",
+     "sha256": "7aaa68e20016fc44169fac987e0a2e2d5d52f5fd41766d8ed5e3a51aa5bc431a"
+    }
+   ]
+  },
+  {
+   "slug": "997-030",
+   "short": "SAR 997.030",
+   "title": "Vereinbarung zwischen den Kantonen Luzern und Aargau über den Vollzug der Schifffahrtsvorschriften auf dem luzernischen Teil des Hallwilersees (SAR 997.030)",
+   "url": "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/997.030",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 1,
+     "source_url": "https://gesetzessammlungen.ag.ch/api/de/texts_of_law/997.030",
+     "sha256": "18d81e4f7bfbf63db1298eb924839be05ca198e91a93ca5b0de63b0f4b93c59d"
+    }
+   ]
   }
  ]
 }
