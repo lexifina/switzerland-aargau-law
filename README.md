@@ -1,5 +1,7 @@
 # Aargau: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Aargau, Switzerland, which global-law reads at `switzerland/aargau/acts/`.
+
 The law of the canton of Aargau (Kanton Aargau, Switzerland) as a git record. The original 288 acts have consolidated in-force histories with one file per article and amendments credited where the official source identifies them. The additional 173 acts each have one current consolidated version in text.md, credited to the official publisher as the oldest version recorded here. Textual PDF annexes are retained in combined annex files. Earlier versions of these additional acts are outside this addition.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ch-ag/`. The federal law is in [lexifina/switzerland-law](https://github.com/lexifina/switzerland-law).
