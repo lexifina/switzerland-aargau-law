@@ -9,8 +9,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 ### Aargau: systematic collection (gesetzessammlungen.ag.ch) · `switzerland/aargau/acts`
 
 - The official source last read and every act held here checked against it: **not yet**.
-- Acts held here: 288; current at the source: 286; changed at the source since the version held here: 116; no longer at the source: 0.
+- Acts held here: 288; current at the source: 288; changed at the source since the version held here: 106; no longer at the source: 0.
 - Compared with the source in this read: 42 of the 288 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 169 (new at the source, not published here yet: 106, held here, no longer at the source: 60, changed at the source since the version held here: 2, in force later: 1); with no reason: 0.
+- Not published: 169 (new at the source, not published here yet: 106, held here, no longer at the source: 60, in force later: 3); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).

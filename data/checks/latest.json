@@ -1,36 +1,36 @@
 {
- "generated": "2026-11-24T12:57:01Z",
+ "generated": "2026-11-24T15:04:08Z",
  "latest": {
   "lexwork-aargau|switzerland/aargau/acts": {
-   "attempt": 2,
+   "attempt": 3,
    "audit": null,
    "census": {
     "checked": 42,
-    "current": 286,
+    "current": 288,
     "gone": 0,
     "held": 288,
     "not_at_source": 60,
     "out_of_scope": 9,
-    "pending": 116,
+    "pending": 106,
     "repo": 288,
-    "source_in_scope": 402
+    "source_in_scope": 394
    },
-   "check_id": "ch-lexwork-aargau-20261124T125348Z",
+   "check_id": "ch-lexwork-aargau-20261124T142624Z",
    "commits": null,
    "corpus": "switzerland/aargau/acts",
-   "error": "RuntimeError: the kit's append gate: error: published head e8c7ba26a4b2475eada0bd30aeace86b4e249c9b timestamp 1795521508 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
-   "finished": "2026-11-24T12:57:00Z",
+   "error": "RuntimeError: the kit's append gate: error: published head 8bf9eab8ace92dda6369dbae96ad3894967af08a timestamp 1795525023 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
+   "finished": "2026-11-24T14:29:15Z",
    "flags": [],
    "gap": 169,
-   "note": "gesetzessammlungen.ag.ch: index of 463 acts (463 in force); held 288; 114 in force and in scope not held yet, 9 out of scope (land-use plans, concessions, directives, forms: as the builder), 52 published only as PDF; 42 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "note": "gesetzessammlungen.ag.ch: index of 463 acts (463 in force); held 288; 106 in force and in scope not held yet, 9 out of scope (land-use plans, concessions, directives, forms: as the builder), 60 published only as PDF; 42 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "failed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 176,
-   "runner": "lawwatch switzerland (d83546088b)",
+   "requests": 151,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
@@ -132,42 +132,31 @@
      "931.110",
      "935.030",
      "935.040",
-     "950.050",
-     "958.011",
      "959.200",
      "959.250",
      "963.372",
      "963.375",
      "965.030",
-     "991.010",
-     "991.020",
      "991.172",
-     "991.173",
-     "995.010",
      "995.011",
-     "995.030",
-     "997.010",
-     "997.030"
+     "995.030"
     ],
-    "changed": [
-     "165.175",
-     "271.215"
-    ],
+    "changed": [],
     "removed": []
    },
    "snapshot": "463 entries, 463 in force (gesetzessammlungen.ag.ch)",
    "source": "lexwork-aargau",
-   "started": "2026-11-24T12:53:48Z",
+   "started": "2026-11-24T14:26:24Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 106,
-    "nothing_new": 2,
+    "nothing_new": 0,
     "parts": [
      "95-watch-20261124-000-new.json"
     ],
-    "pdf_only": 8,
+    "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },
