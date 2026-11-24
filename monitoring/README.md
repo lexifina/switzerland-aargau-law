@@ -6,7 +6,7 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Aargau: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 11:58 UTC, Aargau: Systematische Sammlung (gesetzessammlungen.ag.ch): 473 Adressen gelesen; 166 hinzugefügt, 0 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 167 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-24 12:57 UTC, Aargau: Systematische Sammlung (gesetzessammlungen.ag.ch): 176 Adressen gelesen; 114 hinzugefügt, 2 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 169 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
@@ -18,6 +18,7 @@ Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.co
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 12:53](checks/2026-11.md#ch-lexwork-aargau-20261124t125348z) | lexwork-aargau | 176 | 114 | 2 | 0 | 169 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 11:50](checks/2026-11.md#ch-lexwork-aargau-20261124t115002z) | lexwork-aargau | 473 | 166 | 0 | 0 | 167 (0) | die Prüfung ist fehlgeschlagen | — |
 
 ## Selbst prüfen

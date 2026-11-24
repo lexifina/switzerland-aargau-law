@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Aargau only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 11:58 UTC, Aargau: systematic collection (gesetzessammlungen.ag.ch): 473 addresses read; 166 added, 0 changed, 0 removed; the check failed; 167 not published, 0 of them with no reason.
+**Last check:** 2026-11-24 12:57 UTC, Aargau: systematic collection (gesetzessammlungen.ag.ch): 176 addresses read; 114 added, 2 changed, 0 removed; the check failed; 169 not published, 0 of them with no reason.
 
 ## Sources
 
@@ -18,6 +18,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 12:53](checks/2026-11.md#ch-lexwork-aargau-20261124t125348z) | lexwork-aargau | 176 | 114 | 2 | 0 | 169 (0) | the check failed | — |
 | [2026-11-24 11:50](checks/2026-11.md#ch-lexwork-aargau-20261124t115002z) | lexwork-aargau | 473 | 166 | 0 | 0 | 167 (0) | the check failed | — |
 
 ## Check it yourself
