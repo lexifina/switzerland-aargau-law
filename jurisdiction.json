@@ -1,11 +1,11 @@
 {
-  "path": "ch-ag",
-  "code": "CH-AG",
-  "name": "Aargau",
-  "level": "canton",
-  "parent": "ch",
-  "repo": "https://github.com/lexifina/switzerland-aargau-law",
-  "build": "461 acts / 1371 recorded versions: 288 acts with consolidated histories plus 173 single-file current-text acts and 24 textual-annex units from the SAR; two scans and normative graphics remain outside the addition",
-  "language": "de",
-  "sources": 1
+ "path": "switzerland/aargau",
+ "code": "CH-AG",
+ "name": "Aargau",
+ "level": "canton",
+ "parent": "switzerland",
+ "repo": "https://github.com/lexifina/switzerland-aargau-law",
+ "build": "461 acts / 1371 recorded versions: 288 acts with consolidated histories plus 173 single-file current-text acts and 24 textual-annex units from the SAR; two scans and normative graphics remain outside the addition",
+ "language": "de",
+ "sources": 1
 }

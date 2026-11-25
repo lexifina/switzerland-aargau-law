@@ -1,6 +1,6 @@
 # How this repository was made (Aargau)
 
-This file is written by the build on 2026-11-05, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -476,20 +476,128 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `995-030` | Vereinbarung über den Tarifverbund A-Welle (SAR 995.030) | 1 | 2009-07-01 to 2009-07-01 |
 | `997-010` | Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau in Rheinschifffahrts- und Hafenangelegenheiten (SAR 997.010) | 1 | 1997-01-01 to 1997-01-01 |
 | `997-030` | Vereinbarung zwischen den Kantonen Luzern und Aargau über den Vollzug der Schifffahrtsvorschriften auf dem luzernischen Teil des Hallwilersees (SAR 997.030) | 1 | 2010-01-01 to 2010-01-01 |
+| `110-300-2` | Beschluss über Standesfarbe, Wappen und Siegel des Kantons | 1 | 1803-04-20 to 1803-04-20 |
+| `117-110-dbk` | Dekret über die Bezirks- und Kreiseinteilung | 5 | 2011-07-01 to 2026-01-01 |
+| `150-717-2` | Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität | 1 | 2019-12-11 to 2019-12-11 |
+| `150-721-archivverbund-dimag-schweiz` | Verwaltungsvereinbarung über die Zusammenarbeit von Schweizer Kantonen bezüglich Errichtung und Betrieb eines Verbundes für die Archivierung elektronischer Unterlagen | 1 | 2019-12-03 to 2019-12-03 |
+| `150-920-dob` | Dekret über das öffentliche Beschaffungswesen | 1 | 2021-07-01 to 2021-07-01 |
+| `150-960-ivob` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2021-07-01 to 2021-07-01 |
+| `152-020-2` | Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz | 1 | 2023-02-25 to 2023-02-25 |
+| `152-210-geschaftsordnung-go` | Dekret über die Geschäftsführung des Grossen Rates | 11 | 2009-01-01 to 2026-01-01 |
+| `153-010-2` | Vereinbarung über die Nordwestschweizer Regierungskonferenz | 1 | 2025-07-01 to 2025-07-01 |
+| `153-520-2` | Dekret über die Besoldung der Mitglieder des Regierungsrats | 2 | 2008-04-01 to 2015-01-01 |
+| `153-560-vorsorgedekret-rr-vdrr` | Dekret über die berufliche Vorsorge für die Mitglieder des Regierungsrats und die Übergangsleistungen beim Ausscheiden aus dem Amt | 1 | 2017-01-01 to 2017-01-01 |
+| `155-520-2` | Dekret über die Besoldung der Mitglieder des Obergerichts | 2 | 2008-04-01 to 2013-01-01 |
+| `155-560-2` | Dekret über die Entschädigung der nebenamtlichen Richterinnen und Richter | 3 | 2011-01-01 to 2013-04-01 |
+| `155-900-2` | Geschäftsordnung des Justizgerichts des Kantons Aargau | 1 | 2013-11-01 to 2013-11-01 |
+| `160-120-2` | Dekret über die Form der Inpflichtnahmen | 1 | 2003-01-01 to 2003-01-01 |
+| `163-120-pensionskassendekret` | Dekret über die Aargauische Pensionskasse | 4 | 2008-01-01 to 2024-01-01 |
+| `165-111-plv` | Personal- und Lohnverordnung | 10 | 2010-09-01 to 2026-01-01 |
+| `165-130-lohndekret` | Dekret über die Löhne des kantonalen Personals | 7 | 2009-07-01 to 2024-01-01 |
+| `165-170-2` | Dekret über Spesen, Sitzungsgelder und übrige Entschädigungen | 4 | 2001-04-01 to 2024-07-01 |
+| `165-320-dvpen` | Dekret über die vorzeitige Pensionierung und die Entschädigungen bei Nichtwiederwahl | 2 | 2011-01-01 to 2012-09-01 |
+| `171-180-2` | Rahmenvertrag zwischen dem Kanton Aargau und dem Kanton Zürich über die Zusammenarbeit zwischen den Gemeinden | 1 | 2021-01-01 to 2021-01-01 |
+| `181-131-2` | Kooperationsvereinbarung über die Erneuerung der Hochrheinkommission | 2 | 2006-06-28 to 2016-01-01 |
+| `181-200-pti-vereinbarung-vpti` | Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz | 1 | 2021-01-01 to 2021-01-01 |
+| `181-400-vhis` | Vereinbarung zwischen den Kantonen und dem Bund über die Harmonisierung der Informatik in der Strafjustiz | 1 | 2025-07-01 to 2025-07-01 |
+| `197-100-2` | Tagsatzungsbeschluss über den Eidgenössischen Bettag | 1 | 1832-08-01 to 1832-08-01 |
+| `210-115-ausfuhrungsbestimmungen-bvsa` | Ausführungsbestimmungen zur BVG- und Stiftungsaufsicht Aargau | 3 | 2013-08-01 to 2024-01-01 |
+| `210-120-gebuhrenordnung-bvsa` | Gebührenordnung der BVG- und Stiftungsaufsicht Aargau | 5 | 2013-01-01 to 2021-04-01 |
+| `210-170-2` | Dekret über die Zivilstandskreise | 3 | 2004-01-01 to 2018-01-01 |
+| `210-701-2` | Vereinbarung der Kantone Aargau und Solothurn über die BVG-Aufsicht | 1 | 2018-01-01 to 2018-01-01 |
+| `221-200-eg-zpo` | Einführungsgesetz zur Schweizerischen Zivilprozessordnung | 7 | 2011-01-01 to 2022-01-01 |
+| `251-200-eg-stpo` | Einführungsgesetz zur Schweizerischen Strafprozessordnung | 9 | 2011-01-01 to 2024-07-01 |
+| `251-300-eg-jstpo` | Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung | 5 | 2011-01-01 to 2021-07-01 |
+| `253-710-2` | Dekret über die Begnadigung | 2 | 2007-01-01 to 2011-01-01 |
+| `291-150-anwaltstarif` | Dekret über die Entschädigung der Anwälte | 7 | 2007-01-01 to 2024-01-01 |
+| `295-211-beurv` | Beurkundungs- und Beglaubigungsverordnung | 4 | 2013-01-01 to 2025-01-01 |
+| `295-250-2` | Dekret über den Notariatstarif | 2 | 2013-01-01 to 2025-01-01 |
+| `301-170-vereinbarung-ethikkommission-nordwest-und-zentralschweiz-eknz` | Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz | 1 | 2014-01-01 to 2014-01-01 |
+| `311-010-nareg-vo` | Verordnung zum Register über die Gesundheitsfachpersonen NAREG | 1 | 2022-02-01 to 2022-02-01 |
+| `313-320-depg` | Dekret über die Entschädigung von nebenamtlich tätigen Personen im Gesundheitswesen | 7 | 2007-09-01 to 2017-01-01 |
+| `331-020-weiterbildungsfinanzierungsvereinbarung-wfv` | Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen | 1 | 2022-01-01 to 2022-01-01 |
+| `351-115-hbv` | Heilmittel- und Betäubungsmittelverordnung | 5 | 2010-05-25 to 2026-03-01 |
+| `400-300-rsa-2009` | Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen | 5 | 2013-08-01 to 2026-08-01 |
+| `400-400-2` | Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte | 3 | 2024-01-01 to 2026-08-01 |
+| `400-510-hfsv` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2015-03-01 to 2015-03-01 |
+| `400-562-berufsfachschulvereinbarung-bfsv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung | 2 | 2013-08-01 to 2014-08-01 |
+| `400-700-2` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 3 | 2008-01-01 to 2017-01-01 |
+| `411-210-lohndekret-lehrpersonen-ldlp` | Dekret über die Löhne der Lehrpersonen | 11 | 2009-07-01 to 2026-08-01 |
+| `411-250-gemeindebeteiligungsdekret-gbd` | Dekret über die Beteiligung der Gemeinden am Personalaufwand der Volksschulen und Kindergärten | 11 | 2010-01-01 to 2026-08-01 |
+| `413-110-lpv-dekret` | Dekret über die Personalvorsorge für Lehrpersonen an der Volksschule | 1 | 2003-08-26 to 2003-08-26 |
+| `413-310-uberfuhrungs-dekret` | Dekret über die Überführung der Personalvorsorge für Lehrpersonen an der Volksschule in die Aargauische Pensionskasse | 1 | 2008-01-01 to 2008-01-01 |
+| `420-540-2` | Vertrag über die Aufnahme von Schülerinnen und Schülern des Kantons Aargau an Basler Gymnasien | 1 | 2024-08-01 to 2024-08-01 |
+| `426-070-2` | Staatsvertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW) | 1 | 2012-01-01 to 2012-01-01 |
+| `427-150-hochschulkonkordat` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich | 2 | 2015-01-01 to 2017-01-01 |
+| `427-400-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 1 | 2022-01-01 to 2022-01-01 |
+| `428-030-ivse` | Interkantonale Vereinbarung für Soziale Einrichtungen | 2 | 2008-01-01 to 2020-06-01 |
+| `471-210-stipendiendekret-stipd` | Dekret über die Höchstansätze der Ausbildungsbeiträge | 2 | 2007-08-01 to 2018-08-01 |
+| `471-500-2` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2014-04-27 to 2014-04-27 |
+| `490-710-romervertrag` | Vertrag über die Römerstadt Augusta Raurica | 1 | 2026-01-01 to 2026-01-01 |
+| `495-010-interkantonale-kulturlastenvereinbarung` | Vereinbarung über die interkantonale Zusammenarbeit im Bereich überregionaler Kultureinrichtungen | 3 | 2010-01-01 to 2025-01-01 |
+| `495-228-2` | Benutzungs- und Gebührenreglement Aargauer Kantonsbibliothek | 1 | 2023-09-01 to 2023-09-01 |
+| `495-245-2` | Benutzungsordnung Staatsarchiv Aargau | 1 | 2016-07-01 to 2016-07-01 |
+| `530-033-2` | Verwaltungsvereinbarung zwischen dem Kanton Aargau und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartemement über die Zusammenarbeit zwischen der Kantonspolizei Aargau und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung | 2 | 2009-03-13 to 2014-10-01 |
+| `530-035-2` | Verwaltungsvereinbarung betreffend die Delegation von polizeilichen Ermittlungs- und Untersuchungshandlungen | 1 | 2014-07-07 to 2014-07-07 |
+| `530-041-ikapol` | Vereinbarung über die interkantonalen Polizeieinsätze | 2 | 2006-11-09 to 2025-01-01 |
+| `531-210-polizeidekret-pold` | Dekret über die Gewährleistung der öffentlichen Sicherheit | 3 | 2007-01-01 to 2026-08-01 |
+| `533-100-2` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 2 | 2013-07-01 to 2014-01-07 |
+| `585-115-2` | Beschluss des Interkantonalen Organs Technische Handelshemmnisse (IOTH) | 2 | 2015-01-01 to 2019-01-01 |
+| `585-153-gebuhrentarif-brandschutz` | Tarif über die Erhebung von Gebühren in Brandschutzangelegenheiten | 2 | 2022-01-01 to 2024-10-01 |
+| `612-310-daf` | Dekret über die wirkungsorientierte Steuerung von Aufgaben und Finanzen | 8 | 2013-08-01 to 2026-07-01 |
+| `612-320-aufgabenverschiebungsdekret-avd` | Dekret über den finanziellen Feinausgleich der Aufgabenverschiebungen zwischen dem Kanton und den Gemeinden | 2 | 2017-12-31 to 2023-01-01 |
+| `615-210-finanzausgleichsdekret-fiad` | Dekret über den Finanzausgleich zwischen den Gemeinden | 1 | 2017-12-31 to 2017-12-31 |
+| `651-110-2` | Dekret über die Möglichkeit von Steuererleichterungen | 1 | 2009-01-01 to 2009-01-01 |
+| `651-140-2` | Dekret über die Anpassung der Eigenmietwerte per 1. Januar 2016 | 1 | 2016-01-01 to 2016-01-01 |
+| `661-710-gemeindegebuhrendekret-ggebd` | Dekret über Gebühren für Amtshandlungen der Gemeinden | 5 | 2010-01-01 to 2024-07-01 |
+| `662-110-gebuhrd` | Gebührendekret | 1 | 2024-07-01 to 2024-07-01 |
+| `671-830-2` | Dekret über die Sicherung der öffentlichen Heilquellen und das Graben nach solchen in Baden und Ennetbaden | 2 | 2007-01-01 to 2013-01-01 |
+| `673-325-avb-gebaudewasser` | Allgemeine Versicherungsbedingungen für die Gebäudewasserversicherung | 6 | 2012-07-01 to 2025-01-01 |
+| `673-343-tarif-gebaudewasser` | Tarif für die Gebäudewasserversicherung der Aargauischen Gebäudeversicherung | 5 | 2012-01-01 to 2025-01-01 |
+| `673-346-tarif-feuer-elementar` | Tarif für die Feuer- und Elementarschadenversicherung der Aargauischen Gebäudeversicherung | 2 | 2012-01-01 to 2020-01-01 |
+| `681-121-2` | Geschäfts- und Organisationsreglement der Aargauischen Kantonalbank | 5 | 2008-08-27 to 2025-04-02 |
+| `713-510-2` | Dekret über die Beiträge an die Raumplanung | 5 | 2010-01-01 to 2026-07-01 |
+| `725-110-2` | Dekret über die Grundbuchgebühren | 3 | 2009-07-01 to 2018-01-01 |
+| `761-520-reussuferschutzdekret-rud` | Dekret über den Schutz der Reuss und ihrer Ufer unterhalb Bremgarten | 2 | 2006-06-26 to 2018-06-30 |
+| `761-530-wasserschlossdekret-wsd` | Dekret über den Schutz des Mündungsgebietes Aare–Reuss–Limmat | 3 | 2003-08-30 to 2018-06-30 |
+| `761-560-2` | Dekret über den Schutz des Klingnauer Stausees und seiner Umgebung | 2 | 1989-07-01 to 2023-08-28 |
+| `764-110-wnd` | Wassernutzungsabgabendekret | 4 | 2008-09-01 to 2024-07-01 |
+| `773-330-2` | Dekret über den Leistungsauftrag der AEW Energie AG | 2 | 1999-09-28 to 2025-08-30 |
+| `785-110-nld` | Dekret über den Natur- und Landschaftsschutz | 3 | 2007-01-01 to 2017-01-01 |
+| `787-310-2` | Dekret über das Naturschutzgebiet Fronwaldwiese bei Arni | 1 | 1973-12-19 to 1973-12-19 |
+| `787-311-2` | Nutzungsordnung über das Naturschutzgebiet Fronwaldwiese bei Arni | 2 | 2005-09-01 to 2011-09-01 |
+| `787-320-lagernschutzdekret` | Dekret zum Schutze des Landschaftsbildes der Lägern und des Geissberges | 1 | 2005-08-01 to 2005-08-01 |
+| `787-330-reusstaldekret-rtd` | Dekret über den Schutz der Landschaft und die Nutzung im Gebiet der Reusstalsanierung | 2 | 2003-06-30 to 2018-06-30 |
+| `787-350-hallwilerseeschutzdekret` | Dekret zum Schutze der Hallwilerseelandschaft | 1 | 2007-10-01 to 2007-10-01 |
+| `837-140-dpv` | Dekret zur Prämienverbilligung | 10 | 2017-01-01 to 2026-09-01 |
+| `851-211-spv` | Sozialhilfe- und Präventionsverordnung | 26 | 2009-01-01 to 2026-01-01 |
+| `931-110-walddekret-awad` | Dekret zum Waldgesetz des Kantons Aargau | 3 | 2003-01-01 to 2024-11-01 |
+| `935-030-2` | Übereinkunft betreffend die Ausübung der Fischerei in der Aare, soweit diese die Grenze zwischen den Kantonen Aargau und Solothurn bildet | 1 | 2009-04-01 to 2009-04-01 |
+| `935-040-2` | Übereinkunft über den Fischfang im Hallwilersee | 1 | 2022-01-01 to 2022-01-01 |
+| `959-200-gsk` | Gesamtschweizerisches Geldspielkonkordat | 1 | 2021-01-01 to 2021-01-01 |
+| `959-250-ikv-2020` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 1 | 2021-01-01 to 2021-01-01 |
+| `963-372-2` | Normalarbeitsvertrag über das Arbeitsverhältnis in der Landwirtschaft | 2 | 2007-01-01 to 2018-01-01 |
+| `963-375-nav-hauspersonal` | Normalarbeitsvertrag für Hauspersonal | 1 | 2020-01-01 to 2020-01-01 |
+| `965-030-2` | Staatsvertrag der Kantone Aargau und Bern über den Vollzug der Bundesgesetzgebung über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten | 1 | 2014-01-01 to 2014-01-01 |
+| `991-172-2` | Vereinbarung zwischen den Kantonen Zug und Aargau über die Durchführung von amtlichen, periodischen Nachprüfungen von Fahrzeugen | 1 | 2016-01-01 to 2016-01-01 |
+| `995-011-2` | Grossratsbeschluss über den Abschluss der Vereinbarung betreffend den integralen Tarifverbund Nordwestschweiz (TNW) ab 1. Januar 1990 | 1 | 1990-01-01 to 1990-01-01 |
+| `995-030-2` | Vereinbarung über den Tarifverbund A-Welle | 1 | 2009-07-01 to 2009-07-01 |
 
-The build made 1080 commits:
+The build made 1387 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 461 | first version of an act |
-| 618 | one law on its in-force day |
+| 300 | baseline texts where the record starts |
+| 1086 | named laws, court decisions and treaties |
 | 1 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 6 commits on the branch `zukunft`: laws not yet in force on 2026-11-05.
-- 17 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1149 laws in the record.
-- 2113 tags.
+- 6 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 19 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 1516 laws in the record.
+- 2665 tags.
 
 ## Dates
 
@@ -501,15 +609,15 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e98ee84b2f4f67f99adf8e5bd7ff58c4be448caf021c6270becca2cf98505a8f` (12784902 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `8389e6cfe157d33c0e0843341c05fa6a463d483f114849509e3a020e69e752e9` (15111501 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-1371 versions of 461 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 1074 history commits and 2111 tags (history tip `af408d4562dd79caa8311720c83b4728023b18e1`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
@@ -526,7 +634,7 @@ A second build from the same corpus into an empty folder gave identical hashes f
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 

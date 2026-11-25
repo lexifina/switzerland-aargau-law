@@ -1,0 +1,21 @@
+{
+ "corpus": "ch/aargau/acts",
+ "path": "switzerland/aargau/acts",
+ "scope": "selected-acts",
+ "acts": 567,
+ "future_branch": "zukunft",
+ "publisher": "Kanton Aargau, SAR (gesetzessammlungen.ag.ch)",
+ "name": "Aargau",
+ "language": "de",
+ "coverage": "567 acts of Aargau with every dated version the source gives (1679 versions), in force from 1803-04-20 to 2026-11-05",
+ "history": "in-force",
+ "history_from": "1803-04-20",
+ "record_to": "2026-11-05",
+ "checked_on": "2026-11-25",
+ "record_note": "Texts from Kanton Aargau, SAR (gesetzessammlungen.ag.ch).",
+ "in_force_trailer": "In-force",
+ "citation": {
+  "file": "([^/]+)/art-0*([0-9]+[a-z]?)\\.md",
+  "cites": "Art(ikel|\\.) ?{n}([^0-9a-z]|$)"
+ }
+}
