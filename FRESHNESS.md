@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Aargau: Systematische Sammlung (gesetzessammlungen.ag.ch) · `switzerland/aargau/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **noch nicht**.
-- Vorschriften hier: 288; aktuell gegenüber der Quelle: 288; an der Quelle geändert seit der Fassung hier: 106; nicht mehr an der Quelle: 0.
-- In diesem Lesen mit der Quelle verglichen: 42 der 288 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
-- Nicht veröffentlicht: 169 (neu an der Quelle, hier noch nicht veröffentlicht: 106, hier vorhanden, an der Quelle nicht mehr: 60, tritt später in Kraft: 3); ohne Grund: 0.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 05:40 UTC**.
+- Vorschriften hier: 288; aktuell gegenüber der Quelle: 287; an der Quelle geändert seit der Fassung hier: 107; nicht mehr an der Quelle: 0.
+- In diesem Lesen mit der Quelle verglichen: 148 der 288 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
+- Nicht veröffentlicht: 65 (hier vorhanden, an der Quelle nicht mehr: 60, an der Quelle geändert seit der Fassung hier: 1, tritt später in Kraft: 4); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).

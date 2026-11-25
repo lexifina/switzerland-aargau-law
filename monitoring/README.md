@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Aargau: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 14:29 UTC, Aargau: Systematische Sammlung (gesetzessammlungen.ag.ch): 151 Adressen gelesen; 106 hinzugefügt, 0 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 169 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-25 05:40 UTC, Aargau: Systematische Sammlung (gesetzessammlungen.ag.ch): 348 Adressen gelesen; 106 hinzugefügt, 1 geändert, 0 entfernt; Änderungen gefunden; 65 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Aargau: Systematische Sammlung (gesetzessammlungen.ag.ch)](https://gesetzessammlungen.ag.ch/) | `<act>/` | täglich | — | die Prüfung ist fehlgeschlagen | beobachtet |
+| [Aargau: Systematische Sammlung (gesetzessammlungen.ag.ch)](https://gesetzessammlungen.ag.ch/) | `<act>/` | täglich | 2026-11-25 05:40 UTC | Änderungen gefunden | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 05:28](checks/2026-11.md#ch-lexwork-aargau-20261125t052825z) | lexwork-aargau | 348 | 106 | 1 | 0 | 65 (0) | Änderungen gefunden | [308](https://github.com/lexifina/switzerland-aargau-law/compare/2c0ba20e1ae3...a01fc47b704f) |
 | [2026-11-24 14:26](checks/2026-11.md#ch-lexwork-aargau-20261124t142624z) | lexwork-aargau | 151 | 106 | 0 | 0 | 169 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 12:53](checks/2026-11.md#ch-lexwork-aargau-20261124t125348z) | lexwork-aargau | 176 | 114 | 2 | 0 | 169 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 11:50](checks/2026-11.md#ch-lexwork-aargau-20261124t115002z) | lexwork-aargau | 473 | 166 | 0 | 0 | 167 (0) | die Prüfung ist fehlgeschlagen | — |
