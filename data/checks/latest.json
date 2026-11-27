@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:16:46Z",
+ "generated": "2026-11-27T07:11:20Z",
  "latest": {
   "lexwork-aargau|switzerland/aargau/acts": {
    "attempt": 1,
@@ -14,22 +14,22 @@
    },
    "census": {
     "checked": 57,
-    "current": 393,
+    "current": 392,
     "gone": 0,
     "held": 394,
     "not_at_source": 60,
     "out_of_scope": 9,
-    "pending": 1,
+    "pending": 2,
     "repo": 394,
     "source_in_scope": 394
    },
-   "check_id": "ch-lexwork-aargau-20261126T053453Z",
+   "check_id": "ch-lexwork-aargau-20261127T053614Z",
    "commits": null,
    "corpus": "switzerland/aargau/acts",
    "error": null,
-   "finished": "2026-11-26T05:37:08Z",
+   "finished": "2026-11-27T05:39:02Z",
    "flags": [],
-   "gap": 66,
+   "gap": 65,
    "note": "gesetzessammlungen.ag.ch: index of 463 acts (463 in force); held 394; 0 in force and in scope not held yet, 9 out of scope (land-use plans, concessions, directives, forms: as the builder), 60 published only as PDF; 57 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "changed",
    "published": {
@@ -37,25 +37,26 @@
     "changed": [],
     "removed": []
    },
-   "requests": 111,
+   "requests": 152,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [
-     "427.150"
+     "651.313",
+     "651.712"
     ],
     "removed": []
    },
    "snapshot": "463 entries, 463 in force (gesetzessammlungen.ag.ch)",
    "source": "lexwork-aargau",
-   "started": "2026-11-26T05:34:53Z",
+   "started": "2026-11-27T05:36:14Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
-    "nothing_new": 1,
+    "nothing_new": 2,
     "parts": [],
     "pdf_only": 0,
     "re_read": 0,
@@ -70,7 +71,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 57,
-    "versions_checked": 253,
+    "versions_checked": 189,
     "versions_differ": 0
    }
   }
