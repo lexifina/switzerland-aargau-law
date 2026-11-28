@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Aargau: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-27 05:39 UTC, Aargau: Systematische Sammlung (gesetzessammlungen.ag.ch): 152 Adressen gelesen; 0 hinzugefügt, 2 geändert, 0 entfernt; Änderungen gefunden; 65 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-28 05:37 UTC, Aargau: Systematische Sammlung (gesetzessammlungen.ag.ch): 196 Adressen gelesen; 0 hinzugefügt, 1 geändert, 0 entfernt; Änderungen gefunden; 61 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Aargau: Systematische Sammlung (gesetzessammlungen.ag.ch)](https://gesetzessammlungen.ag.ch/) | `<act>/` | täglich | 2026-11-27 05:39 UTC | Änderungen gefunden | beobachtet |
+| [Aargau: Systematische Sammlung (gesetzessammlungen.ag.ch)](https://gesetzessammlungen.ag.ch/) | `<act>/` | täglich | 2026-11-28 05:37 UTC | Änderungen gefunden | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:34](checks/2026-11.md#ch-lexwork-aargau-20261128t053430z) | lexwork-aargau | 196 | 0 | 1 | 0 | 61 (0) | Änderungen gefunden | — |
 | [2026-11-27 05:36](checks/2026-11.md#ch-lexwork-aargau-20261127t053614z) | lexwork-aargau | 152 | 0 | 2 | 0 | 65 (0) | Änderungen gefunden | — |
 | [2026-11-26 05:34](checks/2026-11.md#ch-lexwork-aargau-20261126t053453z) | lexwork-aargau | 111 | 0 | 1 | 0 | 66 (0) | Änderungen gefunden | — |
 | [2026-11-25 05:28](checks/2026-11.md#ch-lexwork-aargau-20261125t052825z) | lexwork-aargau | 348 | 106 | 1 | 0 | 65 (0) | Änderungen gefunden | [308](https://github.com/lexifina/switzerland-aargau-law/compare/2c0ba20e1ae3...a01fc47b704f) |
